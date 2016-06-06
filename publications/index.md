@@ -22,3 +22,13 @@ Conference papers
 * Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition - 3rd edition](http://www.springerlink.com/content/jv23737805830r7v/), Lecture Notes in Artificial Intelligence, Springer, 2008
 * Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The Second Contest on Multi-Agent Systems based on Computational Logic](http://www.springerlink.com/content/6301736r74120605/), Lecture Notes in Artificial Intelligence, Springer, 2007
 * Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The first contest on multi-agent systems based on computational logic](http://www.springerlink.com/content/x94625u38l406k7h/), Lecture Notes in Artificial Intelligence, Volume 3900, Springer, 2006
+
+Articles
+--------
+
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Hübner, Jomi and Köster, Michael and Novák, Peter and Schlesinger, Federico: [The Multi-Agent Programming Contest](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2439), AI Magazine, Volume 33, Number 4, pg 111-113, 2012.
+* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
+* Behrens, Tristan and Hindriks, Koen and Dix, Jürgen: [Towards an environment interface standard for agent platforms](http://www.springerlink.com/content/v10u63368k117354/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, 2011
+* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](http://www.springerlink.com/content/n412r60355226522/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
+* Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
