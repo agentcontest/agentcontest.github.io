@@ -1,7 +1,7 @@
 ---
 title: Steering Committee
 layout: page
-permalink: /steering-commitee/
+permalink: /steering-committee/
 ---
 
 Members
