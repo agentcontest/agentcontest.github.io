@@ -1,0 +1,117 @@
+\documentclass{llncs}
+
+
+\begin{document}
+\title{System Description Template}
+\author{[Author]}
+\institute{[Institute]}
+ \maketitle
+\begin{abstract}
+Please follow the given template structure for your submission by
+answering the questions as concisely as possible, not exceeding the
+total of \textbf{5} pages. It is vital to explain in this submission
+1) \textit{a description of the team strategy (or strategies)} that
+you plan to use in the contest, 2) \textit{a discussion on the
+experience} gathered in the course of developing the agent team so
+far, and 3) some \textit{feedback} about the contest organization,
+the proposed scenario, and the setup would be a valuable information
+for organizing this and future editions of the contest. An important
+topic is to explain whether your system is already a truly
+multi-agent system or rather a (single) agent system, that you are
+planning to extend into a multi agent system in the future. The
+submissions should be send by email to J\"urgen Dix 
+(\url{dix@tu-clausthal.de}) no later
+than March 7th (extended deadline). If modifications are necessary,
+we will directly ask you to submit a final version on March 12th.
+\end{abstract}
+
+
+\section{Introduction}
+
+\section{System Analysis and Design}
+
+\begin{enumerate}
+  \item How is your system  specified and designed?
+  \item Did you use any existing multi-agent system
+  methodology such as Prometheus, Gaia or Tropos?
+  \item Which strategies and algorithms do you plan to use?
+  \item How are the following agent features implemented:
+  \emph{autonomy}, \emph{proactiveness}
+  and \emph{communication}m \emph{team working}, and \emph{coordination}?
+  \item Is your system a truly \textbf{multi}-agent system or
+  rather a centralised system in disguise?
+\end{enumerate}
+
+
+
+\section{Software Architecture}
+
+\begin{enumerate}
+  \item Which programming language do you plan to use to implement the multi-agent system?
+  \item How would you map the designed architecture (both multi-agent and individual agent architectures)
+    to programming codes, i.e., how would you implement specific agent-oriented
+    concepts and designed artifacts using the programming language?
+  \item Which development platform, tools and techniques are you planning to use?
+
+\end{enumerate}
+Please give reasons why you have chosen the methods explained above.
+
+\section{Agent team strategy}
+
+Please address the following points, or at least comment if not applicable:
+
+\begin{enumerate}
+    \item Describe the navigation algorithms:
+        \begin{itemize}
+            \item obstacle avoiding
+            \item strategy for finding and herding cows
+            \item opponent blocking
+        \end{itemize}
+    \item Describe the team coordination strategy (if any)
+    \item Does your team strategy use some distributed optimization
+        technique w.r.t. e.g.  minimizing distances walked by the
+        agents?
+    \item Describe and discuss the information exchanged (and shared) in
+        the agent team.
+    \item Describe the communication strategy in the agent team. Can you
+        estimate the communication complexity in your approach?
+    \item Did you system do some background processing? Under background
+        processing we understand some computation which happened while agents of
+        the team were \textit{idle}, i.e. between sending an action
+        message to the simulation server and receiving a perception
+        message for the subsequent simulation step.
+    \item Possibly discuss additional technical details of your system like
+        e.g. failure/crash recovery and alike.
+\end{enumerate}
+
+\section{Discussion}
+In this section please expand a bit on your experience with the
+contest organization, the proposed scenario, and the setup of the
+actual contest. Please indicate what do you see as pros/cons of
+participating in the Contest with respect to your research in the
+field.
+\begin{enumerate}
+    \item Critical discussion of your approach to the development of the
+        agent team.
+    \item Would you gain some insights/experiences into developing multi-agent system in
+        the course of participating in the Agent Contest so far? If so,
+        what kind of?
+    \item Do you think that the Agent Contest can served its
+        purpose to provide a testbed for state-of-the-art multi-agent
+        systems development frameworks?
+    \item Describe and discuss possible problems that you face in choosing approach, programming
+        platform or technical infrastructure to participate in this contest?
+\end{enumerate}
+
+
+\section{Conclusion}
+
+
+\end{document}
+
+\section*{Additional feedback}
+Additionally, we would like to ask you to provide us with a feedback to the
+organization of the Agent Contest 2007. Several suggestions were already
+collected during the Contest via personal communication on the AC'07 mailing
+list. However, now with a time distance, do you have any additional comments,
+suggestions or complaints?
