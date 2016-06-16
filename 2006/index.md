@@ -6,8 +6,6 @@ layout: page
 Overview
 --------
 
-![Gold miners](goldminers.png)
-
 This contest was organzied as part of the **CLIMA VII workshop** collocated with **AAMAS'06** conference in Hakodate, Japan.
 
 * **Submission of the description:** February 10, 2006

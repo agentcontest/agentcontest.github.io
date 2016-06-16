@@ -1,0 +1,438 @@
+
+	      *** Multi-Agent Programming Contest 2007 ***
+			  - contest scenario -
+			    (fixed version)
+
+		Mehdi Dastani, Juergen Dix, Peter Novak
+	    http://cig.in.tu-clausthal.de/AgentContest2007/
+
+
+*** Scenario: Gold Rush
+The rumor has it that in 2006 the first expeditions of prospectors set
+out for the unexplored deep forests in inner western Carpathians and
+shortly after their return some of those miners became major players on
+the German stock exchange. This started a golden rush in the area and
+large teams of well equipped miners and prospectors are trying to make
+their way to the mountains and collect as much gold as possible. 
+
+Teams of gold miners find themselves exploring the same area, avoiding
+trees and bushes and competing for the gold nuggets spread around the
+woods. The gold miners of each team coordinate their actions in order to
+collect as much gold as they can and to deliver it to the trading agent
+located in a depot where the gold is safely stored. However, this
+adventure is also quite dangerous as meeting a member of a different
+team often results in a violence.
+
+
+*** Technical Description of the Scenario
+
+** General Description
+Before the tournament, agent teams will be randomly divided into groups.
+In the case of few participating teams, these will form a single group.
+Each team from one group will compete against all other teams in the
+same group in a series of matches. The winners from these groups form a
+new group. Each team in a new group will again play against all other
+teams in the group in a series of matches. A single match between two
+competing teams will consist of several (odd number of) simulations.  A
+simulation between two teams is a competition between them with respect
+to a certain configuration of the environment. Winning a simulation
+yields 3 points for the team, draw 1 point and loss 0. The winner of the
+whole tournament is evaluated on the basis of the overall number of
+collected points in the matches during the tournament. In the case of
+equal number of points, the winner will be decided on the basis of the
+absolute number of collected gold items. Details on the number of
+simulations per match and the exact structure of the competition will
+depend on the number of participating teams and will be specified later.
+
+In the contest, the agents from each participating team will be executed
+locally (on the participant's hardware) while the simulated environment,
+in which all agents from competing teams perform actions, is run on the
+remote contest simulation server run by the contest organizers. The
+interaction/communication between agents from one team should be managed
+locally, but the interaction between individual agents and their
+environment (run on the simulation server) will be via Internet.
+Participating agents connect to the simulation server that provides the
+information about the environment. Each agent from each team should
+connect and communicate to the simulation server using one TCP
+connection.
+
+After the initial phase, during which agents from all competing teams
+connect to the simulation server, identify and authenticate themselves
+and get a general match information, the competition will start. The
+simulation server controls the competition by selecting the competing
+teams and managing the matches and simulations. In each simulation, the
+simulation server, in a cyclic fashion, provides sensory information
+about the environment to the participating agents and expects their
+reactions within a given time limit. Each agent reacts to the received
+sensory information by indicating which action (including the skip
+action) it wants to perform in the environment. If no reaction is
+received from the agent within the given time limit, the simulation
+server assumes that the agent performs the skip action. Agents have only
+a local view on their environment, their perceptions can be incomplete,
+and their actions may fail. After a finite number of steps the
+simulation server stops the cycle and participating agents receive a
+notification about the end of a simulation. Then the server starts a new
+simulation possibly involving the same teams.
+
+** Preparation stage and Communication protocol
+Several days before the start of the competition, the contest organisers
+will contact participants via e-mail with details on time and Internet
+coordinates (IP addresses/ports) of the simulation server. Participants
+will also receive agent IDs and passwords necessary for authentication
+of their agents for the tournament. Agents communicate with the
+simulation server using TCP protocol and by means of messages in XML
+format. The details about communication protocol and message format will
+be specified later. 
+
+- Important remark
+Note that each agent has to connect to the simulation server from a
+separate IP address! Teams not obeying this rule will be disqualified
+and disconnected from the simulation server during the tournament.
+
+
+** Initial Phase
+At the announced start time of the tournament, the simulation server
+will go on-line, so that agents from participating teams will be able to
+connect. After a successful initial handshake during which agents will
+identify themselves by their IDs and receiving acknowledgment from the
+server, they should wait for the simulation start. The initial
+connecting phase will take a reasonable amount of time in order to allow
+agents to be initialised and connected and will not be less than 5
+minutes. The details will be announced later.
+
+
+** Team, Match, and Simulation
+An agent team consists of 6 software agents with distinct IDs. There are
+no restrictions on the implementation of agents, although we encourage
+the use of approaches based on the state-of-the-art tools, methodologies
+and languages for programming agents and multi-agent systems as well as
+the use of computational logic based approaches. The tournament consists
+of a number of matches. A match is a sequel of simulations during which
+two teams of agents compete in several different settings of the
+environment. For each match, the server will 1) pick two teams to play
+it and subsequently 2) start the first simulation of the match. Each
+simulation in a match starts by notifying the agents from the
+participating teams and sending them the details of the simulation.
+These will include for example the size of the grid, depot position, the
+number of steps the simulation will perform, etc. A simulation consists
+of a number of simulation steps. Each step consists of 1) sending a
+sensory information to agents (one or more) and 2) waiting for their
+actions. In the case that ian agent does not respond within a timeout
+(specified at the beginning of the simulation) by a valid action, it is
+considered to perform the skip action in the given simulation step. 
+
+- Environment objects
+The (simulated) environment is a rectangular grid consisting of cells.
+The size of the grid is specified at the start of each simulation and is
+variable. However, it cannot be more than 100x100 cells. The [0,0]
+coordinate of the grid is in the top-left corner (north-west). The
+simulated environment contains one depot, which serves for both teams as
+a location of delivery of gold items. The environment can contain the
+following objects in its cells:
+    - obstacle (a cell with an obstacle cannot be visited by an agent)
+    - gold (an item which can be picked from a cell)
+    - agent
+    - depot (a cell to which gold items are to be delivered in order
+      to earn a point in a simulation)
+    - mark (a string data with a maximum of 5 characters which can be
+      read/written/rewritten/removed by an agent)
+There can be only one object in a cell, except that an agent can enter
+cells containing gold, depot or mark. A gold item can be in a marked
+cell visited by an agent. At the beginning of a simulation the grid
+contains obstacles, gold items and agents of both teams. Distribution of
+obstacles, gold items and initial positions of agents can be either hand
+crafted for the particular scenario, or completely random. During the
+simulation, gold items can appear randomly in empty cells of the grid.
+The frequency and probability of gold generation will be simulation
+specific, however not known to neither agents, nor participants. At the
+start of each simulation agents will get the details of the environment
+(grid size, depot position, etc.).  Agents will get information about
+their initial position in the perception information of the first
+simulation step.
+
+- Perception
+Agents are located in the grid and the simulation server provides each
+agent with the following information:
+    - absolute position of the agent in the grid
+    - the content of the cells surrounding the agent and the content of
+      the cell in which the agent currently stands in (9 cells in total)
+    - number of gold items the agent currently holds
+If two agents are standing in each other's field of view, they will be
+able to recognise whether they are enemies, or whether they belong to
+the same team. However an agent is not able to recognise whether the
+other agent carries a gold item or not. If there is a mark in a cell,
+which is in an agent's field of view, it will also receive the
+information about its content.
+
+- Actions
+Agents are allowed to perform one action in a simulation step. The
+following actions are allowed:
+    - skip
+    - up
+    - down
+    - left
+    - right
+    - pick
+    - drop
+    - mark
+    - unmark
+All actions, except the skip action, can fail. The result of a failed
+action is the same as the result of the skip action. An action can fail
+either because the conditions for its successful execution are not
+fulfilled, because of the information distortion, or agent's fatigue
+(the later two phenomena are described later in this text).
+
+Skip:
+The execution of the skip action has no influence on the local state of
+the environment around the agent (under the assumption that other agents
+did not change it). When an agent does not respond to a perception
+information provided by the simulation server within the given time
+limit, the agent is considered as performing the skip action.
+
+Movements:
+An agent can move in four directions in the grid. The execution of move
+actions up, down, left and right changes the position of the agent one
+cell to the up, down, left, and right, respectively. A movement action
+succeeds only when the cell to which an agent is about to move does not
+contain an obstacle. In the case two agents stand in the adjacent cells
+and one of them tries to step into the cell the second agent stands in
+while the second agent performs e.g. skip action, the second agent can
+be pushed away. The resulting local change of the environment amounts to
+the same situation as if the pushed agent performed a move action in the
+same direction as the pushing agent. The same constraints as by a
+regular move action apply, i.e. there cannot be another obstacle, or an
+agent standing in the way of the pushed agent.  Only one agent can be
+pushed in one move. In the case both agents standing in the adjacent
+cells try to push each other, one of them will be randomly determined
+(with probability of 50%) as the pushing and the other as the pushed
+agent. A detailed specification of the action execution algorithm
+describes further details of push action and its consequences.
+
+Moving to and from the depot cell is regulated by additional rules
+described later in this description.
+
+Picking and dropping:
+An agent can carry up to maximum of 3 gold items which it successfully
+picked up before. An agent can pick up a gold item if 1) the cell in
+which the agent currently stands in contains gold, and 2) the agent is
+currently carrying less than 3 gold items. An agent can drop gold item
+it carries only into the empty cell it currently stands in. The result
+of a successful pick action is that in the next simulation step the
+acting agent will be considered to carry one more gold item than before
+performing the pick action and the cell, it currently stands in, will
+not contain the gold item any more. The result of a drop action is that
+the acting agent is carrying one gold item less than before performing
+the drop action (given that the agent was carrying at least one gold
+item in that simulation step) and that the cell it currently stands in
+will contain the gold item in the next simulation step. Drop action
+performed in the depot cell results in dropping all the gold items the
+agent carries at once and increases the score of the agent's team by a
+number of points equal to the number of gold items the agent dropped in
+the depot cell. The depot cell will never contain a gold item that can
+be picked by an agent. 
+
+Marking and unmarking:
+An agent is allowed to mark a cell it currently stands in by a string
+data with a maximum of 5 characters. The result of a mark action is that
+the cell in which an agent is currently located, will contain a string
+in the next simulation step. The depot cell, and cells containing an
+obstacle cannot be marked. By marking a previously marked cell, the old
+mark is removed and replaced by the new one. If the cell in which an
+agent is currently located, contains a mark, then the agent receives the
+string in the perception information from the simulation server. An
+agent is allowed to unmark the marked cell it currently stands in. The
+result of an unmark action is that the cell will not contain a mark in
+the next simulation step.  Agents do not get immediate feedback on their
+actions, but can learn about the effects of their actions (and the
+actions of other agents) from the perception information that will be
+sent to them in the next simulation step.
+
+Action execution algorithm:
+After the simulation engine collects the actions agents chose to execute
+in the next simulation step (or the simulation step timeout for agent's
+reaction elapsed), the next state of the environment w.r.t. actions
+executed by agents is determined as follows:
+1. all the agents' impossible actions are replaced by skip actions.
+   An impossible action is:
+	- move action when the agent tries to step into an obstacle, or
+	  out of the grid boundary, or
+   	- drop action when the cell already contains gold, or
+	- pick action when there's no gold contained in the cell, or
+	- unmark action when the cell does not contain a mark;
+2. simulation engine determines actions which will fail because of
+   Fatigue (see description below) and replaces them with a skip action.
+3. for each cell not containing an agent, or an obstacle, such that
+   there's at least one agent indicating an intention to move into it,
+   one of these agents is selected and moved to this cell. Actions of
+   all the other considered agents are replaced with a skip action;
+4. for each agent which can be pushed by more than one pushing agent (an
+   agent can be pushed iff it is about to perfom a skip action [after
+   applying steps 1-3], the cell it is going to be pushed into is within
+   the grid boundary and does not contain an agent, or an obstacle), one
+   such pushing agent is selected, and both pushed and pushing agents
+   are moved in the direction of the move of the pushing agent;
+5. all other move actions which were not executed in steps 3 and 4 are
+   replaced by skip action;
+6. all the non-move actions are executed.
+
+Finally, further internal changes and calculations of the environment,
+like e.g. gold generation, take place.
+
+Remark:
+	For the sake of clarity, the provided action execution algorithm
+	is fairly simple and we are aware, that for more complex
+	configurations of move actions, it leads to rather unintuitive
+	results. 
+
+
+- Depot cell
+There are strong conditions imposed on the depot cell:
+1. an agent not carrying a gold item is unable to enter the depot cell
+   (the result of such an action is the same as if the depot was an
+   obstacle);
+2. agent which entered the depot cell should drop the gold item as the
+   very next action it executes;
+3. after dropping the gold item in a cell, an agent has to leave the
+   cell in the first subsequent simulation step when it will be able to
+   move (i.e. when there was an empty cell at the time of agent's move
+   action).
+
+If an agent does not leave the depot in the first possible opportunity,
+or will not drop the gold item as the very next action after entering
+the depot, the simulation server will punish it by "teleporting" it away
+(it will be moved to a random cell not containing another agent, or
+obstacle in the grid by the environment simulator).
+
+- Timeout
+The agents should inform the simulation server which action they want to
+perform within a timeout specified at the beginning of the simulation.
+The contest organisers do not take any responsibility for the speed of
+the Internet connection between the server and participating agents.
+Timeouts will be set reasonable high, so that even participants with a
+slow network connection will be able to communicate with the server in
+an efficient way. Simulation timeouts will not be lower than 2 and
+higher than 10 seconds per one simulation step.
+
+A ping interface will be provided by the server in order to allow
+participating agents to test the speed of their connection during the
+initial phase of the tournament. Note, that only a limited number of
+ping requests will be processed from one agent in a certain time
+interval.  Details on this limit will be provided later.
+
+- Fatigue (Information Distortion/Action Failure)
+Agents can receive incomplete information about the environment from the
+simulation server. The simulation server can omit information about
+particular environment cells, however, the server never provides
+incorrect information.  Also, agent's action can fail. In such a case
+the simulation server evaluates the agent's action in the simulation
+step as the skip action.
+
+Both the probability of sending an agent incomplete information (P_inf)
+and the probability of agent's action failure (P_fail) are constant and
+specific for each simulation, however not higher than 20%. Moreover,
+both probabilities increase in a linear fashion w.r.t. the number of
+gold items currently carried by the agent up to at most 50%. The
+equation regulating this relation is as follows:
+
+               P_max - P_sim
+P =  P_sim + --------------- x N_it
+                  N_itMax
+
+Where P stands for the actual probability of action failure, or
+information distortion w.r.t. number of items the agent currently
+carries, P_sim is the probability of action failure/information
+distortion set as default for the current simulation (it is equal to the
+corresponding probability when agent does not carry a gold item). P_max
+and N_itMax are the maximal value of failure/information distortion
+probability (at most 50%) and maximal number of gold items the agent is
+allowed to carry (3 as specified above) respectively. These values,
+together with P_sim (at most 20%) are parameters of each current
+simulation. Finally N_it stands for the number of gold items the agent
+currently carries.
+
+Examples of two simulation settings together with tables of resulting
+probabilities for agent carrying 0, 1, 2 and 3 gold items.
+P_sim	= 10%            P_sim	 = 5%
+P_max	= 50%            P_max	 = 40%
+N_itMax	= 3              N_itMax = 3
+                         
+N_it - P                 N_it - P
+0 - 10.0%                0 -  5.0%
+1 - 23.3%                1 - 16.6%%
+2 - 36.6%                2 - 28.3%
+3 - 50.0%                3 - 40.0%
+
+Simulation parameters P_sim, P_max are not known neither to agent team
+designers, nor to the agents during the simulation. As already mentioned
+above, N_itMax is a constant set to 3 for all simulations in the
+tournament.
+
+
+** Final Phase
+In the final phase, the simulation server sends a message to each agent
+allowing them to disconnect from the server. By this, the tournament is
+over.
+
+
+*** Submission and Winning criteria
+A submission consists of a 5 page description (analysis and design) of
+your solution and the participation of your agent team in the
+tournament.  The winner of the contest will be the best performing team
+with the highest number of points from the tournament. The quality of
+the description of analysis, design and implementation of the
+multi-agent system, the elegance of its design and implementation will
+influence the final decision.
+
+
+*** Relation to the previous contest editions
+The previous editions of this contest were organized in cooperation with
+CLIMA workshop series. The scenario from this year can be seen as an
+extension of the scenario from the CLIMA VII Contest 2006. The main
+differences include:
+- perception now includes also the information about the number of gold
+  items an agent carries,
+- number of agents per team is 6, instead of 4 last year,
+- agents can push each other,
+- agents can collect and carry more gold items,
+- each agent has to connect to the server from a separate IP address
+  (this requirement might be a subject of change).
+
+We believe that these adjustements will lead to a greater competitivness
+of the scenario (fun factor) and put the participating multi-agent
+systems under a test w.r.t. coordination and cooperation issues in an
+environment where teams compete for the same resources.
+
+
+*** Miscellaneous
+Our simulation server does not provide a facility for inter-agent
+communication. Agents from a team are allowed to communicate and
+coordinate their actions locally.
+
+Based on the number of participants, organisers will decide whether to
+run the competition in a one or more rounds. The continuous connection
+of agents from the first match to the last one cannot be guaranteed.  In
+the case of agent-to-server connection disruption, agents are allowed to
+reconnect by connecting and performing the initial tournament phase
+message exchange again. Generally, participants are responsible for
+maintaining connections of their agents to the simulation server. In the
+case of connection disruption during the running simulation, server will
+proceed with the tournament simulation, however the action of a
+disconnected agent will be considered as the skip action. In the case of
+a serious connection disruption, organisers reserve the right to
+consider each case separately.
+
+
+*** Technical Support and Organisational Issues
+We are running a mailing list for all the inquiries regarding
+Multi-Agent Programming Contest 2007. Feel free to subscribe if you are
+interested in further details on the contest. Subscription for
+participants is mandatory.
+
+The list address: agentcontest2007 [at] in.tu-clausthal.de
+To subscribe, please send an e-mail to
+agentcontest2007-subscribe [at] in.tu-clausthal.de
+
+The most recent information about the Multi-Agent Programming Contest
+2007 can be found on the official web site
+http://cig.in.tu-clausthal.de/AgentContest2007/
+

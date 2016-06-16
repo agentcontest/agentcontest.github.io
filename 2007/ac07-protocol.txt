@@ -1,0 +1,542 @@
+
+	      *** Multi-Agent Programming Contest 2007 ***
+		- communication protocol specification -
+
+		Mehdi Dastani, Juergen Dix, Peter Novak
+	    http://cig.in.tu-clausthal.de/AgentContest2007/
+
+
+*** Scenario: Gold Rush
+The rumor has it that in 2006 the first expeditions of prospectors set
+out for the unexplored deep forests in inner western Carpathians and
+shortly after their return some of those miners became major players on
+the German stock exchange. This started a golden rush in the area and
+large teams of well equipped miners and prospectors are trying to make
+their way to the mountains and collect as much gold as possible. 
+
+Teams of gold miners find themselves exploring the same area, avoiding
+trees and bushes and competing for the gold nuggets spread around the
+woods. The gold miners of each team coordinate their actions in order to
+collect as much gold as they can and to deliver it to the trading agent
+located in a depot where the gold is safely stored. However, this
+adventure is also quite dangerous as meeting a member of a different
+team often results in a violence.
+
+Full scenario description can be downloaded from the Multi-Agent
+Programming Contest 2007 (Contest) web site
+(http://cig.in.tu-clausthal.de/AgentContest2007/).
+
+
+*** General Agent-2-Server Communication Principles
+In this contest, the agents from each participating team will be
+executed locally (on the participant's hardware) while the simulated
+environment, in which all agents from competing teams perform actions,
+is run on the remote contest simulation server.
+
+Agents communicate with the contest server using standard TCP/IP stack
+with socket session interface. The Internet coordinates (IP address and
+port) of the contest server (and a dedicated test server) will be
+announced later via the official Contest mailing list.
+
+Agents communicate with the server by exchanging XML messages. Messages
+are well-formed XML documents, described later in this document. We
+recommend using standard XML parsers available for many programming
+languages for generation and processing of these XML messages.
+
+
+*** Communication Protocol
+Logically, the tournament consists of a number of matches. A match is a
+sequel of simulations during which two teams of agents compete in
+several different settings of the environment. However, from agent's
+point of view, the tournament consists of a number of simulations in
+different environment settings and against different opponents.
+
+The tournament is divided into three phases. During the initial phase,
+agents connect to the simulation server and identify themselves by
+username and password (AUTH-REQUEST message). Credentials for each agent
+will be distributed in advance via e-mail. As a response, agents receive
+the result of their authentication request (AUTH-RESPONSE message) which
+can either succeed, or fail. After successful authentication, agents
+should wait until the first simulation of the tournament starts. 
+
+At the beginning of each simulation, agents of the two participating
+teams are notified (SIM-START message) and receive simulation specific
+information: simulation ID, opponent's ID, grid size, number of steps
+the simulation will last and the depot position.
+
+In each simulation step an agent receives a perception about its
+environment (REQUEST-ACTION message) and it should respond by performing
+an action (ACTION message). Each request-action message contains
+information about 9 neighboring cells around agent (including the one
+agent stands on), its absolute position in the grid, simulation step
+number, number of gold items the agent carries and deadline for its
+response. Agent has to deliver its response within the given deadline.
+The action message should contain the identifier of the action, agent
+wants to perform, and action parameters, if required.
+
+When the simulation is finished, participating agents receive the
+notification about it (SIM-END message) which includes the information
+about the number of gold items collected by the team agent belongs to
+and the information about the result of the simulation (whether the team
+won, or lost the simulation).
+
+All agents which currently do not participate in a simulation should
+wait until the simulation server notifies them about either 1) the start
+of a simulation, they are going to participate in, or 2) the end of the
+tournament.
+
+At the end of the tournament, all agents receive the notification (BYE
+message). Subsequently the simulation server will terminate the
+connection to the agent.
+
+* Reconnection
+When an agent loses connection to the simulation server, the tournament
+proceeds without disruption, only all the actions of the disconnected
+agent are considered to be empty (skip). Agents are themselves
+responsible for maintaining the connection to the simulation server and
+in a case of connection disruption, they are allowed to reconnect.
+
+Agent reconnects by performing the same sequence of steps as at the
+beginning of the tournament. After establishing the connection to the
+simulation server, it sends AUTH-REQUEST message and receives
+AUTH-RESPONSE. After successful authentication, server sends SIM-START
+message to an agent.  If an agent participates in a currently running
+simulation, the SIM-START message will be delivered immediately after
+AUTH-RESPONSE. Otherwise an agent will wait until a next simulation in
+which it participates starts. In the next subsequent step when the agent
+is picked to perform an action, it receives the standard REQUEST-ACTION
+message containing the perception of the agent at the current simulation
+step and simulation proceeds in a normal mode.
+
+* Ping Interface
+The simulation server provides a ping interface in order to allow agents
+to test their connection to the simulation server. Agent can send a PING
+message containing a payload data (ASCII string up to 100 characters)
+and it will receive PONG message with the same payload.  As all messages
+contain a timestamp (see description of the message envelope below),
+agent can also use ping interface to synchronize its time with the
+server.
+
+
+** Protocol Sequence Diagram (UML like notation)
+* Initial phase
+        Server                             Agent
+         |         AUTH-REQUEST             |
+         |<<--------------------------------|
+         |                                  |
+         |         AUTH-RESPONSE            |
+         |-------------------------------->>|
+
+
+* Simulation
+       Server                             Agent
+        |         SIM-START                |
+        |-------------------------------->>|
+        |                                  |
++----------------------------------------------+
+| loop: Simulation Step Cycle              |   |
+|       |                                  |   |
+|       |         REQUEST-ACTION           |   |
+|       |-------------------------------->>|   |
+|       |                                  |   |
+|       |         ACTION                   |   |
+|       |<<--------------------------------|   |
+|       |                                  |   |
++----------------------------------------------+
+        |                                  | 
+        |         SIM-END                  |
+        |-------------------------------->>|
+
+
+* Final phase
+       Server                             Agent
+        |         BYE                      |
+        |-------------------------------->>|
+
+
+* Reconnect
+       Server                             Agent
+        |         AUTH-REQUEST             |
+        |<<--------------------------------|
+        |                                  |
+        |         AUTH-RESPONSE            |
+        |-------------------------------->>|
+        |                                  |
+        |         SIM-START                |
+        |-------------------------------->>|
+                      +------------------------+
+                      | ref:                   |
+                      | Simulation Step Cycle  |
+                      +------------------------+
+
+
+* Ping
+       Server                             Agent
+        |         PING                     |
+        |<<--------------------------------|
+        |                                  |
+        |         PONG                     |
+        |-------------------------------->>|
+
+
+** XML Messages Description
+* XML message structure
+XML messages exchanged between server and agents are zero terminated
+UTF-8 strings.
+
+Each XML message exchanged between the simulation server and agent
+consists of three parts:
+- Standard XML header
+Contains the standard XML document header
+<?xml version="1.0" encoding="UTF-8"?>
+
+- Message envelope
+The root element of all XML messages is <message>. It has attributes the
+timestamp and a message type identifier.
+
+- Message separator
+Note that because each message is a UTF-8 zero terminated string,
+messages are separated by nullbyte.
+
+Timestamp is a numeric string containing the status of the simulation
+server's global timer at the time of message creation. The unit of the
+global timer is milliseconds and it is the result of standard system
+call "time" on the simulation server (measuring number of milliseconds
+from January 1, 1970 UTC).  Message type identifier is one of the
+following values: {auth-request, auth-response, sim-start, sim-end, bye,
+request-action, action, ping, pong}. 
+
+Messages sent from the server to an agent contain all attributes
+of the root element. However, the timestamp attribute can be omitted
+in messages sent from an agent to the server. In the case it is
+included, server silently ignores it.
+
+Example of a server-2-agent message:
+<message timestamp="1138900997331" type="request-action">
+	<!-- optional data -->
+</message>
+
+Example of an agent-2-server message:
+<message type="auth-request">
+	<!-- optional data -->
+</message>
+
+3.- Optional simulation specific data
+According to the message type, the root element <message> can contain
+simulation specific data.
+
+* AUTH-REQUEST (agent-2-server)
+When agent connects to the server, it has to authenticate itself using
+the username and password provided by the contest organizers in advance.
+This way we prevent unauthorized use of connection belonging to a
+contest participant. AUTH-REQUEST is the very first message an agent
+sends to the contest server. 
+
+Message envelope contains one element <authentication> without
+subelements. It has two attributes "username" and "password" of type
+string.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="auth-request">
+	<authentication username="team1agent1" password="qwErTY"/>
+</message>
+
+
+* AUTH-RESPONSE (server-2-agent)
+Upon receiving AUTH-REQUEST message, server verifies the provided
+credentials and responds by message AUTH-RESPONSE indicating success, or
+failure of authentication.
+
+Envelope contains one <result> element without subelements. It has one
+attribute "result" of type string and its value can be either "ok", or
+"fail".
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="auth-response" timestamp="1138900997331">
+	<authentication result="ok"/>
+</message>
+
+
+* SIM-START (server-2-agent)
+At the beginning of each simulation server picks two teams of agents to
+participate in the simulation. The simulation starts by notifying
+corresponding agents about the details of the starting simulation. This
+notification is done by sending the SIM-START message.
+
+The data about the starting simulation are contained in one <simulation>
+element with attributes:
+	"id" - unique identifier of the simulation (string);
+	"opponent" - unique identifier of the enemy team (string);
+	"steps" - number of steps, simulation will perform (numeric);
+	"gsizex" - horizontal size of the grid environment (west-east)
+		(numeric);
+	"gsizey" - vertical size of the environment (north-south)
+		(numeric);
+	"depotx" - column of a cell containing the depot (numeric);
+	"depoty" - row of a cell containing the depot (numeric).
+
+Remark:
+One step involves all agents acting at once. Therefore if a simulation
+has n steps, it means that each agent will receive REQUEST-ACTION
+message exactly n times during the simulation (unless it loses the
+connection to the simulation server).
+	
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="sim-start" timestamp="1138900997331">
+	<simulation 
+		id="BlueRed20060217-1" 
+		opponent="RedTeam"
+		steps="400"
+		gsizex="20"
+		gsizey="25"
+		depotx="12"
+		depoty="19"/>
+</message>
+
+
+* SIM-END (server-2-agent)
+Each simulation lasts certain number of steps. At the end of each
+simulation, server notifies agents about its end and its result.
+
+The message envelope contains one element <sim-result> with two
+attributes "score" and "result". "score" attribute contains number of
+items collected by the team given agent belongs to, and "result" is a
+string value equal to one of {win,lose,draw}. Element <sim-result> does
+not contain subelements.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="sim-end" timestamp="1138900997331">
+	<sim-result 
+		score="13" 
+		result="win"/>
+</message>
+
+
+* BYE (server-2-agent)
+At the end of tournament server notifies each agent that the last
+simulation finished and subsequently terminates the connection.
+
+There are no data within the message envelope of this message.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="bye" timestamp="1138900997331"/>
+
+
+* REQUEST-ACTION (server-2-agent)
+In each simulation step server requests agents to perform an action and
+sends them corresponding perceptions.
+
+The message envelope of the REQUEST-ACTION message contains element
+<perception> with four attributes:
+	"step" - current simulation step (numeric);
+	"posx" - column of current agent's position (numeric);
+	"posy" - row of current agent's position (numeric);
+	"items" - number of gold items the agent carries (numeric);
+	"deadline" - server global timer value until which the agent has
+		to deliver its action (the same format as timestamp);
+	"id" - unique identifier of the REQUEST-ACTION message (string).
+
+Element <perception> contains a number of subelements <cell> with one
+attribute "id" which can be one of the following values
+{nw,n,ne,w,cur,e,sw,s,se}, identifying particular cells visible to the
+agent. These identifiers correspond to the following grid fragment:
+
+[0,0] ....
+.
+.     +----+----+----+
+.     |    |    |    |
+      | nw | n  | ne |
+      +----+----+----+
+      |    |    |    |
+      | w  |cur |  e |
+      +----+----+----+
+      |    |    |    |
+      | sw | s  | se |
+      +----+----+----+
+
+"cur" identifies the cell on which an agent currently stands. 
+
+If an agent stands near the grid border, or corner, only perceptions for
+existing cells are provided.
+
+Each element <cell> contains a number of subelements indicating the
+content of the given cell. Each subelement is a empty element tag
+without further subelements.
+	<agent> - there's an agent in the cell. The string attribute
+		"type" indicates whether it is an agent of the enemy
+		team, or ally. Allowed values for attribute "type" are
+		{ally,enemy};
+	<obstacle> - the cell contains an obstacle. This element has no
+		associated attributes;
+	<mark> - the cell contains a string mark. The attribute "value"
+		contains the contents of the mark. The value of this
+		attribute can be arbitrary string up to 5 character
+		long.
+	<gold> - the cell contains a gold item. There are no attributes
+		associated with this element.
+	<depot> - the cell is the depot. There are no attributes
+		associated with this element.
+	<empty> - the cell is empty.
+	<unknown> - the content of a cell is not provided by the server
+		because of information distrotion.
+
+
+The specific rules on allowed combinations of objects in a cell are
+provided in the scenario description.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="request-action" timestamp="1138900997331">
+	<perception step="1" posx="17" posy="20" 
+		deadline="1138901009919" id="Xy">
+		<cell id="nw">
+			<agent type="ally"/>
+			<mark value="MARK1"/>
+		</cell>
+		<cell id="n">
+			<empty/>
+		</cell>
+		<cell id="ne">
+			<mark value="XYZR"/>
+		</cell>
+		<cell id="w">
+			<obstacle/>
+		</cell>
+		<cell id="cur">
+			<obstacle/>
+		</cell>
+		<cell id="e">
+			<agent type="enemy"/>
+		</cell>
+		<cell id="sw">
+			<gold/>
+			<mark value="MARK2"/>
+		</cell>
+		<cell id="s">
+			<unknown/>
+		</cell>
+		<cell id="se">
+			<empty/>
+		</cell>
+	</perception>
+</message>
+
+
+* ACTION (agent-2-server)
+The agent should respond to REQUEST-ACTION message by an action it chose
+to perform.
+
+The envelope of ACTION message contains one element <action> with
+attributes "type", "param" and "id". Attribute "type" indicates an
+action agent wants to perform. It contains a string value which can be
+one of the following strings
+{skip,left,up,right,down,pick,drop,mark,unmark}. The attribute
+"param" is optional and contains parameters of an action. It is only
+required in combination with action type "mark", when it should contain
+a string value of a mark. Value of a mark can be up to 5 characters
+long. In the case of longer value, it will be cut to first 5 characters.
+
+Finally the obligatory attribute "id" is a string which should contain
+the REQUEST-ACTION message identifier, response of which is the given
+ACTION message. Agents should plainly copy the value of "id" attribute
+in REQUEST-ACTION message to the "id" attribute of ACTION message.
+
+Note that the corresponding ACTION message has to be delivered to the
+time indicated by value of attribute "deadline" of the REQUEST-ACTION
+message. Agents should therefore send the ACTION message in advance
+before the indicated deadline is reached so that server will
+receive it in time.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="action">
+	<action type="mark" param="MARK2" id="Xy"/>
+</message>
+
+
+* PING (agent-2-server)
+In order to allow agents to test the speed of their Internet connection,
+simulation server provides a ping interface. Agent is allowed to send
+PING messages to server.
+
+The message envelope of this message contains element <payload> with one
+attribute "value". "value" contains arbitrary string up to 100
+characters long. Payload value is plainly copied to the payload value of
+corrensponding PONG message by the server. Agents can use it to store
+proprietary data in the case they need it. <ping> element does not
+contain any subelements. 
+
+Note that if server receives a PING message with payload longer than 100
+characters, it can discard the PING message and won't respond to it.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="ping">
+	<payload value="time at home was 23456"/>
+</message>
+
+
+* PONG (server-2-agent)
+When the simulation server receives a PING message it immediately
+responds by a PONG message.
+
+The envelope contains one element <payload> with string attribute
+"value". Its value is copied from the corresponding PING message.
+
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="pong" timestamp="1138901009919">
+	<payload value="time at home was 1138901007654"/>
+</message>
+
+
+*** Remarks and notes
+** Ill-formed messages
+Not well-formed messages received by server from agents are discarded.
+This means, that if some obligatory information (element, or attribute)
+of a given message is missing, server silently ignores it. In the case
+that a message will contain additional not-required information, only
+the first occurence is processed by the server. However note, that it
+may happen that this kind of messages will be discarded, therefore we
+strongly recommend to comply with the communication protocol described
+above.
+
+Examples:
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="auth-request">
+	<authentication username="team1agent1" password="qwErTY"/>
+	<authentication username="team1agent32" password="11111WWw"/>
+	<some-element arbitrary="234TreE"/>
+</message>
+<message type="action">
+	<authentication username="team1agent1" password="qwErTY"/>
+	<authentication username="team1agent1" password="qwErTY"/>
+	<some-element arbitrary="234TreE"/>
+</message>
+
+The message above will be processed as a AUTH-REQUEST message with
+credentials team1agent1/qwErTY.
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<message type="ping">
+	<payload value="payload1"/>
+	<payload value="payload2"/>
+</message>
+
+This message will be processed as a regular PING message and the PONG
+response will include payload equal to "payload1".
+
+
+** Pinging and flooding (DoS attack attempts)
+Although we do not impose any upper limits on the frequency of pinging,
+we strongly discourage abuse of pinging interface by either flooding the
+simulation server by PING messages, or other malformed messages with
+large payload. All suspicious cases will be considered as a DoS attack
+attempt and will be dealt with by organizers.
+
