@@ -1,0 +1,145 @@
+=================== Call for Submissions =====================
+
+                    Second CLIMA Contest
+                    in association with
+                   CLIMA VII / AAMAS 2006
+
+                         May 8 2006
+              Future University, Hakodate, Japan
+          http://cig.in.tu-clausthal.de/CLIMAContest/
+
+===============================================================
+
+Aim and Scope:
+This competition is an attempt to stimulate research in the
+area of multi-agent systems by
+
+    1- identifying key problems and
+    2- collecting suitable benchmarks
+
+that can serve as milestones for testing new approaches and
+techniques from computational logics. While there exist several
+competitions in various parts of artificial intelligence
+(theorem proving, planning, robo-cup etc) and, lately, also in
+specialised areas in agent systems (trading agents), the
+emphasis of this contest is on the use of 'computational logic'
+in (multi-)agent systems.
+
+We expect to promote the development of multi-agent systems by
+first identifying difficult problems and then finding solutions
+by comparing different approaches from computational logic for
+solving them. While this idea seems very appealing, it is not
+an easy task to come up with a particular scenario that serves
+as a basis for a contest. Such a scenario should be generic
+enough to be applicable for a wide range of techniques of
+computational logic, but it should also be precise enough so
+that different approaches can be tested and compared against
+each other.
+
+* Scenario description
+This competition is organised as part of CLIMA VII and consists
+of developing multi-agent systems to solve a cooperative task
+in a dynamically changing environment. The environment of the
+multi-agent system is a grid-like world where agents can move
+from one cell to a neighbouring cell if there is no agent or
+obstacle already in that cell. In this environment, gold can
+appear in the cells. Participating agent teams explore the
+environment, avoid obstacles and compete with another agent
+team for the gold in the environment. The agents of each team
+coordinate their actions in order to collect as much gold as
+they can and to deliver it to the depot where the gold is
+safely stored. Each agent is located in the grid environment
+and can perceive 1) its absolute positions in the grid
+environment, and 2) the content of its surrounding cells
+including the cell in which the agent is currently standing
+(9 cells in total). Agents have only a local view on their
+environment, their perceptions can be incomplete, and their
+actions may fail. The agents may have/play different roles
+(such as explorer or collector), communicate and cooperate in
+order to find and collect gold in an efficient and effective
+way.
+
+In this contest, participating agent teams will be randomly
+divided into groups. Each team from one group will compete
+against all other teams in the same group in a series of
+matches. The winners from these groups form new groups. Each
+team in a new group will again play against all other teams
+in the group in a series of matches. Each match between two
+competing teams will consist of several (odd number of)
+simulations. A simulation between two teams is a competition
+between them with respect to a certain starting configuration
+of the environment. Winning a simulation yields 3 points for
+the team, draw 1 point and loss 0. The winner of the whole
+tournament is evaluated on the basis of the overall number
+of collected points in the matches during the tournament.
+
+We encourage submissions that specify and design a multi-agent
+system in terms of high-level concepts such as goals, beliefs,
+plans, roles, communication, coordination, negotiation, and
+dialogue in order to generate an efficient and effective
+solution for the above mentioned application. Moreover, the
+use of computational logic techniques (e.g., logic programming,
+formal calculi, etc.)in the implementations of multi-agent
+system is appreciated. A challenge of this competition is to
+use computational logic techniques to provide implemented
+models for the abstract concepts that are used in the
+specification and design of multi-agent systems. These
+implemented models should be integrated to implement the
+above-mentioned application intuitively, directly, and
+effectively.
+
+* Participation requirements:
+The participation in this contest consists of two parts:
+
+1- Submission of the description of analysis, design and
+implementation of a multi-agent system for the above
+application. Existing multi-agent system methodologies such
+as Gaia, Prometheus or Tropos can be used (not demanded) to
+describe the analysis and design of the system. For the
+description of the implementation, it should be explained
+how the design is implemented. This can be done by explaining,
+for example, which computational logic techniques are used to
+implement certain aspects of the multi-agent system (including
+issues related to individual agents). The maximum length of
+this description is 5 pages according to the LNCS format.
+
+2) Participation in the contest tournament by means of an
+(executable) implementation of a multi-agent system. The agents
+from each participating multi-agent systems (agent teams) will
+be executed locally (on the participant's hardware) while the
+simulated environment, in which all agents from competing teams
+perform actions, is run on the remote contest simulation server.
+The interaction/communication between agents from one team
+should be managed locally, but the interaction between
+individual agents and their environment (run on the simulation
+server) will be via Internet. Participating agents connect to
+the simulation server that provides the information about the
+environment. Each agent from each team should connect and
+communicate to the simulation server using one TCP connection.
+Furthertechnical details on how to participate in this contest
+can be found on the contest webpage
+(http://cig.in.tu-clausthal.de/CLIMAContest/). The source code
+together with instructions on how to install it including
+precise instructions on software and hardware requirements
+should be submitted just before the competition starts.
+
+* How To Submit:
+Please submit a 5 page description of your solution to Mehdi
+Dastani (mehdi@cs.uu.nl). Several days before the start of the
+competition, the contest organisers will contact participants
+via e-mail with details on time and Internet coordinates
+(IP addresses/ports) of the simulation server.
+
+* Important Dates:
+    * Submission of the description   : February 10, 2006
+    * Notification                    : February 24, 2006
+    * Camera-Ready of the description : March 10, 2006
+    * Competition                     : TBA (in April)
+    * Winner announcement             : May 8, 2006 (at CLIMA)
+
+* Winning Criteria:
+The winner of the contest will be the best performing team with
+the highest number of points from the tournament. The original,
+innovative, and effective application of computational logic
+techniques in solving specific multi-agent issues identified in
+this application will influence the final decision.
