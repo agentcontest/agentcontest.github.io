@@ -6,6 +6,8 @@ layout: page
 Overview
 --------
 
+![Gold miners](goldminers.png)
+
 This contest was organzied as part of the **CLIMA VII workshop** collocated with **AAMAS'06** conference in Hakodate, Japan.
 
 * **Submission of the description:** February 10, 2006
@@ -47,9 +49,11 @@ We expect to promote the development of multi-agent systems by first identifying
 Downloads
 ---------
 
+* [svgvideos.tar.xz](svgvideos.tar.xz) (50 MB, 6 GB uncompressed)
 * [c7c-CFP.txt](c7c-CFP.txt)
 * [c7c-protocol.txt](c7c-protocol.txt)
 * [c7c-scenario-final.txt](c7c-scenario-final.txt)
 * [CLIMAVIIREADME.txt](CLIMAVIIREADME.txt)
 * [massim-demoAgent-v0_2.tar.bz2](massim-demoAgent-v0_2.tar.bz2)
 * [massim-serverMonitor-v0_2.tar.bz2](massim-serverMonitor-v0_2.tar.bz2)
+* [massim-server-v0_3.tar.bz2](massim-server-v0_3.tar.bz2)
