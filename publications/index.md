@@ -32,3 +32,17 @@ Articles
 * Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](http://www.springerlink.com/content/n412r60355226522/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
 * Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
+
+Technical reports
+-----------------
+
+* Michael Köster, Federico Schlesinger, Jürgen Dix: The Multi-Agent Programming - Contest 2012 Edition - Evaluation and Team Descriptions, Technical Report IfI-13-01, Clausthal University of Technology, September 2013. [ifi1301koester.pdf](ifi1301koester.pdf).
+* Tristan Behrens, Jürgen Dix, Jomi Hübner, Michael Köster, Federico Schlesinger: Multi-Agent Programming Contest 2011 Edition - Evaluation and Team Descriptions, Technical Report IfI-12-02, Clausthal University of Technology, September 2012. [ifi1202behrens.pdf](ifi1202behrens.pdf).
+* Tristan Behrens, Jürgen Dix, Jomi Hübner, Michael Köster, Federico Schlesinger: Multi-Agent Programming Contest 2011 Edition Documentation, Technical Report IfI-12-01, Clausthal University of Technology, April 2012. [ifi1201behrens.pdf](ifi1201behrens.pdf).
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: The Multi-Agent Programming Contest from 2005-2010: From Gold Collecting to Herding Cows, 2010. [ifi1014behrens.pdf](ifi1014behrens.pdf).
+* Behrens, Tristan M. and Hindriks, Koen and Hübner, Jomi and Dastani, Mehdi: Putting APL Platforms to the Test: Agent Similarity and Execution Performance, 2010. [ifi1009behrens.pdf](ifi1009behrens.pdf).
+* Behrens, Tristan M. and Dix, Jürgen and Hindriks, Koen V.: The Environment Interface Standard for Agent-Oriented Programming Platform Integration Guide and Interface Implementation Guide, 2009. [ifi0910behrens.pdf](ifi0910behrens.pdf).
+* Behrens, Tristan M. and Dix, Jürgen and Hindriks, Koen V.: Towards an Environment Interface Standard for Agent-Oriented Programming, 2009. [ifi0909behrens.pdf](ifi0909behrens.pdf).
+* Behrens, Tristan M. and Dix, Jürgen and Dastani, Mehdi and Köster, Michael and Novák, Peter: Technical Foundations of the Agent Contest 2008, 2008. [ifi0805behrens.pdf](ifi0805behrens.pdf).
+* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: Agent Contest Competition - 3rd edition, 2007. [ifi0715dastani.pdf](ifi0715dastani.pdf).
+* Dastani, Mehdi and Dix, Juergen and Novák, Peter: The Second Contest on Multi-Agent Systems based on Computational Logic, 2006. [ifi0613dastani.pdf](ifi0613dastani.pdf).
