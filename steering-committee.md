@@ -4,6 +4,9 @@ layout: page
 permalink: /steering-commitee/
 ---
 
+Members
+-------
+
 * [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/),
   [Utrecht University](http://www.uu.nl/),
 * [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/),
