@@ -21,6 +21,8 @@ Organizers
   [Clausthal University of Technology](http://www.tu-clausthal.de/)
 * [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/),
   [Clausthal University of Technology](http://www.tu-clausthal.de/)
+* Niklas Fiekas,
+  [Clausthal University of Technology](http://www.tu-clausthal.de/)
 * Frederico Schlesinger,
   [Clausthal University of Technology](http://www.tu-clausthal.de/)
 
