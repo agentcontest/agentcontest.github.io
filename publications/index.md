@@ -46,3 +46,13 @@ Technical reports
 * Behrens, Tristan M. and Dix, Jürgen and Dastani, Mehdi and Köster, Michael and Novák, Peter: Technical Foundations of the Agent Contest 2008, 2008. [ifi0805behrens.pdf](ifi0805behrens.pdf).
 * Dastani, Mehdi and Dix, Jürgen and Novák, Peter: Agent Contest Competition - 3rd edition, 2007. [ifi0715dastani.pdf](ifi0715dastani.pdf).
 * Dastani, Mehdi and Dix, Juergen and Novák, Peter: The Second Contest on Multi-Agent Systems based on Computational Logic, 2006. [ifi0613dastani.pdf](ifi0613dastani.pdf).
+
+Talks
+-----
+
+* MAPC Winner Ceremony, Delft 2012. [delt2012.pdf](delft2012.pdf).
+* [IJCAI-NRAC](http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
+* [ProMAS IX](http://inf.ufrgs.br/promas2011/), 2011. [promas2011-mapc.pdf](promas2011-mapc.pdf).
+* [CLIMA X](http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
+* [Planning in Multiagent Systems](http://www.dagstuhl.de/08461), Dagstuhl 2008. [dagstuhl08planning.pdf](dagstuhl08planning.pdf).
+* [Programming Multi-Agent Systems](http://www.dagstuhl.de/08361), Dagstuhl 2008. [dagstuhl2008-BehrensTristan.pdf](dagstuhl2008-BehrensTristan.pdf).
