@@ -100,6 +100,7 @@ a[href$=".tex"]:before {
 a[href$=".tar.bz2"]:before,
 a[href$=".tar.gz"]:before,
 a[href$=".tar.xz"]:before,
+a[href$=".tar"]:before,
 a[href$=".rar"]:before,
 a[href$=".jar"]:before,
 a[href$=".zip"]:before {

@@ -98,3 +98,14 @@ Organizers
 * Federico Schlesinger, [Clausthal University of Technology](http://www.tu-clausthal.de/).
 
 Fore more details please have a look at [cig.in.tu-clausthal.de](http://cig.in.tu-clausthal.de/).
+
+Downloads
+---------
+
+* [Registration Template](registration.zip)
+* Sources:
+  - [GOAL-DTU2014.tar](sources/GOAL-DTU2014.tar)
+  - [MAKo2014.tar](sources/MAKo2014.tar)
+  - [TheWonderbolts2014.tar](sources/TheWonderbolts2014.tar)
+  - [TUB2014.tar](sources/TUB2014.tar)
+  - [UFSC2014.tar](UFSC2014.tar)
