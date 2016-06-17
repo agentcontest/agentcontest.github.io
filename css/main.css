@@ -52,7 +52,7 @@ footer li {
   .page-content {
     overflow: hidden;
     padding: 0;
-    min-height: 80vh;
+    padding: 3em 0em;
   }
 
   table {
