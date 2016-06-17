@@ -5,16 +5,26 @@
 
   <body>
 
-    {% include header.html %}
+    <header>
+      <nav class="wrapper">
+        <a href="/" class="title">{{ site.title }}</a>
+        <ul>
+          <li><a href="/">Getting started 2016</a></li>
+          <li><a href="/publications/">Publications</a></li>
+          <li><a href="/massim-in-teaching/">MASSim in Teaching</a></li>
+          <li><a href="/#history">History</a></li>
+        </ul>
+      </nav>
+    </header>
 
-    <div class="page-content">
+    <main>
       <div class="wrapper">
         {{ content }}
       </div>
-    </div>
+    </main>
 
     <footer>
-      <div class="wrapper">
+      <nav class="wrapper">
         <strong>Multi-Agent Programming Contest</strong>
         <ul>
           <li><a href="/publications/">Publications</a></li>
@@ -37,8 +47,8 @@
           <li><a href="/imprint/">Imprint and Organizers</a></li>
           <li><a href="/steering-committee/">Steering Committee</a></li>
         </ul>
-      </div>
-    </div>
+      </nav>
+    </footer>
 
   </body>
 
