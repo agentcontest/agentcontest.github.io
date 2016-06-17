@@ -1,0 +1,96 @@
+\documentclass{llncs}
+
+\begin{document}
+\title{Multi-Agent Programming Contest 2010\\Participation Registration Template}
+\author{[Author]}
+\institute{[Institute]}
+ \maketitle
+\begin{abstract}
+Please follow the given template structure for your submission by
+answering the questions as concisely as possible, not exceeding the
+total of \textbf{5} pages. It is vital to explain in this submission
+a \textit{description} of the 
+system, the methodology/tools/infrastructure used
+and the (team) strategy
+that
+you plan to use in the contest.
+
+Please send your submission by email to J\"urgen Dix 
+(\url{dix@tu-clausthal.de}) no later
+than August 9th. If modifications are necessary,
+we will directly ask you to submit a final version on August 16th.
+\end{abstract}
+
+
+\section{Introduction}
+
+Note: the information you provide in this section will be made available
+to all participants. We will put it on the homepage.
+
+\begin{enumerate}
+\item What is the name of your team?
+\item Who are the members of your team? Please provide names,
+academic degrees and institutions.
+\item Which platform/architecture do you use?
+\item Who is the main-contact?
+\item How much time (man hours) will you have invested (approximately) until the tournament?
+\end{enumerate}
+
+\section{System Analysis and Design}
+
+\begin{enumerate}
+  \item How is your system  specified and designed?
+  \item Did you use any existing multi-agent system
+  methodology such as Prometheus, Gaia or Tropos?
+  \item Which strategies and algorithms do you plan to use?
+  \item How are the following agent features implemented:
+  \emph{autonomy}, \emph{proactiveness}
+  and \emph{communication}m \emph{team working}, and \emph{coordination}?
+  \item Is your system a truly \textbf{multi}-agent system or
+  rather a centralised system in disguise?
+\end{enumerate}
+
+
+
+\section{Software Architecture}
+
+\begin{enumerate}
+  \item Which programming language do you plan to use to implement the multi-agent system?
+  \item How would you map the designed architecture (both multi-agent and individual agent architectures)
+    to programming codes, i.e., how would you implement specific agent-oriented
+    concepts and designed artifacts using the programming language?
+  \item Which development platform, tools and techniques are you planning to use?
+
+\end{enumerate}
+Please give reasons why you have chosen the methods explained above.
+
+\section{Agent team strategy}
+
+Please address the following points, or at least comment if not applicable:
+
+\begin{enumerate}
+    \item Describe the navigation algorithms:
+        \begin{itemize}
+            \item obstacle avoiding
+            \item strategy for finding and herding cows
+            \item opponent blocking
+        \end{itemize}
+    \item Describe the team coordination strategy (if any)
+    \item Does your team strategy use some distributed optimization
+        technique w.r.t. e.g.  minimizing distances walked by the
+        agents?
+    \item Describe and discuss the information exchanged (and shared) in
+        the agent team.
+    \item Describe the communication strategy in the agent team. Can you
+        estimate the communication complexity in your approach?
+    \item Did your system do some background processing? Under background
+        processing we understand some computation which happened while agents of
+        the team were \textit{idle}, i.e. between sending an action
+        message to the simulation server and receiving a perception
+        message for the subsequent simulation step.
+    \item Possibly discuss additional technical details of your system like
+        e.g. failure/crash recovery and alike.
+\end{enumerate}
+
+\end{document}
+

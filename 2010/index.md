@@ -135,3 +135,22 @@ Thanks to everyone that has participated! You have stimulated research in the fi
 And of course, we should not forget the price! The winning team will get 500 EUR from Springer Verlag to buy books.
 
 Also see the [complete individual match results](/2010/78-results2010/).
+
+Downloads
+---------
+
+* [registration-template.tex](registration-template.tex)
+* [protocol.pdf](protocol.pdf)
+* [scenario.pdf](scenario.pdf)
+* Sources:
+  - [argonauts.zip](sources/argonauts.zip)
+  - [bogtrotters.zip](sources/bogtrotters.zip)
+  - [brainbug.zip](sources/brainbug.zip)
+  - [cowraiders.zip](sources/cowraiders.zip)
+  - [galoan.rar](sources/galoan.rar)
+  - [jason-dtu.zip](sources/jason-dtu.zip)
+  - [paulo.jar](sources/paulo.jar)
+  - [paulo.zip](sources/paulo.zip)
+  - [uspfarmers.zip](sources/uspfarmers.zip)
+
+<!-- TODO: Videos and stuff -->

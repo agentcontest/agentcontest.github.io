@@ -108,4 +108,4 @@ Downloads
 * [Protocol](protocol.pdf)
 * [Scenario 2009](scenario.pdf)
 
-TODO: JPGs, MP4, SVG, WebM
+<!-- TODO: JPGs, MP4, SVG, WebM -->
