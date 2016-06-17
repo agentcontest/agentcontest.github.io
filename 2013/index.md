@@ -149,4 +149,15 @@ Your team will play against all others. Each match has several rounds. The team 
 Downloads
 ---------
 
+* [massim-2013-1.4-bin.zip](massim-2013-1.4-bin.zip) (26 MB)
 * [scenario.pdf](scenario.pdf)
+* [registation.pdf](registration.pdf)
+* [tech-report-template.tar.bz2](tech-report-template.tar.bz2)
+* Sources:
+  - [AiWXX_source.zip](sources/AiWXX_source.zip)
+  - [GOAL-DTU_source.zip](sources/GOAL-DTU_source.zip)
+  - [LTI-USP_source.tar.gz](sources/LTI-USP_source.tar.gz)
+  - [TUB_source.zip](sources/TUB_source.zip)
+  - [UFSC_source.zip](sources/UFSC_source.zip)
+
+<!-- TODO: Videos, SVGs --->
