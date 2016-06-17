@@ -98,3 +98,12 @@ Pos. | Teamname | CowScore | Diff. | Points | Location
 During the week we ran 28 matches with all in all 84 simulations. All the simulations can be found below. You can view the SVG-videos with the newest Firefox. Thanks to everyone that has participated! You have stimulated research in the field of Multi-Agent Systems Programming! For more than a year we have invested a lot of time in improving the contest. We have had a lot of ups and downs during all those months. Today we are very satisfied that the contest has been a success. We will present the contest and announce the winner at the CLIMA workshop. We are looking forward to meeting some of you there! And of course, we should not forget the price! The winning team will get 500 EUR from Springer Verlag to buy books.
 
 Also see the [complete individual match results](/2009/40-results-of-2009/).
+
+Downloads
+---------
+
+* [AC09 Submissions Template](ac09-submissions-template.tex) (tex)
+* [Alpha MASSim config editor](SimpleMassimEditor.jar) (jar)
+* [MASSim Software Package (Server, Monitor, Agents)](massim-20090717-v1.2.tar.bz2) (tar.bz2)
+* [Protocol](protocol.pdf)
+* [Scenario 2009](scenario.pdf)
