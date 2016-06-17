@@ -105,3 +105,5 @@ Pos. | Teamname | Score | Difference | Points
 5 | AiWYX | 2301358 : 1526768 | 774590 | 24
 6 | PGIM | 1130432 : 2047735 | -917303 | 9
 7 | Streett | 192694 : 3699672 | -3506978 | 0
+
+Also see the [complete results of the individual matches](/2012/186-results/).
