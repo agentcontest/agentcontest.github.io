@@ -172,3 +172,20 @@ td, th {
   border: 1px solid #e6e6e6;
   padding: 0.5em;
 }
+
+/* Back to top */
+
+#back-to-top {
+  position: fixed;
+  right: 20px;
+  background: #e6e6e6;
+  text-decoration: none;
+  color: black;
+  width: 40px;
+  text-align: center;
+  border-radius: 5px;
+  display: block;
+  bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
