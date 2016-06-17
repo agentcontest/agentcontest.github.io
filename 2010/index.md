@@ -56,6 +56,12 @@ The performance of a particular system will be determined in a series of games w
 Scenario
 --------
 
+<video controls>
+  <source src="mapc2010.mp4" type="video/mp4">
+  <source src="mapc2010.webm" type="video/webm">
+  <img src="mapc2010.jpg">
+</video>
+
 The contest scenario consists of developing a multi-agent system to solve a cooperative task in a dynamic environment. The environment is a grid-like world in which virtual cows are moving around collectively in one or more herds exhibiting a swarm-like behavior. There are two corrals, each belongs to one of the two agent teams. The teams of agents compete to control the behavior of animals and lead them to their own corral. The winning agent team is the one that scores highest. A detailed scenario description of the scenario will be available in time.
 
 Participation requirements
