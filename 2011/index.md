@@ -108,6 +108,8 @@ Pos. | Teamname | Score | Difference | Points
 
 <sup>*</sup> Out of competition
 
+Also see the [complete results of the individual matches](/2011/96-results2011/).
+
 Software Package
 ----------------
 
