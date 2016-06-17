@@ -6,6 +6,8 @@ layout: page
 Overview
 --------
 
+![MAPC 2009](mapc2009.png)
+
 This contest was organized as part of the ProMAS'09 workshop organized within AAMAS 2009. Post proceedings where published with the CLIMA-X workshop. The contest consisted of applying (or developing from scratch) a multi-agent system to solve a cooperative task in a highly dynamic environment. The environment of the multi-agent system was a grid-like world in which animals (e.g., cows) are moving around collectively in one or more groups showing swarm like behaviour. There were two corrals each belongs to one of the agent teams. The teams of agents competed to control the behavior of animals and lead them to their own corral. The winning agent team was the one that has a higher number of cows collected in its corrals.
 
 * **Submission of the description:** 27.04.2009
@@ -24,11 +26,11 @@ The winner of this year's contest got  a cheque of **500 Euros** for Springer bo
 Organizers
 ----------
 
-* Tristan M. Behrens, Clausthal University of Technology,
-* Mehdi Dastani, Utrecht University,
-* Jürgen Dix, Clausthal University of Technology,
-* Michael Köster, Clausthal University of Technology,
-* Peter Novák, Clausthal University of Technology.
+* Tristan M. Behrens, [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](http://www.uu.nl/),
+* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* Michael Köster, [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* [Peter Novák](http://peter.aronde.net/), [http://www.tu-clausthal.de/](Clausthal University of Technology).
 
 Aims and Scope
 --------------
@@ -56,6 +58,12 @@ Story
 An unknown species of cattle was recently discovered in the unexplored ﬂatlands of Lemuria. The cows have some nice features: their carbondioxyde- and ethane-output is extremely low compared to the usual cattle and their beef and milk are of supreme quality and taste.
 
 These facts deﬁnitely caught the attention of the beef- and milk-industries. The government decided to allow the cows to be captured and bred by everyone who is interested and has the capabilities. Several well-known companies decided to send in their personnel to the ﬁelds to catch as many of them as possible. This led to an unprecedented rush for cows. To maximize their success the companies replaced their traditional cowboys by artiﬁcial herders. In this year’s agent contest the participants have to compete in an environment for cows. Each team controls a set of herders in order to direct the cows into their own corral. The team with the most cows in the corral at the end wins the match.
+
+<video controls>
+  <source src="mapc2009.mp4" type="video/mp4">
+  <source src="mapc2009.webm" type="video/webm">
+  <img src="mapc2009.jpg" alt="MAPC 2009">
+</video>
 
 Participation Requirements
 --------------------------
