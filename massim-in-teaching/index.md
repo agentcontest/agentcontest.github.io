@@ -4,7 +4,7 @@ permalink: /massim-in-teaching/
 layout: page
 ---
 
-![overview008.png](/overview800.png)
+![overview008.png](overview800.png)
 
 Our MASSim platform has been used extensively in teaching.
 Below you will find an overview.
