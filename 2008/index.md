@@ -59,13 +59,14 @@ Results
 
 **The winner is JIAC-TNG from DAI Labor at Technische Universität Berlin.** Congratulations!
 
-<video controls>
-  <source src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.webm" type="video/webm">
-  <source src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.mp4" type="video/mp4">
-  <img src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.jpg">
-</video>
-
-(JIAC-TNG against Jadex on CowSkullMountain)
+<figure>
+  <video controls>
+    <source src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.webm" type="video/webm">
+    <source src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.mp4" type="video/mp4">
+    <img src="GridSimulation_JIAC-TNGJadex_CowSkullMountain_2008-05-28_12-05.jpg">
+  </video>
+  <figcaption>JIAC-TNG against Jadex on CowSkullMountain</figcaption>
+</figure>
 
 These are the final scores:
 

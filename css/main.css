@@ -123,12 +123,18 @@ h4, h5, h6 {
 
 /* Videos and images */
 
+
 img, video {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
   max-width: 90vw;
   max-height: 90vh;
+}
+
+figcaption {
+  text-align: center;
+  color: #808080;
 }
 
 /* Tables */
