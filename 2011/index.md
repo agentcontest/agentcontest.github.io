@@ -110,8 +110,10 @@ Pos. | Teamname | Score | Difference | Points
 
 Also see the [complete results of the individual matches](/2011/96-results2011/).
 
-Software Package
-----------------
+Downloads
+---------
+
+### Software Package
 
 [massim-2011-1.0.2-bin.zip](massim-2011-1.0.2-bin.zip)
 
@@ -124,3 +126,17 @@ In that package you will find:
 5. extensive documentation of all components.
 
 In order to get started, just unpack the archive and read the readmefirst.pdf.
+
+### Sources
+
+* [HactarV2_Code.zip](sources/HactarV2_Code.zip)
+* [MAPC2011-Python-DTU.zip](sources/MAPC2011-Python-DTU.zip)
+* [Nargel.rar](sources/Nargel.rar)
+* [ProgContest-UCDBogtrotters.zip](sources/ProgContest-UCDBogtrotters.zip)
+* [Simurgh-Agents-1.0.4.rar](sources/Simurgh-Agents-1.0.4.rar)
+* [agentsHempelsSofa.tar.gz](sources/agentsHempelsSofa.tar.gz)
+* [d3lp0r.tar.bz2](sources/d3lp0r.tar.bz2)
+* [javaagents_Sorena.rar](sources/javaagents_Sorena.rar)
+* [tub-mapc11.zip](sources/tub-mapc11.zip)
+
+<!-- TODO: Videos, SVGs etc. -->
