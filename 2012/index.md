@@ -107,3 +107,21 @@ Pos. | Teamname | Score | Difference | Points
 7 | Streett | 192694 : 3699672 | -3506978 | 0
 
 Also see the [complete results of the individual matches](/2012/186-results/).
+
+Downloads
+---------
+
+* [MAPC 2012 Package](massim-2012-2.0-bin.zip)
+* [Registration Template](registration.zip)
+* [scenario.pdf](scenario.pdf)
+* [Technical Report Template](tech-report-template.tar.bz2)
+* Sources:
+  - [ac12-tub-team.zip](sources/ac12-tub-team.zip)
+  - [AiWYX+MAPC+source+code.zip](sources/AiWYX+MAPC+source+code.zip)
+  - [lti-agents-on-mars.zip](sources/lti-agents-on-mars.zip)
+  - [MAPC2012-Python-DTU.zip](sources/MAPC2012-Python-DTU.zip)
+  - [MAPC-UFSCTeam2012.zip](sources/MAPC-UFSCTeam2012.zip)
+  - [PGIM+Src.zip](sources/PGIM+Src.zip)
+  - [StreettAgents.zip](sources/StreettAgents.zip)
+
+<!-- TODO: Videos, SVGs -->
