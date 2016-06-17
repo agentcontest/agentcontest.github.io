@@ -18,6 +18,78 @@ We are very happy to announce that the team UFSC, Federal University of Santa Ca
 
 scored 36 points and did not loose one simulation! On second place is (as in the last two years) the group of Jørgen Villadsen, TU Denmark, with the team GOAL-DTU.
 
+Here is the ranking:
+
+Pos. | Teamname | Score | Difference | Matches | Simulations | Points
+--- | --- | --- | --- | --- | --- | ---
+1 | UFSC | 2702948 : 1455163 | 1247785 | 4 | 12 | 36
+2 | GOAL-DTU | 2284575 : 1614711 | 669864 | 4 | 12 | 27
+3 | LTI-USP | 2117299 : 2083105 | 34194 | 4 | 12 | 15
+4 | TUB | 1412702 : 2238820 | -826118 | 4 | 12 | 6
+5 | AiWXX | 1516760 : 2642485 | -1125725 | 4 | 12 | 6
+
+And the matches in detail:
+
+Simulation | GOAL-DTU | AiWXX
+--- | --- | ---
+Mars2013_AiWXXGOAL-DTU_contest-sim1 | 195354 | 71931
+Mars2013_AiWXXGOAL-DTU_contest-sim2 | 191117 | 68913
+Mars2013_AiWXXGOAL-DTU_contest-sim3 | 194647 | 73627
+
+Simulation | LTI-USP | TUB
+--- | --- | ---
+Mars2013_TUBLTI-USP_contest-sim1 | 191743 | 64471
+Mars2013_TUBLTI-USP_contest-sim2 | 151686 | 116471
+Mars2013_TUBLTI-USP_contest-sim3 | 156073 | 150546
+
+Simulation | UFSC | AiWXX
+--- | --- | ---
+Mars2013_AiWXXUFSC_contest-sim1 | 344515 | 47347
+Mars2013_AiWXXUFSC_contest-sim2 | 269472 | 174183
+Mars2013_AiWXXUFSC_contest-sim3 | 228745 | 88703
+
+Simulation | LTI-USP | GOAL-DTU
+--- | --- | ---
+Mars2013_GOAL-DTULTI-USP_contest-sim1 | 205582 | 232974
+Mars2013_GOAL-DTULTI-USP_contest-sim2 | 110012 | 182436
+Mars2013_GOAL-DTULTI-USP_contest-sim3 | 108518 | 180368
+
+Simulation | TUB | UFSC
+--- | --- | ---
+Mars2013_UFSCTUB_contest-sim1 | 73023 | 199726
+Mars2013_UFSCTUB_contest-sim2 | 92837 | 183607
+Mars2013_UFSCTUB_contest-sim3 | 65856 | 233481
+
+Simulation  | TUB | AiWXX
+--- | --- | ---
+Mars2013_AiWXXTUB_contest-sim1 | 225847 | 186805
+Mars2013_AiWXXTUB_contest-sim2 | 90896 | 154663
+Mars2013_AiWXXTUB_contest-sim3 | 159058 | 135720
+
+Simulation  | UFSC | LTI-USP
+--- | --- | ---
+Mars2013_LTI-USPUFSC_contest-sim1 | 230507 | 156413
+Mars2013_LTI-USPUFSC_contest-sim2 | 213397 | 156812
+Mars2013_LTI-USPUFSC_contest-sim3 | 197067 | 137626
+
+Simulation | GOAL-DTU | TUB
+--- | --- | ---
+Mars2013_TUBGOAL-DTU_contest-sim1 | 264550 | 154137
+Mars2013_TUBGOAL-DTU_contest-sim2 | 189743 | 156497
+Mars2013_TUBGOAL-DTU_contest-sim3 | 191023 | 63063
+
+Simulation | LTI-USP | AiWXX
+--- | --- | ---
+Mars2013_AiWXXLTI-USP_contest-sim1 | 164073 | 302245
+Mars2013_AiWXXLTI-USP_contest-sim2 | 193665 | 185458
+Mars2013_AiWXXLTI-USP_contest-sim3 | 385096 | 27165
+
+Simulation | GOAL-DTU | UFSC
+--- | --- | ---
+Mars2013_UFSCGOAL-DTU_contest-sim1 | 147232 | 171615
+Mars2013_UFSCGOAL-DTU_contest-sim2 | 187709 | 254590
+Mars2013_UFSCGOAL-DTU_contest-sim3 | 127422 | 176226
+
 Aims and Scope
 --------------
 
