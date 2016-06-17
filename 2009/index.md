@@ -107,3 +107,5 @@ Downloads
 * [MASSim Software Package (Server, Monitor, Agents)](massim-20090717-v1.2.tar.bz2) (tar.bz2)
 * [Protocol](protocol.pdf)
 * [Scenario 2009](scenario.pdf)
+
+TODO: JPGs, MP4, SVG, WebM
