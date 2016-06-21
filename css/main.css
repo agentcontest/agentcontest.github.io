@@ -138,31 +138,10 @@ h4, h5, h6 {
   font-size: 1.0em;
 }
 
-/* Videos and images */
-
-main img, main video {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  max-width: 90vw;
-  max-height: 90vh;
-}
-
-figcaption {
-  text-align: center;
-  color: #808080;
-}
-
 /* Tables */
 
 table {
   border-collapse: collapse;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  max-width: 100vw;
-  display: block;
-  overflow-x: auto;
   margin: 2em 0;
 }
 
@@ -178,6 +157,31 @@ tr:nth-child(even) {
 td, th {
   border: 1px solid #ac5419;
   padding: 0.5em;
+}
+
+/* Figures: Videos, images and tables */
+
+main img, main video {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 90vw;
+  max-height: 90vh;
+}
+
+figcaption {
+  text-align: center;
+  color: #808080;
+}
+
+table {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 100%;
+  max-width: 100vw;
+  display: block;
+  overflow-x: auto;
 }
 
 /* Back to top */

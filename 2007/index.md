@@ -122,7 +122,6 @@ Results
 
 The JiacIV team won the 2007 tournament. The following table summarizes the ranking and points of the participating teams:
 
-
 Pos. | Teamname | Points
 --- | --- | ---
 1 | JiacIVteam | 63
