@@ -12,13 +12,14 @@ body {
   font-family: Georgia,Times,"Times New Roman",serif;
   font-size: 16px;
   line-height: 1.5;
-  background: #E6E6E6;
+  background: #fae6c8;
 }
 
 footer {
   margin: 0;
   padding: 3em 0;
   text-align: center;
+  border-top: 2px solid #ac5419;
 }
 
 footer ul {
@@ -40,8 +41,9 @@ main {
   padding-bottom: 2em;
 }
 
-header .title {
-  font-size: 1.5em;
+header img {
+  margin: 1em 0;
+  max-width: 100%;
 }
 
 header ul {
@@ -57,9 +59,9 @@ header li {
   line-height: 3em;
 }
 
-@media(min-width: 600px) {
+@media(min-width: 630px) {
   .wrapper {
-    width: 600px;
+    width: 630px;
     margin: auto;
   }
 
@@ -119,17 +121,17 @@ a[href^="mailto:"]:before {
 
 h1 {
   font-size: 2em;
-  border-bottom: 4px solid #E6E6E6;
+  border-bottom: 4px solid #ac5419;
 }
 
 h2 {
   font-size: 1.8em;
-  border-bottom: 2px solid #E6E6E6;
+  border-bottom: 2px solid #ac5419;
 }
 
 h3 {
   font-size: 1.5em;
-  border-bottom: 1px solid #E6E6E6;
+  border-bottom: 1px solid #ac5419;
 }
 
 h4, h5, h6 {
@@ -138,8 +140,7 @@ h4, h5, h6 {
 
 /* Videos and images */
 
-
-img, video {
+main img, main video {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -166,11 +167,16 @@ table {
 }
 
 thead {
-  background: #e6e6e6;
+  background: #ac5419;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background: #fae6c8;
 }
 
 td, th {
-  border: 1px solid #e6e6e6;
+  border: 1px solid #ac5419;
   padding: 0.5em;
 }
 
@@ -179,12 +185,13 @@ td, th {
 #back-to-top {
   position: fixed;
   right: 20px;
-  background: #e6e6e6;
+  background: #fae6c8;
   text-decoration: none;
   color: black;
   width: 40px;
   text-align: center;
   border-radius: 5px;
+  border: 2px solid #ac5419;
   display: block;
   bottom: 10px;
   font-size: 30px;
