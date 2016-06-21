@@ -207,6 +207,41 @@ table {
   overflow-x: auto;
 }
 
+/* Code */
+
+code {
+  border: 1px solid #ac5419;
+  background: #fae6c8;
+  white-space: nowrap;
+  overflow-x: auto;
+  display: block;
+  margin: 1em;
+  padding: 0.2em;
+}
+
+/* Download button */
+
+a.download {
+  background-color: #4caf50;
+  border: 2px solid #4aa84a;
+  border-radius: 5px;
+  color: white;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  width: 300px;
+  padding: 0.5em;
+  margin: auto;
+}
+
+a.download:hover {
+  background: #66bb6a;
+}
+
+a.download > .title {
+  font-size: 1.5em;
+}
+
 /* Back to top */
 
 #back-to-top {
