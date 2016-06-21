@@ -24,6 +24,15 @@ We congratulate our Dutch friends wholeheartedly! The team of Pieter Hameete, Je
 
 The winner of the contest was awarded with a voucher for 500 EUR worth in books, thankfully provided by Springer Verlag.
 
+Organizers
+----------
+
+* Tristan Behrens, [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* [Jomi Hübner](http://www.das.ufsc.br/~jomi/home.html), [Federal University of Santa Catarina](http://www.ufsc.br/),
+* Michael Köster, [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* Federico Schlesinger, [Clausthal University of Technology](http://www.tu-clausthal.de/).
+
 Aims and Scope
 --------------
 
