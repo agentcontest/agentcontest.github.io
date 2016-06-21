@@ -70,6 +70,14 @@ header, footer {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+.post-meta {
+  margin-top: 3em;
+  border-top: 1px solid #ac5419;
+  border-bottom: 1px solid #ac5419;
+  padding: 0.5em 0;
+  text-align: center;
+}
+
 @media(min-width: 630px) {
   .wrapper {
     width: 630px;
@@ -89,7 +97,7 @@ header, footer {
 
 /* Links */
 
-a {
+a:link {
   color: #ac5419;
 }
 
@@ -138,6 +146,12 @@ a[href^="mailto:"]:before {
   font-family: FontAwesome;
   margin-right: 0.2em;
   content: "\f003";
+}
+
+a[href$="feed.xml"]:before {
+  font-family: FontAwesome;
+  margin-right: 0.2em;
+  content: "\f09e";
 }
 
 /* Headings */
@@ -219,9 +233,9 @@ code {
   padding: 0.2em;
 }
 
-/* Download button */
+/* Download and action buttons */
 
-a.download {
+a.action {
   background-color: #4caf50;
   border: 2px solid #4aa84a;
   border-radius: 5px;
@@ -234,11 +248,11 @@ a.download {
   margin: auto;
 }
 
-a.download:hover {
+a.action:hover {
   background: #66bb6a;
 }
 
-a.download > .title {
+a.action > .title {
   font-size: 1.5em;
 }
 

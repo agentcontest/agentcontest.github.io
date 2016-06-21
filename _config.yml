@@ -1,6 +1,7 @@
 # Site settings
 title: Multi-Agent Programming Contest
 url: "https://multiagentcontest.org"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
