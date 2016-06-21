@@ -184,7 +184,7 @@ td, th {
 
 /* Figures: Videos, images and tables */
 
-main img, main video {
+main img, main video, iframe {
   position: relative;
   left: 50%;
   transform: translateX(-50%);

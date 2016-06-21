@@ -1,29 +1,35 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% include head.html %}
+     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+     <link rel="stylesheet" href="/css/main.css">
+     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  </head>
   <body>
-
     <header>
       <nav class="wrapper">
         <a href="/"><img src="/mapc-logo-2015.png" alt="Multi-Agent Programming Contest"></a>
         <ul>
-          <li><a href="/">Getting started 2016</a></li>
+          <li><a href="/2016/getting-started/">Getting Started 2016</a></li>
           <li><a href="/publications/">Publications</a></li>
           <li><a href="/massim-in-teaching/">MASSim in Teaching</a></li>
           <li><a href="/#history">History</a></li>
         </ul>
       </nav>
     </header>
-
     <main>
       <div class="wrapper">
         {{ content }}
       </div>
       <a href="#top" id="back-to-top" title="Back to top">&#8593;</a>
     </main>
-
     <footer>
       <nav class="wrapper">
         <strong>Multi-Agent Programming Contest</strong>
@@ -32,7 +38,7 @@
           <li><a href="/massim-in-teaching/">MASSim in Teaching</a></li>
         </ul>
         <ul>
-          <li><a href="/2016/">2016</a></li>
+          <li><a href="/2016/getting-started/">2016</a></li>
           <li><a href="/2014/">2014</a></li>
           <li><a href="/2013/">2013</a></li>
           <li><a href="/2012/">2012</a></li>
@@ -50,7 +56,5 @@
         </ul>
       </nav>
     </footer>
-
   </body>
-
 </html>
