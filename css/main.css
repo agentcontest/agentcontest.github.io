@@ -43,9 +43,14 @@ main {
   padding-bottom: 2em;
 }
 
+header {
+  border-bottom: 1px solid #ac5419;
+}
+
 header img {
   margin: 1em 0;
   max-width: 100%;
+  border: none;
 }
 
 header ul {
@@ -59,6 +64,10 @@ header li {
   white-space: nowrap;
   padding-right: 1em;
   line-height: 3em;
+}
+
+header, footer {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 @media(min-width: 630px) {
@@ -82,6 +91,10 @@ header li {
 
 a {
   color: #ac5419;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 a:visited {
