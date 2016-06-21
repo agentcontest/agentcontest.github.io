@@ -1,3 +1,5 @@
+/* Primary (dark): #ac5419; secondary (light): #fae6c8 */
+
 /* Enumerations */
 
 ul, ol {
@@ -19,7 +21,7 @@ footer {
   margin: 0;
   padding: 3em 0;
   text-align: center;
-  border-top: 2px solid #ac5419;
+  border-top: 1px solid #ac5419;
 }
 
 footer ul {
@@ -77,6 +79,14 @@ header li {
 }
 
 /* Links */
+
+a {
+  color: #ac5419;
+}
+
+a:visited {
+  color: #44210a;
+}
 
 @font-face {
   font-family: 'FontAwesome';
@@ -171,7 +181,7 @@ main img, main video {
 
 figcaption {
   text-align: center;
-  color: #808080;
+  color: #666;
 }
 
 table {
