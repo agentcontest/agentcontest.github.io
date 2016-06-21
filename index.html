@@ -11,11 +11,11 @@ layout: default
     <li>
       <strong>
         {% if post.read_more %}
-          <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}</a>
+          <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</a>
         {% else %}
-          <time datetime="{{ post.date | date: "%Y.%m.%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}
+          <time datetime="{{ post.date | date: "%Y.%m.%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:
         {% endif %}
-      </strong>:
+      </strong>
       {{ post.excerpt | strip_html | strip_newlines }}
       {% if post.read_more %}<a href="{{ post.url }}">Read more.</a>{% endif %}
     </li>
