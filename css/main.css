@@ -148,10 +148,14 @@ a[href^="mailto:"]:before {
   content: "\f003";
 }
 
+a[href$="feed.xml"] {
+  text-decoration: none;
+  border-bottom: 1px solid #ac5419;
+}
 a[href$="feed.xml"]:before {
   font-family: FontAwesome;
   margin-right: 0.2em;
-  content: "\f09e";
+  content: "\f143";
 }
 
 /* Headings */
