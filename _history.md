@@ -1,12 +1,15 @@
-* [2014](/2014/)
-* [2013](/2013/)
-* [2012](/2012/)
-* [2011](/2011/)
-* [2010](/2010/)
-* [2009](/2009/)
-* [2008](/2008/)
-* [2007](/2007/)
-* [2006](/2006/)
-* [2005](/2005/)
+### 2011, 2012, 2013, 2014: Agents on Mars
 
-<!-- TODO: Feature some content -->
+![Agents on Mars](/2011/banner.jpg)
+
+### 2008, 2009, 2010: Cow Herding Scenario
+
+![Cows and Cowboys](/2010/banner.jpg)
+
+### 2006, 2007: Goldminers Scenario
+
+![Gold Miners](/2006/banner.jpg)
+
+### 2005: CLIMA VI Contest
+
+[![cares](/2005/banner.jpg)](/2005/)
