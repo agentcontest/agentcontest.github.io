@@ -45,10 +45,12 @@ main {
 
 header {
   border-bottom: 1px solid #ac5419;
+  padding: 1em;
+  text-align: center;
 }
 
 header img {
-  margin: 1em 0;
+  margin-bottom: 1em 0;
   max-width: 100%;
   border: none;
 }
