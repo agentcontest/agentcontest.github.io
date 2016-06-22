@@ -151,13 +151,18 @@ a[href^="mailto:"]:before {
   content: "\f003";
 }
 
-a.rss {
+a.rss, a.ics {
   text-decoration: none;
 }
 a.rss:before {
   font-family: FontAwesome;
   margin-right: 0.2em;
   content: "\f143";
+}
+a.ics:before {
+  font-family: FontAwesome;
+  margin-right: 0.2em;
+  content: "\f073";
 }
 
 /* Headings */
