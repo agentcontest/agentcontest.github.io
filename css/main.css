@@ -81,6 +81,10 @@ header, footer {
   text-align: center;
 }
 
+.centered {
+  text-align: center;
+}
+
 @media(min-width: 630px) {
   .wrapper {
     width: 630px;
