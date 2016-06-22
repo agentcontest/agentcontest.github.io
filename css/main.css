@@ -150,11 +150,10 @@ a[href^="mailto:"]:before {
   content: "\f003";
 }
 
-a[href$="feed.xml"] {
+a.rss {
   text-decoration: none;
-  border-bottom: 1px solid #ac5419;
 }
-a[href$="feed.xml"]:before {
+a.rss:before {
   font-family: FontAwesome;
   margin-right: 0.2em;
   content: "\f143";
