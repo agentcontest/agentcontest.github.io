@@ -12,6 +12,9 @@
      <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
      <link rel="alternate" type="application/rss+xml" href="/feed.xml">
+     <script>
+       document.createElement('main'); // for IE
+     </script>
   </head>
   <body>
     <header>
