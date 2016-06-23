@@ -98,6 +98,15 @@ header, footer {
   }
 }
 
+.news li {
+  margin: 1em 0;
+}
+
+.news p {
+  display: inline-block;
+  margin: 0;
+}
+
 /* Links */
 
 a:link {
