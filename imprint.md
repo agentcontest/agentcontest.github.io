@@ -27,3 +27,8 @@ Organizers
   [Clausthal University of Technology](http://www.tu-clausthal.de/)
 
 For more details please have a look at [cig.in.tu-clausthal.de](http://cig.in.tu-clausthal.de/).
+
+Mailing list
+------------
+
+Please use the [current mailing list](/2016/getting-started/#mailing-list-for-20152016) for contest related questions.
