@@ -16,7 +16,7 @@ layout: default
           <time datetime="{{ post.date | date: "%Y.%m.%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:
         {% endif %}
       </strong>
-      {{ post.excerpt | strip_html | strip_newlines }}
+      {{ post.excerpt | strip_newlines }}
       {% if post.read_more %}<a href="{{ post.url }}">Read more.</a>{% endif %}
     </li>
   {% endfor %}
