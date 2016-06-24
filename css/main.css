@@ -226,10 +226,13 @@ main img, main video, iframe {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  width: auto;
-  height: auto;
   max-width: 90vw;
   max-height: 90vh;
+}
+
+main img, main video {
+  width: auto;
+  height: auto;
 }
 
 figcaption {
