@@ -99,7 +99,7 @@ The participation in this contest consists of these parts:
 
 Until 31st of July: individual testing phase.
 
-1st - 8th of August: registration phase.
+1st - 15th of August: registration phase.
     (https://multiagentcontest.org/2016/registration.pdf)
 
 9th - 21st of August: connection testing.
