@@ -4,5 +4,5 @@ url: "https://multiagentcontest.org"
 baseurl: ""
 
 # Build settings
-incremental: true
+incremental: false
 markdown: kramdown
