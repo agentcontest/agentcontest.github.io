@@ -6,3 +6,7 @@ baseurl: ""
 # Build settings
 incremental: false
 markdown: kramdown
+
+# Plugins
+gems:
+ - jekyll-redirect-from
