@@ -6,13 +6,13 @@ title: Publications
 Books and collections
 ---------------------
 
-* Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue about Multi-Agent-Contest II](http://www.springerlink.com/content/1012-2443/61/4/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
-* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue about Multi-Agent-Contest I](http://www.springerlink.com/content/1012-2443/59/3-4/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
+* Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue on Multi-Agent-Contest 2010](http://link.springer.com/journal/10472/61/4), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue on Multi-Agent-Contest 2009](http://link.springer.com/journal/10472/59/3/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
 
 Chapters in books
 -----------------
 
-* Hindriks, Koen and Dix, Jürgen: GOAL: A Multi-Agent Programming Language Applied to an Exploration Game, Research Directions Agent-Oriented Software Engineering, Eds.: Onn Shehory and Arnon Sturm, pg. 112-136, Springer 2013. [AppliedGOAL.pdf](AppliedGOAL.pdf).
+* Hindriks, Koen and Dix, Jürgen: GOAL: A Multi-Agent Programming Language Applied to an Exploration Game, Research Directions Agent-Oriented Software Engineering, Eds.: Onn Shehory and Arnon Sturm, pg. 112-136, Springer 2013. [AppliedGOAL.pdf](AppliedGOAL.pdf). [^goal]
 
 Conference papers
 -----------------
@@ -26,9 +26,13 @@ Conference papers
 Articles
 --------
 
+* Ahlbrecht, Tobias and Dix, Jürgen and Schlesinger, Federico: [From Testing Agent Systems to a Scalable Simulation Platform](adv2015.pdf), Advances in Knowledge Representation, Logic Programming, and Abstract Argumentation. Springer International Publishing, 2015. 47-62. [adv2015.pdf](adv2015.pdf) [^gb60]
+* Tobias Ahlbrecht, Jürgen Dix, Michael Köster, Federico Schlesinger: [Multi-Agent Programming Contest 2013](http://link.springer.com/chapter/10.1007/978-3-642-45343-4_16), EMAS@AAMAS 2013: 292-318 [mapc2013.pdf](mapc2013.pdf) [^mapc2013]
+* Tobias Ahlbrecht et al.: [Multi-Agent Programming Contest 2013: The Teams and the Design of Their Systems](http://link.springer.com/chapter/10.1007/978-3-642-45343-4_22), EMAS@AAMAS 2013: 366-390 [mapc2013teams.pdf](mapc2013teams.pdf) [^mapc2013teams]
+* Köster, Michael, Federico Schlesinger, and Jürgen Dix. [The multi-agent programming contest 2012](http://link.springer.com/chapter/10.1007/978-3-642-38700-5_11), International Workshop on Programming Multi-Agent Systems. Springer Berlin Heidelberg, 2012. [mapc2012.pdf](mapc2012.pdf) [^mapc2012]
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Hübner, Jomi and Köster, Michael and Novák, Peter and Schlesinger, Federico: [The Multi-Agent Programming Contest](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2439), AI Magazine, Volume 33, Number 4, pg 111-113, 2012.
-* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
 * Behrens, Tristan and Hindriks, Koen and Dix, Jürgen: [Towards an environment interface standard for agent platforms](http://www.springerlink.com/content/v10u63368k117354/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, 2011
+* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
 * Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](http://www.springerlink.com/content/n412r60355226522/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
 * Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
@@ -50,9 +54,18 @@ Technical reports
 Talks
 -----
 
-* MAPC Winner Ceremony, Delft 2012. [delt2012.pdf](delft2012.pdf).
+* MAPC Winner Ceremony, Delft 2012. [delft2012.pdf](delft2012.pdf).
 * [IJCAI-NRAC](http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
 * [ProMAS IX](http://inf.ufrgs.br/promas2011/), 2011. [promas2011-mapc.pdf](promas2011-mapc.pdf).
 * [CLIMA X](http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
 * [Planning in Multiagent Systems](http://www.dagstuhl.de/08461), Dagstuhl 2008. [dagstuhl08planning.pdf](dagstuhl08planning.pdf).
 * [Programming Multi-Agent Systems](http://www.dagstuhl.de/08361), Dagstuhl 2008. [dagstuhl2008-BehrensTristan.pdf](dagstuhl2008-BehrensTristan.pdf).
+
+Remarks
+-------
+
+[^goal]: [^gb60]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-54432-3_12](http://dx.doi.org/10.1007/978-3-642-54432-3_12).
+[^gb60]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-319-14726-0_4](http://dx.doi.org/10.1007/978-3-319-14726-0_4).
+[^mapc2013]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-45343-4_16](http://dx.doi.org/10.1007/978-3-642-45343-4_16)
+[^mapc2013teams]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-45343-4_22](http://dx.doi.org/10.1007/978-3-642-45343-4_22)
+[^mapc2012]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-38700-5_11](http://dx.doi.org/10.1007/978-3-642-38700-5_11)
