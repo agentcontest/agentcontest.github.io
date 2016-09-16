@@ -64,8 +64,8 @@ Talks
 Remarks
 -------
 
-[^goal]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-54432-3_12](http://dx.doi.org/10.1007/978-3-642-54432-3_12).
-[^gb60]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-319-14726-0_4](http://dx.doi.org/10.1007/978-3-319-14726-0_4).
-[^mapc2013]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-45343-4_16](http://dx.doi.org/10.1007/978-3-642-45343-4_16)
-[^mapc2013teams]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-45343-4_22](http://dx.doi.org/10.1007/978-3-642-45343-4_22)
-[^mapc2012]: The final publication is available at Springer via [http://dx.doi.org/10.1007/978-3-642-38700-5_11](http://dx.doi.org/10.1007/978-3-642-38700-5_11)
+[^goal]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-54432-3_12](http://dx.doi.org/10.1007/978-3-642-54432-3_12).
+[^gb60]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-319-14726-0_4](http://dx.doi.org/10.1007/978-3-319-14726-0_4).
+[^mapc2013]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-45343-4_16](http://dx.doi.org/10.1007/978-3-642-45343-4_16)
+[^mapc2013teams]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-45343-4_22](http://dx.doi.org/10.1007/978-3-642-45343-4_22)
+[^mapc2012]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-38700-5_11](http://dx.doi.org/10.1007/978-3-642-38700-5_11)
