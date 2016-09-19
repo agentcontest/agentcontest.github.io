@@ -8,13 +8,13 @@ redirect_from: /2016/getting-started/
 Contest Results
 ---------------
 
-| Placement | Team | Total Score |
+| Placement | Team | Total Score | Sources |
 | -- |
-| 1 | PUCRS | 33 |
-| 2 | Flisvos-2016 | 30 |
-| 3 | lampe | 12 |
-| 4 | Python-DTU | 6 |
-| 5 | BathTUB | 5 |
+| 1 | PUCRS | 33 | [PUCRS.tar.gz](/2016/sources/PUCRS.tar.gz) |
+| 2 | Flisvos-2016 | 30 | [Flisvos-2016.zip](/2016/sources/Flisvos-2016.zip) |
+| 3 | lampe | 12 | [lampe.zip](/2016/sources/lampe.zip) |
+| 4 | Python-DTU | 6 | [Python-DTU.zip](/2016/sources/Python-DTU.zip) |
+| 5 | BathTUB | 5 | [BathTUB.zip](/2016/sources/BathTUB.zip) |
 
 | Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
 | -- |
