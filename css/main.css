@@ -310,3 +310,9 @@ code {
   background: #fae6c8;
   color: black;
 }
+
+/* TOC */
+
+#markdown-toc{
+  list-style-type: circle;
+}

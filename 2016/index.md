@@ -5,7 +5,10 @@ permalink: /2016/
 redirect_from: /2016/getting-started/
 ---
 
-Contest Results
+* Show the table of contents here
+{:toc}
+
+Results
 ---------------
 
 | Placement | Team | Total Score | Sources |
@@ -30,7 +33,7 @@ Contest Results
 | lampe vs. Python-DTU | 38280:**40863** | **172963**:47410 | **321791**:49088 | 6:2 | [ZIP](/2016/day2match4.zip) |
 | BathTUB vs. lampe | **64875**:50710 | 38638:**85114** | 173379:**383046** | 3:6 | [ZIP](/2016/day2match5.zip) |
 
-Contest Schedule
+Matchup Schedule
 ----------------
 
 Finally, the schedule is fixed. The contest will take place on 2 consecutive days: **September 12th and 13th**.
@@ -62,7 +65,7 @@ Finally, the schedule is fixed. The contest will take place on 2 consecutive day
 | 2 | Flisvos 2016 vs.<br> PUCRS | BathTUB vs.<br> lampe | 14:00 | 16:00 |
 | 3 | PUCRS vs.<br> Python-DTU  | none | 15:00 | 19:00 |
 
-Contest maps
+Maps
 ------------
 
 | Sim | Map | Download | Coordinates |
@@ -73,8 +76,8 @@ Contest maps
 
 All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
 
-Qualification
--------------
+Qualification details
+---------------------
 
 1. **Parameters**:
   * Sim: 200 steps (=> max. 14 minutes)
@@ -113,8 +116,8 @@ Registrants
 | PUCRS | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (Brazil) | Rafael Cauê Cardoso <br> Ramon Fraga Pereira <br> Maurício Cecilio Magnaguagno <br> Artur Freitas <br> Túlio Basegio <br> Alison Roberto Panisson <br> Guilherme Azevedo <br> Guilherme Krzisch <br> Tabajara Krausburg <br> Anibal Sólon Heinsfeld <br> Felipe Rech Meneguzzi | JaCaMo |
 | Python-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen <br> Andreas Halkjær From <br> Salvador Jacobi <br> Nikolaj Nøkkentved Larsen | Python | [PDF](../registration/python-dtu.pdf) |
 
-Schedule
----------
+Important dates
+---------------
 
 {% include_relative _schedule.html %}
 
