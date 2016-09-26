@@ -33,6 +33,16 @@ Results
 | lampe vs. Python-DTU | 38280:**40863** | **172963**:47410 | **321791**:49088 | 6:2 | [ZIP](/2016/day2match4.zip) |
 | BathTUB vs. lampe | **64875**:50710 | 38638:**85114** | 173379:**383046** | 3:6 | [ZIP](/2016/day2match5.zip) |
 
+Rematches
+---------
+
+Some teams decided to play some friendly matches a few days after the competition. The agents used were slightly "improved" or contained less (or more) bugs compared to their contest versions. See the results listed below.
+
+| Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
+| Flisvos-2016 vs. lampe | **211034**:153846 | **908215**:159359 | **706169**:155656 | 9:0 | [ZIP](/2016/rematch-Flisvos-lampe.zip) |
+| Flisvos-2016 vs. PUCRS | **113929**:-478368 | **211163**:57888 | **4101143**:1091542 | 9:0 | [ZIP](/2016/rematch-Flisvos-PUCRS.zip) |
+| lampe vs. PUCRS | 487318:**757660** | 294795:**455684** | 145333:**180023** | 0:9 | [ZIP](/2016/rematch-lampe-PUCRS.zip) |
+
 Matchup Schedule
 ----------------
 
