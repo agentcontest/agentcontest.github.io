@@ -8,8 +8,22 @@ redirect_from: /2016/getting-started/
 * Show the table of contents here
 {:toc}
 
+Publications
+------------
+The results of the contest will be published in the [International Journal of Agent-Oriented Software Engineering](http://www.inderscience.com/jhome.php?jcode=ijaose).
+
+* each paper is cross-reviewed and eventually accepted (minus big problems)
+* please aim for 20 pages (more is OK)
+* each paper must contain a part with answers to certain questions from us
+  * the questionary can be downloaded here: [ZIP](/2016/questionary.zip)
+  * the answers should be kept rather short
+  * you can refer to your main text, if you want to go more into detail
+  * you should stick to the structure of the questionary (i.e. one section in total, one subsection for each block of questions)
+* deadline for the papers is 31.10.2016
+* you can find templates for IJAOSE papers [here](http://www.inderscience.com/info/inauthors/author_templates.php)
+
 Results
----------------
+-------
 
 | Placement | Team | Total Score | Sources |
 | -- |
