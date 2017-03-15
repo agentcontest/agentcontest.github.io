@@ -51,7 +51,6 @@ header {
 }
 
 header img {
-  margin-bottom: 1em 0;
   max-width: 100%;
   border: none;
 }
@@ -306,13 +305,13 @@ code {
   font-weight: bold;
 }
 
-#back-to-top:hover{
+#back-to-top:hover {
   background: #fae6c8;
   color: black;
 }
 
-/* TOC */
+/* Table of contents */
 
-#markdown-toc{
+#markdown-toc {
   list-style-type: circle;
 }
