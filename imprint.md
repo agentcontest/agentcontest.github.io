@@ -29,7 +29,9 @@ For more details please have a look at [cig.in.tu-clausthal.de](http://cig.in.tu
 Mailing list
 ------------
 
-Please use the [current mailing list](/2017/#mailing-list) for contest related questions.
+Please use the [mailing list](https://groups.google.com/forum/#!forum/agentcontest) for contest related questions:
+
+`agentcontest@googlegroups.com`
 
 Past co-organizers
 ------------------
