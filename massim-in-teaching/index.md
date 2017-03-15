@@ -9,6 +9,10 @@ layout: page
 Our MASSim platform has been used extensively in teaching.
 Below you will find an overview.
 
+* Bachelor's project A.I., 2016, [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
+  Held by Tobias Ahlbrecht, Jürgen Dix, and Niklas Fiekas.
+  **C++/Goal/Jason** and MASSim using the **agents-in-the-city scenario**.
+
 * Course "Multi-Agent Systems I" at [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
   Held by Tristan Behrens, Michael Köster, Federico Schlesinger, and Jürgen Dix.
 

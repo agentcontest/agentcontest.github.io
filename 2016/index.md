@@ -5,23 +5,40 @@ permalink: /2016/
 redirect_from: /2016/getting-started/
 ---
 
-Contest Results
----------------
+* Show the table of contents here
+{:toc}
 
-| Placement | Team | Total Score |
+Publications
+------------
+The results of the contest will be published in the [International Journal of Agent-Oriented Software Engineering](http://www.inderscience.com/jhome.php?jcode=ijaose).
+
+* each paper is cross-reviewed and eventually accepted (minus big problems)
+* please aim for 20 pages (more is OK)
+* each paper must contain a part with answers to certain questions from us
+  * the questionary can be downloaded here: [ZIP](/2016/questionary.zip)
+  * the answers should be kept rather short
+  * you can refer to your main text, if you want to go more into detail
+  * you should stick to the structure of the questionary (i.e. one section in total, one subsection for each block of questions)
+* deadline for the papers is 31.10.2016
+* you can find templates for IJAOSE papers [here](http://www.inderscience.com/info/inauthors/author_templates.php)
+
+Results
+-------
+
+| Placement | Team | Total Score | Sources |
 | -- |
-| 1 | PUCRS | 33 |
-| 2 | Flisvos-2016 | 30 |
-| 3 | lampe | 12 |
-| 4 | Python-DTU | 6 |
-| 5 | BathTUB | 5 |
+| 1 | PUCRS | 33 | [PUCRS.tar.gz](/2016/sources/PUCRS.tar.gz) |
+| 2 | Flisvos-2016 | 30 | [Flisvos-2016.zip](/2016/sources/Flisvos-2016.zip) |
+| 3 | lampe | 12 | [lampe.zip](/2016/sources/lampe.zip) |
+| 4 | Python-DTU | 6 | [Python-DTU.zip](/2016/sources/Python-DTU.zip) |
+| 5 | BathTUB | 5 | [BathTUB.zip](/2016/sources/BathTUB.zip) |
 
 | Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
 | -- |
 | BathTUB vs. Python-DTU | -640,533:**49,725** | -111,406:**39,123** | **50,000**:38,919 | 2:4 | [ZIP](/2016/day1match1.zip) |
 | BathTUB vs. PUCRS | -1039:**851268** | 50000:**102345** | 36921:**227144** | 0:9 | [ZIP](/2016/day1match2.zip) |
 | lampe vs. PUCRS | 63776:**73549** | 55518:**159922** | 50000:**61728** | 0:9 | [ZIP](/2016/day1match3.zip) |
-| Flisvos-2016 vs. lampe | **117,353**:54,555 | **288,760**:47422 | **485,984**:-3,022 | 9:0 | [ZIP](/2016/day1match4.zip) |
+| Flisvos-2016 vs. lampe | **485,984**:-3,022 | **117,353**:54,555 | **288,760**:47422 | 9:0 | [ZIP](/2016/day1match4.zip) |
 | Flisvos-2016 vs. Python-DTU | **2,610,354**:36,764 | **1,156,322**:48,404 | **138,718**:43,968 | 9:0 | [ZIP](/2016/day1match5.zip) |
 |  |
 | BathTUB vs. Flisvos-2016 | 184763:**657500** | -508096:**977580** | 37258:**164839** | 0:9 | [ZIP](/2016/day2match1.zip) |
@@ -30,7 +47,17 @@ Contest Results
 | lampe vs. Python-DTU | 38280:**40863** | **172963**:47410 | **321791**:49088 | 6:2 | [ZIP](/2016/day2match4.zip) |
 | BathTUB vs. lampe | **64875**:50710 | 38638:**85114** | 173379:**383046** | 3:6 | [ZIP](/2016/day2match5.zip) |
 
-Contest Schedule
+Rematches
+---------
+
+Some teams decided to play some friendly matches a few days after the competition. The agents used were slightly "improved" or contained less (or more) bugs compared to their contest versions. See the results listed below.
+
+| Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
+| Flisvos-2016 vs. lampe | **211034**:153846 | **908215**:159359 | **706169**:155656 | 9:0 | [ZIP](/2016/rematch-Flisvos-lampe.zip) |
+| Flisvos-2016 vs. PUCRS | **113929**:-478368 | **211163**:57888 | **4101143**:1091542 | 9:0 | [ZIP](/2016/rematch-Flisvos-PUCRS.zip) |
+| lampe vs. PUCRS | 487318:**757660** | 294795:**455684** | 145333:**180023** | 0:9 | [ZIP](/2016/rematch-lampe-PUCRS.zip) |
+
+Matchup Schedule
 ----------------
 
 Finally, the schedule is fixed. The contest will take place on 2 consecutive days: **September 12th and 13th**.
@@ -62,7 +89,7 @@ Finally, the schedule is fixed. The contest will take place on 2 consecutive day
 | 2 | Flisvos 2016 vs.<br> PUCRS | BathTUB vs.<br> lampe | 14:00 | 16:00 |
 | 3 | PUCRS vs.<br> Python-DTU  | none | 15:00 | 19:00 |
 
-Contest maps
+Maps
 ------------
 
 | Sim | Map | Download | Coordinates |
@@ -73,8 +100,8 @@ Contest maps
 
 All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
 
-Qualification
--------------
+Qualification details
+---------------------
 
 1. **Parameters**:
   * Sim: 200 steps (=> max. 14 minutes)
@@ -113,8 +140,8 @@ Registrants
 | PUCRS | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (Brazil) | Rafael Cauê Cardoso <br> Ramon Fraga Pereira <br> Maurício Cecilio Magnaguagno <br> Artur Freitas <br> Túlio Basegio <br> Alison Roberto Panisson <br> Guilherme Azevedo <br> Guilherme Krzisch <br> Tabajara Krausburg <br> Anibal Sólon Heinsfeld <br> Felipe Rech Meneguzzi | JaCaMo |
 | Python-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen <br> Andreas Halkjær From <br> Salvador Jacobi <br> Nikolaj Nøkkentved Larsen | Python | [PDF](../registration/python-dtu.pdf) |
 
-Schedule
----------
+Important dates
+---------------
 
 {% include_relative _schedule.html %}
 
