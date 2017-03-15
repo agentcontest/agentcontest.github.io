@@ -1,9 +1,10 @@
-### 2016: Agents in the City
+### 2016, 2017: Agents in the City
 
 ![Agents in the City](/2016/banner.jpg){:width="630" height="280"}
 
 <div class="actions">
   <a href="/2016/">Agent Contest 2016</a>
+  <a href="/2017/">Agent Contest 2017</a>
 </div>
 
 ### 2011, 2012, 2013, 2014: Agents on Mars

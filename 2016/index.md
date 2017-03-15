@@ -222,14 +222,6 @@ The participation in this contest consists of these parts:
 4. Submitting the source-code of your application right after the tournament.
 5. Submitting a short paper describing different aspects regarding your participation in the contest (content tentative).
 
-Publications
-------------
-
-After the tournament we invite every participant to submit a paper
-about their team. The papers of which the quality has been assured
-will be regularly published. The publication outlet will be announced
-as soon as possible.
-
 Prize
 -----
 
