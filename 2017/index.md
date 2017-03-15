@@ -9,12 +9,13 @@ Preliminary Schedule
 
 {% include_relative _schedule.html %}
 
-The Scenario
-------------
+The Scenario: Agents in the City
+--------------------------------
 
 ![Agents in the City](/2016/banner.jpg){:width="630" height="280"}
 
-Our scenario consists of two teams of agents moving through the streets of a realistic city. The goal for each team is to earn as much money as possible.
+Our scenario consists of two teams of agents moving through the streets of a realistic city.
+Agents can earn money by completing tasks.
 
 
 <!-- Downloads
