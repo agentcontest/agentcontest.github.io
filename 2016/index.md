@@ -10,8 +10,10 @@ redirect_from: /2016/getting-started/
 
 Publications
 ------------
+
 The results of the contest will be published in the [International Journal of Agent-Oriented Software Engineering](http://www.inderscience.com/jhome.php?jcode=ijaose).
 
+* [preliminary preface](/2016/preface-prelim.pdf)
 * each paper is cross-reviewed and eventually accepted (minus big problems)
 * please aim for 20 pages (more is OK)
 * each paper must contain a part with answers to certain questions from us
