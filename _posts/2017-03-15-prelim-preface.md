@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAPC 2016 Preliminary preface
-date: 2016-09-29 15:00:00 +0200
+date: 2017-03-15 15:00:00 +0200
 author: Niklas Fiekas
 read_more: false
 ---
