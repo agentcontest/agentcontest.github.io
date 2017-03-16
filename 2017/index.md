@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The upcoming 2017 Contest
+title: The Upcoming Contest 2017
 permalink: /2017/
 ---
 
@@ -8,6 +8,10 @@ Preliminary Schedule
 --------------------
 
 {% include_relative _schedule.html %}
+
+<div class="centered">
+  More exact dates will be announced as soon as possible.
+</div>
 
 The Scenario: Agents in the City
 --------------------------------
