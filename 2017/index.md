@@ -22,16 +22,14 @@ Our scenario consists of two teams of agents moving through the streets of a rea
 Agents can earn money by completing tasks.
 
 
-<!-- Downloads
+Downloads
 ---------
 
 <div class="actions">
-  <a href="/2016/massim-2016-1.3.2-bin.tar.gz" title="massim-2016-1.3.2-bin.tar.gz">
+  <a href="https://github.com/agentcontest/massim/releases" title="MASSim on GitHub">
     <span class="title">Preview package</span>
     <br>
-    <span class="filename">massim-2016-1.3.2-bin.tar.gz</span>
-    <br>
-    <span class="filename">(requires Java 8 to run)</span>
+    <span class="filename">MASSim Releases on GitHub</span>
   </a>
 </div>
 
@@ -61,7 +59,7 @@ Agents can earn money by completing tasks.
 </table>
 
 **Problems?** Just write to the mailing list. **No problems?** *Register yourself to the mailing list anyway and write us a short hello message.*
--->
+
 
 Mailing List
 ------------
@@ -74,6 +72,11 @@ mailing list](https://groups.google.com/forum/#!forum/agentcontest):
 All the important details and announcements including scenario and communication protocol specifications as well as software release announcements and bug reports will be announced and discussed via this list.
 
 The [mailing list archive](https://groups.google.com/forum/#!forum/agentcontest) is semi-public. That means, it is accessible to list subscribers.
+
+Changelog
+---------
+
+We have listed some [major changes](changelog) in case you are coming from the 2016 version.
 
 Publications
 ------------
