@@ -254,7 +254,7 @@ table {
 code {
   border: 1px solid #ac5419;
   background: #fae6c8;
-  white-space: nowrap;
+  white-space: pre;
   overflow-x: auto;
   display: block;
   margin: 1em;
