@@ -145,6 +145,12 @@ a[href$=".tex"]:before {
   content: "\f0f6";
 }
 
+a[href^="https://github.com/"]:before {
+  font-family: FontAwesome;
+  margin-right: 0.2em;
+  content: "\f09b";
+}
+
 a[href$=".tar.bz2"]:before,
 a[href$=".tar.gz"]:before,
 a[href$=".tar.xz"]:before,
