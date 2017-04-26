@@ -91,7 +91,7 @@ Galoan | Islamic Azad University-Malayer Branch | Iran | *Vahid Rafe*, Aghil Bay
 Software Package
 ----------------
 
-The package contains:
+The package (see below for downloads) contains:
 
 * the scenario-description,
 * the protocol-description that explains the communication-protocol,
@@ -145,6 +145,10 @@ Also see the [complete individual match results](/2010/78-results2010/).
 Downloads
 ---------
 
+* [massim-2010-07-29.tar.bz2](massim-2010-07-29.tar.bz2)
+  * officially released package
+* [massim-2010.zip](massim-2010.zip)
+  * repackaged version from end of 2010; includes eismassim and javaagents
 * [registration-template.tex](registration-template.tex)
 * [protocol.pdf](protocol.pdf)
 * [scenario.pdf](scenario.pdf)
