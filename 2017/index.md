@@ -19,7 +19,7 @@ The Scenario: Agents in the City
 ![Agents in the City](/2016/banner.jpg){:width="630" height="280"}
 
 Our scenario consists of two teams of agents moving through the streets of a realistic city.
-Agents can earn money by completing tasks.
+Agents can earn money by completing tasks. [Full specification](https://github.com/agentcontest/massim/blob/master/docs/scenario.md).
 
 
 Downloads
@@ -33,33 +33,32 @@ Downloads
   </a>
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Your client</th>
-      <th>The server</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%">The package contains dummy agents for several platforms:
-        <ul>
-          <li>Jason/Eismassim (Java & AgentSpeak)</li>
-          <li>Pyson (Python & AgentSpeak)</li>
-          <li>Java</li>
-        </ul>
+**Problems with the software?** Just write to the mailing list. **No problems?** *Register yourself to the mailing list anyway and write us a short hello message.*
 
-        There have also always been teams that implemented the communication protocol themselves.
-      </td>
-      <td>Unpack the software package and start the contest server for development and testing. In a shell: <code>java -jar server.jar</code>
-        We will host a shared server for the final online tournament.
-      </td>
-    </tr>
-  </tbody>
-</table>
+### The server
 
-**Problems?** Just write to the mailing list. **No problems?** *Register yourself to the mailing list anyway and write us a short hello message.*
+Unpack the software package and start the contest server for development and testing. In a shell:
 
+```bash
+cd server
+java -jar server-2017-0.1-jar-with-dependencies.jar \
+  --monitor 8000  # with webmonitor on port 8000
+```
+
+[Detailed documentation](https://github.com/agentcontest/massim/blob/master/docs/server.md).
+
+### Your client
+
+The package contains dummy agents for several platforms. You can use these
+as starting points:
+
+* [Jason/Eismassim](https://github.com/agentcontest/massim/blob/master/docs/eismassim.md) (Java & AgentSpeak)
+* [Java](https://github.com/agentcontest/massim/blob/master/docs/javaagents.md)
+* <del>Pyson (Python & AgentSpeak)</del> *coming soon*
+
+There have also always been teams that implemented the
+[communication protocol](https://github.com/agentcontest/massim/blob/master/docs/protocol.md)
+themselves.
 
 Mailing List
 ------------

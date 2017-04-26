@@ -8,22 +8,33 @@ layout: default
 
 <ul class="news">
   {% for post in site.posts limit:4 %}
-    <li>
-      <strong>
-        {% if post.read_more %}
-          <a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</a>
-        {% else %}
-          <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:
-        {% endif %}
-      </strong>
-      {{ post.excerpt | strip_newlines }}
-      {% if post.read_more %}<a href="{{ post.url }}">Read more.</a>{% endif %}
-    </li>
+    {% if post.hidden == null %}
+      <li>
+        <strong>
+          {% if post.read_more %}
+            <a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</a>
+          {% else %}
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:
+          {% endif %}
+        </strong>
+        {{ post.excerpt | strip_newlines }}
+        {% if post.read_more %}<a href="{{ post.url }}">Read more.</a>{% endif %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
 <div class="centered">
   <a href="/feed.xml" class="rss">Subscribe via RSS</a>
+</div>
+
+<h2>2016, 2017: Agents in the City</h2>
+
+<img src="/2016/banner.jpg" width="630" height="280" alt="Agents in the City">
+
+<div class="actions">
+  <a href="/2016/">Agent Contest 2016</a>
+  <a href="/2017/">Agent Contest 2017</a>
 </div>
 
 <h2 id="aims-and-scope">Aims and Scope</h2>
