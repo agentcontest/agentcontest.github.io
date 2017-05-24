@@ -14,7 +14,7 @@ of multi-agent system development and programming by
 1. identifying key problems,
 2. collecting suitable benchmarks, and
 3. gathering test cases which require and enforce coordinated
-    action
+    action
 that can serve as milestones for testing multi-agent programming
 languages, platforms and tools. We also expect that participating
 at the contest helps to debug existing systems and to identify their
@@ -45,7 +45,7 @@ After the first instance in 2016, we present
 an iteration on the fifth MAPC scenario: "Agents in the city".
 The goal is to implement a team of cooperating agents with different roles
 in order to complete certain jobs on realistic street graphs. The challenge of the scenario is
-its once again increased complexity: agents have to reason about the quality of jobs and how to complete them.
+its ever increasing complexity: agents have to reason about the quality of jobs and how to complete them. This time around, we focus even more on enforcing cooperation among agents.
 
 
 4. ENROLLING AND DOWNLOAD
@@ -111,12 +111,12 @@ of the agents.
 9. PEOPLE
 
 Organizers:
-  Tobias Ahlbrecht(Clausthal University of Technology)
-  Jürgen Dix (Clausthal University of Technology)
-  Niklas Fiekas (Clausthal University of Technology)
+  Tobias Ahlbrecht(Clausthal University of Technology)
+  Jürgen Dix (Clausthal University of Technology)
+  Niklas Fiekas (Clausthal University of Technology)
 
 Steering Committee:
-  Mehdi Dastani (Utrecht University)
-  Jürgen Dix (Clausthal University of Technology)
-  Jomi Hübner (Federal University of Santa Catarina)
-  Peter Novak (Delft University of Technology)
+  Mehdi Dastani (Utrecht University)
+  Jürgen Dix (Clausthal University of Technology)
+  Jomi Hübner (Federal University of Santa Catarina)
+  Peter Novak (Delft University of Technology)
