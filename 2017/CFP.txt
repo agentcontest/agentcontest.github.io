@@ -84,10 +84,10 @@ Until 31st of July: individual testing phase.
 
 9th - 21st of August: connection testing. You will have the chance to test the connection to our servers.
 
-September: qualification phase. You have to prove
+4th of September: qualification phase. You have to prove
 that your agents' connections to our servers are stable and reliable.
 
-September: tournament.
+Week of 18th of September: tournament.
 
 After tournament: publications.
 
