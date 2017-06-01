@@ -14,10 +14,6 @@ Preliminary Schedule
 
 {% include_relative _schedule.html %}
 
-<div class="centered">
-  More exact dates will be announced as soon as possible.
-</div>
-
 The Scenario: Agents in the City
 --------------------------------
 
@@ -46,7 +42,7 @@ Unpack the software package and start the contest server for development and tes
 
 ```bash
 cd server
-java -jar server-2017-0.1-jar-with-dependencies.jar \
+java -jar server-2017-0.3-jar-with-dependencies.jar \
   --monitor 8000  # with webmonitor on port 8000
 ```
 
@@ -75,7 +71,7 @@ mailing list](https://groups.google.com/forum/#!forum/agentcontest):
 
 All the important details and announcements including scenario and communication protocol specifications as well as software release announcements and bug reports will be announced and discussed via this list.
 
-The [mailing list archive](https://groups.google.com/forum/#!forum/agentcontest) is semi-public. That means, it is accessible to list subscribers.
+The [mailing list archive](https://groups.google.com/forum/#!forum/agentcontest) is publically available.
 
 Changelog
 ---------
