@@ -4,6 +4,11 @@ title: The Upcoming Contest 2017
 permalink: /2017/
 ---
 
+Registration
+------------
+
+To register for the contest, please fill out the [Registration Template](/2017/registration-template-2017.zip) and follow the instructions in the sample PDF.
+
 Preliminary Schedule
 --------------------
 
