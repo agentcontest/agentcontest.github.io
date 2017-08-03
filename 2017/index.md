@@ -42,7 +42,7 @@ Unpack the software package and start the contest server for development and tes
 
 ```bash
 cd server
-java -jar server-2017-0.3-jar-with-dependencies.jar \
+java -jar server-2017-0.5-jar-with-dependencies.jar \
   --monitor 8000  # with webmonitor on port 8000
 ```
 
