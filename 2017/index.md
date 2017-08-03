@@ -55,7 +55,7 @@ as starting points:
 
 * [Jason/Eismassim](https://github.com/agentcontest/massim/blob/master/docs/eismassim.md) (Java & AgentSpeak)
 * [Java](https://github.com/agentcontest/massim/blob/master/docs/javaagents.md)
-* <del>Pyson (Python & AgentSpeak)</del> *coming soon*
+* <del>Pyson (Python & AgentSpeak)</del>
 
 There have also always been teams that implemented the
 [communication protocol](https://github.com/agentcontest/massim/blob/master/docs/protocol.md)
