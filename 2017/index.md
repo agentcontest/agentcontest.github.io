@@ -7,7 +7,19 @@ permalink: /2017/
 Registration
 ------------
 
-To register for the contest, please fill out the [Registration Template](/2017/registration-template-2017.zip) and follow the instructions in the sample PDF.
+The registration phase has been completed! The following teams have registered:
+
+| Team | Affiliation | Members | Language/<br>Platform | Details |
+| -- |
+| Busy Beaver | Technische<br> Universität<br> Clausthal<br> (Germany) | Jonathan Pieper | Pyson | [PDF](../registration/Busy-Beaver.pdf) |
+| Chameleon | Shahid Beheshti University (Iran) | Milad Momeni <br> Sara Marahemi <br> Mojtaba Nouroozi <br> Ehsan Emami <br> Peyman Hassan Abadi | Java | [PDF](../registration/Chameleon.pdf) |
+| Flisvos 2017 ("Hot Stuff" edition) |  | Evangelos I. Sarmas | Python | [PDF](../registration/Flisvos-2017.pdf) |
+| Jason-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen <br> Oliver Fleckenstein <br> Helge Hatteland <br> John Bruntse Larsen <br> Eirik Oterholm Nielsen <br> Martin Nielsen | Jason + CArtAgO | [PDF](../registration/Jason-DTU.pdf) |
+| lampe | Technische<br> Universität<br> Clausthal<br> (Germany) | Philipp Czerner <br> Jonathan Pieper | C++ | [PDF](../registration/lampe.pdf) |
+| SMART-JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul & Universidade Federal de Santa Catarina (Brazil) | Rafael C. Cardoso <br> Tabajara Krausburg <br> Túlio Basegio <br> Débora Engelmann <br> Rafael H. Bordini <br> Jomi F. Hübner | JaCaMo | [PDF](../registration/SMART-JaCaMo.pdf) |
+| TUBDAI | Technische<br> Universität<br> Berlin<br> (Germany) | Christopher-Eyk Hrabia <br> Patrick Marvin Lehmann <br> Yousuf Shaladi <br> Nabil Battjbuer <br> Axel Heßler | Python | [PDF](../registration/TUBDAI.pdf) |
+
+<del>To register for the contest, please fill out the [Registration Template](/2017/registration-template-2017.zip) and follow the instructions in the sample PDF.</del>
 
 Preliminary Schedule
 --------------------
