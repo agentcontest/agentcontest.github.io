@@ -12,7 +12,7 @@ The registration phase has been completed! The following teams have registered:
 | Team | Affiliation | Members | Language/<br>Platform | Details |
 | -- |
 | Busy Beaver | Technische<br> Universität<br> Clausthal<br> (Germany) | Jonathan Pieper | Pyson | [PDF](registration/Busy-Beaver.pdf) |
-| Chameleon | Shahid Beheshti University (Iran) | Milad Momeni, <br> Sara Marahemi, <br> Mojtaba Nouroozi, <br> Ehsan Emami, <br> Peyman Hassan Abadi | Java | [PDF](registration/Chameleon.pdf) |
+| Chameleon | Shahid Beheshti University (Iran) | Monire Abdoos, <br> Milad Momeni, <br> Sara Marahemi, <br> Mojtaba Nouroozi, <br> Ehsan Emami, <br> Peyman Hassan Abadi | Java | [PDF](registration/Chameleon.pdf) |
 | Flisvos 2017 <br> ("Hot Stuff" edition) |  | Evangelos I. Sarmas | Python | [PDF](registration/Flisvos-2017.pdf) |
 | Jason-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen, <br> Oliver Fleckenstein, <br> Helge Hatteland, <br> John Bruntse Larsen, <br> Eirik Oterholm Nielsen, <br> Martin Nielsen | Jason + CArtAgO | [PDF](registration/Jason-DTU.pdf) |
 | lampe | Technische<br> Universität<br> Clausthal<br> (Germany) | Philipp Czerner, <br> Jonathan Pieper | C++ | [PDF](registration/lampe.pdf) |
