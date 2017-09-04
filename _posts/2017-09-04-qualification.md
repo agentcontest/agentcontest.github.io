@@ -6,4 +6,4 @@ author: Niklas Fiekas
 read_more: false
 ---
 
-Congratulations, all [7 registered teams](/2017/#registration) have qualified. We also just [released](https://github.com/agentcontest/massim/releases) version 1.6 that we used today.
+Congratulations, all [7 registered teams](/2017/#registration) have qualified! We also just [released](https://github.com/agentcontest/massim/releases) version 1.6 that we used today.
