@@ -54,7 +54,7 @@ Unpack the software package and start the contest server for development and tes
 
 ```bash
 cd server
-java -jar server-2017-0.5-jar-with-dependencies.jar \
+java -jar server-2017-0.6-jar-with-dependencies.jar \
   --monitor 8000  # with webmonitor on port 8000
 ```
 
@@ -67,7 +67,7 @@ as starting points:
 
 * [Jason/Eismassim](https://github.com/agentcontest/massim/blob/master/docs/eismassim.md) (Java & AgentSpeak)
 * [Java](https://github.com/agentcontest/massim/blob/master/docs/javaagents.md)
-* <del>Pyson (Python & AgentSpeak)</del>
+* [Pyson](https://github.com/niklasf/pyson) (Python & AgentSpeak)
 
 There have also always been teams that implemented the
 [communication protocol](https://github.com/agentcontest/massim/blob/master/docs/protocol.md)
