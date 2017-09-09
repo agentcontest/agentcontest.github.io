@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Upcoming Contest 2017
+title: The 2017 Contest
 permalink: /2017/
 ---
 
@@ -21,8 +21,8 @@ The registration phase has been completed! The following teams have registered:
 
 <del>To register for the contest, please fill out the [Registration Template](/2017/registration-template-2017.zip) and follow the instructions in the sample PDF.</del>
 
-Preliminary Schedule
---------------------
+Important dates
+---------------
 
 {% include_relative _schedule.html %}
 
