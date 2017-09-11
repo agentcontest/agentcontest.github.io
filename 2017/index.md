@@ -60,7 +60,7 @@ Downloads
 
 <div class="actions">
   <a href="https://github.com/agentcontest/massim/releases" title="MASSim on GitHub">
-    <span class="title">Preview package</span>
+    <span class="title">Final package</span>
     <br>
     <span class="filename">MASSim Releases on GitHub</span>
   </a>
