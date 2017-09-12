@@ -4,6 +4,21 @@ title: The 2017 Contest
 permalink: /2017/
 ---
 
+Tournament
+----------
+
+The tournament will take place September 18th to 21st. All times are CEST.
+
+| Time | Monday |  | Tuesday |  | Wednesday |  | Thursday |  |
+| -- |
+|  | ac1 |ac2 | ac1 | ac2 | ac1 | ac2 | ac1 | ac2 |
+| 14:00 - 16:00 | SMART-JaCaMo | Chameleon | SMART-JaCaMo | BusyBeaver | Jason-DTU | lampe | Chameleon | SMART-JaCaMo |
+|  | TUBDAI | lampe | Chameleon | Jason-DTU | Chameleon | TUBDAI | BusyBeaver | Jason-DTU |
+| 16:00 - 18:00 | Flisvos | BusyBeaver | Flisvos | Jason-DTU | Flisvos | TUBDAI | Chameleon | Jason-DTU |
+|  | TUBDAI | lampe | Chameleon | TUBDAI | Jason-DTU | BusyBeaver | TUBDAI | lampe |
+| 18:00 - 20:00 | Flisvos || Flisvos | SMART-JaCaMo ||| BusyBeaver | SMART-JaCaMo |
+| | SMART-JaCaMo || lampe | BusyBeaver ||| Flisvos | lampe |
+
 Registration
 ------------
 
