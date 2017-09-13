@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAPC 2017 - Tournament details
-date: 2017-08-09 10:00:00 +0200
+date: 2017-09-13 10:00:00 +0200
 author: Tobias Ahlbrecht
 read_more: false
 ---
