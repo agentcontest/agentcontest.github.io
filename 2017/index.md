@@ -19,6 +19,11 @@ The tournament will take place September 18th to 21st. All times are CEST.
 | 18:00 - 20:00 | Flisvos || Flisvos | SMART-JaCaMo ||| BusyBeaver | SMART-JaCaMo |
 | | SMART-JaCaMo || lampe | BusyBeaver ||| Flisvos | lampe |
 
+- ac1: agentcontest1.in.tu-clausthal.de
+- ac2: agentcontest2.in.tu-clausthal.de
+- Matches may start early if both teams and server available
+- Matches may start late, if preceding match is taking longer (unlikely)
+
 Registration
 ------------
 
