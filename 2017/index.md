@@ -23,7 +23,7 @@ Placement | Team | Total score
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-SMART-JaCaMo vs. TUBDAI | | | |
+SMART-JaCaMo vs. TUBDAI | [**119&thinsp;881** : 22&thinsp;001](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim1) | | | 3 : 0
 Chameleon vs. lampe | | | |
 
 ### Schedule
