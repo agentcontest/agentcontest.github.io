@@ -26,7 +26,7 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 SMART&#8209;JaCaMo vs. TUBDAI | [**119&nbsp;881**&nbsp;:&nbsp;22&nbsp;001](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim1) | [**88&nbsp;611**&nbsp;:&nbsp;3&nbsp;512](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim2) | [**105&nbsp;950**&nbsp;:&nbsp;30&nbsp;867](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim3) | 9 : 0
 Chameleon vs. lampe | [38&nbsp;716&nbsp;:&nbsp;**210&nbsp;129**](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim1) | [-5&nbsp;060&nbsp;:&nbsp;**160&nbsp;596**](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim2) | [**23&nbsp;787**&nbsp;:&nbsp;1&nbsp;709](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim3) | 2 : 6
 Flisvos vs. TUBDAI | [**154&nbsp;675**&nbsp;:&nbsp;2&nbsp;564](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim1) | [**108&nbsp;436**&nbsp;:&nbsp;30&nbsp;650](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim2) | [**132&nbsp;340**&nbsp;:&nbsp;16&nbsp;183](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim3) | 9 : 0
-BusyBeaver vs. lampe |
+BusyBeaver vs. lampe | [**80&nbsp;086**&nbsp;:&nbsp;51&nbsp;626](/2017/replays/?2017-09-18-17-03-42-2017-MAPC-Sim1) | [XXX](/2017/replays/?2017-09-18-17-03-42-2017-MAPC-Sim2) | [XXX](/2017/replays/2017-09-18-17-03-42-2017-MAPC-Sim3) |
 Flisvos vs. SMART&#8209;JaCaMo |
 
 ### Schedule
