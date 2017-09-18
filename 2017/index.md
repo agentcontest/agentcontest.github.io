@@ -7,17 +7,38 @@ permalink: /2017/
 Tournament
 ----------
 
+### Standings
+
+Placement | Team | Total score
+--- | --- | ---
+1 | Busy Beaver |
+2 | Chameleon |
+3 | Flisvos 2017 ("Hot Stuff" edition) |
+4 | Jason-DTU |
+5 | lampe |
+6 | SMART-JaCaMo |
+7 | TUBDAI |
+
+### Results and replays
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+SMART-JaCaMo vs. TUBDAI | | | |
+Chameleon vs. lampe | | | |
+
+### Schedule
+
 The tournament will take place September 18th to 21st. All times are CEST.
 
 | Time | Monday |  | Tuesday |  | Wednesday |  | Thursday |  |
 | -- |
 |  | ac1 |ac2 | ac1 | ac2 | ac1 | ac2 | ac1 | ac2 |
-| 14:00 - 16:00 | SMART-JaCaMo | Chameleon | SMART-JaCaMo | BusyBeaver | Jason-DTU | lampe | Chameleon | SMART-JaCaMo |
-|  | TUBDAI | lampe | Chameleon | Jason-DTU | Chameleon | TUBDAI | BusyBeaver | Jason-DTU |
-| 16:00 - 18:00 | Flisvos | BusyBeaver | Flisvos | Jason-DTU | Flisvos | TUBDAI | Chameleon | Jason-DTU |
-|  | TUBDAI | lampe | Chameleon | TUBDAI | Jason-DTU | BusyBeaver | TUBDAI | lampe |
-| 18:00 - 20:00 | Flisvos || Flisvos | SMART-JaCaMo ||| BusyBeaver | SMART-JaCaMo |
-| | SMART-JaCaMo || lampe | BusyBeaver ||| Flisvos | lampe |
+| 14:00&nbsp;-&nbsp;16:00 | SMART&#8209;JaCaMo | Chameleon | SMART&#8209;JaCaMo | BusyBeaver | Jason&#8209;DTU | lampe | Chameleon | SMART&#8209;JaCaMo |
+|  | TUBDAI | lampe | Chameleon | Jason&#8209;DTU | Chameleon | TUBDAI | BusyBeaver | Jason&#8209;DTU |
+| 16:00&nbsp;-&nbsp;18:00 | Flisvos | BusyBeaver | Flisvos | Jason&#8209;DTU | Flisvos | TUBDAI | Chameleon | Jason&#8209;DTU |
+|  | TUBDAI | lampe | Chameleon | TUBDAI | Jason&#8209;DTU | BusyBeaver | TUBDAI | lampe |
+| 18:00&nbsp;-&nbsp;20:00 | Flisvos || Flisvos | SMART&#8209;JaCaMo ||| BusyBeaver | SMART&#8209;JaCaMo |
+| | SMART&#8209;JaCaMo || lampe | BusyBeaver ||| Flisvos | lampe |
 
 - ac1: [agentcontest1.in.tu-clausthal.de](http://agentcontest1.in.tu-clausthal.de/)
 - ac2: [agentcontest2.in.tu-clausthal.de](http://agentcontest2.in.tu-clausthal.de/)
