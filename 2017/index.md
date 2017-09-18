@@ -13,18 +13,18 @@ Placement | Team | Total score
 --- | --- | ---
 1 | SMART-JaCaMo | 9
 2 | Flisvos 2017 ("Hot Stuff" edition) | 9
-3 | TUBDAI | 0
-4 | Busy Beaver |
-5 | Chameleon |
-6 | Jason-DTU |
-7 | lampe |
+3 | lampe | 6
+4 | Chameleon | 2
+5 | TUBDAI | 0
+6 | Busy Beaver |
+7 | Jason-DTU |
 
 ### Results and replays
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 SMART&#8209;JaCaMo vs. TUBDAI | [**119&nbsp;881**&nbsp;:&nbsp;22&nbsp;001](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim1) | [**88&nbsp;611**&nbsp;:&nbsp;3&nbsp;512](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim2) | [**105&nbsp;950**&nbsp;:&nbsp;30&nbsp;867](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim3) | 9 : 0
-Chameleon vs. lampe | [38&nbsp;716&nbsp;:&nbsp;**210&nbsp;129**](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim1) | [-5&nbsp;060&nbsp;:&nbsp;**160&nbsp;596**&](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim2) | [](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim3) |
+Chameleon vs. lampe | [38&nbsp;716&nbsp;:&nbsp;**210&nbsp;129**](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim1) | [-5&nbsp;060&nbsp;:&nbsp;**160&nbsp;596**](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim2) | [**23&nbsp;787**&nbsp;:&nbsp;1&nbsp;709](/2017/replays/?2017-09-18-14-08-13-2017-MAPC-Sim3) | 2 : 6
 Flisvos vs. TUBDAI | [**154&nbsp;675**&nbsp;:&nbsp;2&nbsp;564](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim1) | [**108&nbsp;436**&nbsp;:&nbsp;30&nbsp;650](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim2) | [**132&nbsp;340**&nbsp;:&nbsp;16&nbsp;183](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim3) | 9 : 0
 BusyBeaver vs. lampe |
 Flisvos vs. SMART&#8209;JaCaMo |
