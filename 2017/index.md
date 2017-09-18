@@ -11,19 +11,19 @@ Tournament
 
 Placement | Team | Total score
 --- | --- | ---
-1 | Busy Beaver |
-2 | Chameleon |
-3 | Flisvos 2017 ("Hot Stuff" edition) |
-4 | Jason-DTU |
-5 | lampe |
-6 | SMART-JaCaMo |
-7 | TUBDAI |
+1 | SMART-JaCaMo | 9
+2 | TUBDAI | 0
+3 | Busy Beaver |
+4 | Chameleon |
+5 | Flisvos 2017 ("Hot Stuff" edition) |
+6 | Jason-DTU |
+7 | lampe |
 
 ### Results and replays
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-SMART-JaCaMo vs. TUBDAI | [**119&thinsp;881** : 22&thinsp;001](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim1) | [**88&thinsp;611** : 3&thinsp;512](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim2) | | 3 : 0
+SMART-JaCaMo vs. TUBDAI | [**119&thinsp;881** : 22&thinsp;001](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim1) | [**88&thinsp;611** : 3&thinsp;512](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim2) | [**105&thinsp;950** : 30&thinsp;867](/2017/replays/?2017-09-18-14-07-04-2017-MAPC-Sim3) | 9 : 0
 Chameleon vs. lampe | | | |
 
 ### Schedule
