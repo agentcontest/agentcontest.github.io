@@ -11,8 +11,8 @@ Tournament
 
 Placement | Team | Total score
 --- | --- | ---
-1 | Flisvos 2017 ("Hot Stuff" edition) | 15
-2 | SMART-JaCaMo | 12
+1 | SMART-JaCaMo | 21
+2 | Flisvos 2017 ("Hot Stuff" edition) | 15
 3 | Busy Beaver | 9
 4 | lampe | 6
 5 | Chameleon | 2
@@ -35,7 +35,7 @@ Flisvos vs. SMART&#8209;JaCaMo | [**120&nbsp;429**&nbsp;:&nbsp;101&nbsp;627](/20
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-SMART&#8209;JaCaMo vs. Chameleon |
+SMART&#8209;JaCaMo vs. Chameleon | [**218&nbsp;952**&nbsp;:&nbsp;27&nbsp;319](/2017/replays/?2017-09-19-14-03-51-2017-MAPC-Sim1) | [**215&nbsp;600**&nbsp;:&nbsp;20&nbsp;026](/2017/replays/?2017-09-19-14-03-51-2017-MAPC-Sim2) | [**229&nbsp;675**&nbsp;:&nbsp;-20&nbsp;120](/2017/replays/?2017-09-19-14-03-51-2017-MAPC-Sim3) | 9 : 0
 BusyBeaver vs. Jason&#8209;DTU |
 Flisvos vs. Chameleon |
 Jason&#8209;DTU vs. TUBDAI |
