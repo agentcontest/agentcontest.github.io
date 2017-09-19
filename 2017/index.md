@@ -19,7 +19,9 @@ Placement | Team | Total score
 6 | TUBDAI | 0
 7 | Jason-DTU |
 
-### Results and replays
+### Replays
+
+#### Monday
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
@@ -28,6 +30,17 @@ Chameleon vs. lampe | [38&nbsp;716&nbsp;:&nbsp;**210&nbsp;129**](/2017/replays/?
 Flisvos vs. TUBDAI | [**154&nbsp;675**&nbsp;:&nbsp;2&nbsp;564](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim1) | [**108&nbsp;436**&nbsp;:&nbsp;30&nbsp;650](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim2) | [**132&nbsp;340**&nbsp;:&nbsp;16&nbsp;183](/2017/replays/?2017-09-18-16-02-09-2017-MAPC-Sim3) | 9 : 0
 BusyBeaver vs. lampe | [**80&nbsp;086**&nbsp;:&nbsp;51&nbsp;626](/2017/replays/?2017-09-18-17-03-42-2017-MAPC-Sim1) | [**213&nbsp;065**&nbsp;:&nbsp;49&nbsp;875](/2017/replays/?2017-09-18-17-03-42-2017-MAPC-Sim2) | [**235&nbsp;248**&nbsp;:&nbsp;35&nbsp;074](/2017/replays/?2017-09-18-17-03-42-2017-MAPC-Sim3) | 9 : 0
 Flisvos vs. SMART&#8209;JaCaMo | [**120&nbsp;429**&nbsp;:&nbsp;101&nbsp;627](/2017/replays/?2017-09-18-18-04-42-2017-MAPC-Sim1) | [**125&nbsp;252**&nbsp;:&nbsp;70&nbsp;705](/2017/replays/?2017-09-18-18-04-42-2017-MAPC-Sim2) | [55&nbsp;394&nbsp;:&nbsp;**57&nbsp;073**](/2017/replays/?2017-09-18-18-04-42-2017-MAPC-Sim3) | 6 : 3
+
+#### Tuesday
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+SMART&#8209;JaCaMo vs. Chameleon |
+BusyBeaver vs. Jason&#8209;DTU |
+Flisvos vs. Chameleon |
+Jason&#8209;DTU vs. TUBDAI |
+Flisvos vs. lampe |
+SMART&#8209;JaCaMo vs. BusyBeaver |
 
 ### Schedule
 
