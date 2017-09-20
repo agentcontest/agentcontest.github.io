@@ -11,11 +11,11 @@ Tournament
 
 Placement | Team | Total score
 --- | --- | ---
-1 | Flisvos 2017 ("Hot Stuff" edition) | 30
+1 | Flisvos 2017 ("Hot Stuff" edition) | 36
 2 | Busy Beaver | 27
 3 | SMART-JaCaMo | 21
-4 | Jason-DTU | 9
-5 | lampe | 9
+4 | Jason-DTU | 21
+5 | lampe | 16
 6 | Chameleon | 2
 7 | TUBDAI | 0
 
@@ -47,12 +47,13 @@ BusyBeaver vs. SMART&#8209;JaCaMo | [**132&nbsp;160**&nbsp;:&nbsp;91&nbsp;778](/
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 Jason&#8209;DTU vs. Chameleon | [**119&nbsp;821**&nbsp;:&nbsp;26&nbsp;018](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim1) | [**182&nbsp;542**&nbsp;:&nbsp;29&nbsp;233](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim2) | [**136&nbsp;206**&nbsp;:&nbsp;11&nbsp;819](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim3) | 9 : 0
-lampe vs. TUBDAI |
+lampe vs. TUBDAI | [**107&nbsp;965**&nbsp;:&nbsp;81&nbsp;801](/2017/replays/?2017-09-20-16-39-02-2017-MAPC-Sim1)&nbsp;<span>*</span> | [**21&nbsp;695**&nbsp;:&nbsp;6&nbsp;843](/2017/replays/?2017-09-20-14-10-25-2017-MAPC-Sim2) | [**44&nbsp;956**&nbsp;:&nbsp;32&nbsp;526](/2017/replays/?2017-09-20-14-10-25-2017-MAPC-Sim3) | 7 : 0
+Flisvos vs. Jason&#8209;DTU | [**121&nbsp;141**&nbsp;:&nbsp;35&nbsp;837](/2017/replays/?2017-09-20-16-01-19-2017-MAPC-Sim1) | [125&nbsp;639&nbsp;:&nbsp;**135&nbsp;220**](/2017/replays/?2017-09-20-16-01-19-2017-MAPC-Sim2) | [**157&nbsp;291**&nbsp;:&nbsp;48&nbsp;352](/2017/replays/?2017-09-20-16-01-19-2017-MAPC-Sim3) | 6 : 3
 
 <span>*</span> Sim 1 of lampe vs. TUBDAI had to be repeated because of a
 bug in the platform where lampe26 and TUBDAI24 got stuck in the middle of the
 map. TUBDAI's agents were able to adapt and went on to win the
-original simulation []().
+original simulation [17&nbsp;387&nbsp;:&nbsp;**51&nbsp;300**](/2017/replays/?2017-09-20-14-10-25-2017-MAPC-Sim1).
 
 ### Schedule
 
