@@ -42,6 +42,18 @@ Jason&#8209;DTU vs. TUBDAI | [**132&nbsp;481**&nbsp;:&nbsp;&#8209;3&nbsp;675](/2
 lampe vs. Flisvos | [44&nbsp;669&nbsp;:&nbsp;**106&nbsp;909**](/2017/replays/?2017-09-19-19-13-55-2017-MAPC-Sim1) | [**145&nbsp;621**&nbsp;:&nbsp;129&nbsp;985](/2017/replays/?2017-09-19-19-13-55-2017-MAPC-Sim2) | [21&nbsp;699&nbsp;:&nbsp;**177&nbsp;058**](/2017/replays/?2017-09-19-19-13-55-2017-MAPC-Sim3) | 3 : 6
 BusyBeaver vs. SMART&#8209;JaCaMo | [**132&nbsp;160**&nbsp;:&nbsp;91&nbsp;778](/2017/replays/?2017-09-19-18-01-57-2017-MAPC-Sim1) | [**165&nbsp;324**&nbsp;:&nbsp;120&nbsp;778](/2017/replays/?2017-09-19-18-01-57-2017-MAPC-Sim2) | [**156&nbsp;650**&nbsp;:&nbsp;109&nbsp;815](/2017/replays/?2017-09-19-18-01-57-2017-MAPC-Sim3) | 9 : 0
 
+#### Wednesday
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+Jason&#8209;DTU vs. Chameleon | [**119&nbsp;821**&nbsp;:&nbsp;26&nbsp;018](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim1) | [**182&nbsp;542**&nbsp;:&nbsp;29&nbsp;233](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim2) | [**136&nbsp;206**&nbsp;:&nbsp;11&nbsp;819](/2017/replays/?2017-09-20-14-03-58-2017-MAPC-Sim3) | 9 : 0
+lampe vs. TUBDAI |
+
+<span>*</span> Sim 1 of lampe vs. TUBDAI had to be repeated because of a
+bug in the platform where lampe26 and TUBDAI24 got stuck in the middle of the
+map. TUBDAI's agents were able to adapt and went on to win the
+original simulation []().
+
 ### Schedule
 
 The tournament will take place September 18th to 21st. All times are CEST.
