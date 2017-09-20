@@ -52,9 +52,8 @@ Flisvos vs. Jason&#8209;DTU | [**121&nbsp;141**&nbsp;:&nbsp;35&nbsp;837](/2017/r
 BusyBeaver vs. TUBDAI | [**50&nbsp;558**&nbsp;:&nbsp;&#8209;53&nbsp;862](/2017/replays/?2017-09-20-17-29-42-2017-MAPC-Sim1) | [**233&nbsp;538**&nbsp;:&nbsp;&#8209;4&nbsp;484](/2017/replays/?2017-09-20-17-29-42-2017-MAPC-Sim2) | [**257&nbsp;098**&nbsp;:&nbsp;21&nbsp;993](/2017/replays/?2017-09-20-17-29-42-2017-MAPC-Sim3) | 9 : 0
 
 <span>*</span> Sim 1 of lampe vs. TUBDAI had to be repeated because of a
-bug in the platform where lampe26 and TUBDAI24 got stuck in the middle of the
-map. TUBDAI's agents were able to adapt and went on to win the
-original simulation [17&nbsp;387&nbsp;:&nbsp;**51&nbsp;300**](/2017/replays/?2017-09-20-14-10-25-2017-MAPC-Sim1).
+bug in the platform where multiple agents got stuck in the middle of the
+map: [17&nbsp;387&nbsp;:&nbsp;**51&nbsp;300**](/2017/replays/?2017-09-20-14-10-25-2017-MAPC-Sim1).
 
 ### Schedule
 
