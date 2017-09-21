@@ -13,7 +13,7 @@ Placement | Team | Total score
 --- | --- | ---
 1 | Busy Beaver | 45
 2 | Flisvos 2017 ("Hot Stuff" edition) | 36
-3 | Jason-DTU | 27
+3 | Jason-DTU | 36
 4 | SMART-JaCaMo | 24
 5 | lampe | 16
 6 | TUBDAI | 6
@@ -62,6 +62,7 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 BusyBeaver vs. Chameleon | [**186&nbsp;516**&nbsp;:&nbsp;42&nbsp;899](/2017/replays/?2017-09-21-14-03-40-2017-MAPC-Sim1) | [**226&nbsp;438**&nbsp;:&nbsp;41&nbsp;842](/2017/replays/?2017-09-21-14-03-40-2017-MAPC-Sim2) | [**216&nbsp;723**&nbsp;:&nbsp;41&nbsp;076](/2017/replays/?2017-09-21-14-03-40-2017-MAPC-Sim3) | 9 : 0
 Jason&#8209;DTU vs. SMART&#8209;JaCaMo | [149&nbsp;751&nbsp;:&nbsp;**160&nbsp;820**](/2017/replays/?2017-09-21-14-33-07-2017-MAPC-Sim1) | [**213&nbsp;863**&nbsp;:&nbsp;149&nbsp;896](/2017/replays/?2017-09-21-14-33-07-2017-MAPC-Sim2) | [**181&nbsp;097**&nbsp;:&nbsp;105&nbsp;952](/2017/replays/?2017-09-21-14-33-07-2017-MAPC-Sim3) | 6 : 3
 TUBDAI vs. Chameleon | [**53&nbsp;602**&nbsp;:&nbsp;&#8209;1&nbsp;674](/2017/replays/?2017-09-21-16-08-30-2017-MAPC-Sim1) | [**51&nbsp;830**&nbsp;:&nbsp;37&nbsp;742](/2017/replays/?2017-09-21-16-08-30-2017-MAPC-Sim2) | [13&nbsp;208&nbsp;:&nbsp;**38&nbsp;464**](/2017/replays/?2017-09-21-16-08-30-2017-MAPC-Sim3) | 6 : 2
+lampe vs. Jason&#8209;DTU | [53&nbsp;628&nbsp;:&nbsp;**157&nbsp;063**](/2017/replays/?2017-09-21-15-41-13-2017-MAPC-Sim1) | [85&nbsp;659&nbsp;:&nbsp;**139&nbsp;869**](/2017/replays/?2017-09-21-15-41-13-2017-MAPC-Sim2) | [100&nbsp;880&nbsp;:&nbsp;**225&nbsp;755**](/2017/replays/?2017-09-21-15-41-13-2017-MAPC-Sim3) | 0 : 9
 
 ### Schedule
 

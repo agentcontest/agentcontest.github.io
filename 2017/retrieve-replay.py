@@ -59,5 +59,5 @@ def dl(server, match):
 # Thursday
 #dl("ac1", "2017-09-21-14-03-40-2017-MAPC") # BusyBeaver vs Chameleon
 #dl("ac2", "2017-09-21-14-33-07-2017-MAPC") # Jason-DTU vs. JaCaMo
-dl("ac1", "2017-09-21-16-08-30-2017-MAPC") # TUBDAI vs. Chameleon
-#dl("ac2", "2017-09-21-15-41-13-2017-MAPC") # lampe vs. Jason-DTU
+#dl("ac1", "2017-09-21-16-08-30-2017-MAPC") # TUBDAI vs. Chameleon
+dl("ac2", "2017-09-21-15-41-13-2017-MAPC") # lampe vs. Jason-DTU
