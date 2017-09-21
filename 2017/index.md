@@ -14,10 +14,10 @@ Placement | Team | Total score
 1 | BusyBeaver | 54
 2 | Flisvos 2017 ("Hot Stuff" edition) | 36
   | Jason-DTU | 36
-3 | SMART-JaCaMo | 33
-4 | lampe | 16
-5 | TUBDAI | 6
-6 | Chameleon | 4
+4 | SMART-JaCaMo | 33
+5 | lampe | 16
+6 | TUBDAI | 6
+7 | Chameleon | 4
 
 ### Replays
 
