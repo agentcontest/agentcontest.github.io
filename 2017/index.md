@@ -96,7 +96,7 @@ The registration phase has been completed! The following teams have registered:
 | SMART-JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul & Universidade <br> Federal <br> de Santa <br> Catarina <br> (Brazil) | Rafael C. Cardoso, <br> Tabajara Krausburg, <br> Túlio Baségio, <br> Débora Engelmann, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/SMART-JaCaMo.pdf) |
 | TUBDAI | Technische<br> Universität<br> Berlin<br> (Germany) | Christopher-Eyk Hrabia, <br> Patrick Marvin Lehmann, <br> Yousuf Shaladi, <br> Nabil Battjbuer, <br> Axel Heßler | Python | [PDF](registration/TUBDAI.pdf) |
 
-<del>To register for the contest, please fill out the [Registration Template](/2017/registration-template-2017.zip) and follow the instructions in the sample PDF.</del>
+[Registration Template](/2017/registration-template-2017.zip)
 
 Important dates
 ---------------
