@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import subprocess
 import json
 import os.path
@@ -40,16 +42,20 @@ def dl(server, match):
 
     print(" | ".join(result))
 
+# Tuesday
 #dl("ac1", "2017-09-19-14-03-51-2017-MAPC")
 #dl("ac2", "2017-09-19-14-03-31-2017-MAPC")
-
 #dl("ac1", "2017-09-19-16-05-45-2017-MAPC") # Flisvos vs Chameleon
 #dl("ac2", "2017-09-19-16-06-33-2017-MAPC") # Jason-DTU vs TUBDAI
-
 #dl("ac1", "2017-09-19-19-13-55-2017-MAPC") # Flisvos vs lampe
 #dl("ac2", "2017-09-19-18-01-57-2017-MAPC") # BusyBeaver vs. SMART-JaCaMo
 
+# Wednesday
 #dl("ac1", "2017-09-20-14-03-58-2017-MAPC") # Jason-DTU vs Chameleon
 #dl("ac2", "2017-09-20-14-10-25-2017-MAPC") # lampe vs TUBDAI
 #dl("ac1", "2017-09-20-16-01-19-2017-MAPC") # Flisvos vs Jason-DTU
 #dl("ac2", "2017-09-20-17-29-42-2017-MAPC") # BusyBeaver vs TUBDAI
+
+# Thursday
+dl("ac1", "2017-09-21-14-03-40-2017-MAPC") # BusyBeaver vs Chameleon
+dl("ac2", "2017-09-21-14-33-07-2017-MAPC") # Jason-DTU vs. JaCaMo
