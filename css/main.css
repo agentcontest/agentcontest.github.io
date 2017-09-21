@@ -101,8 +101,12 @@ header, footer {
   }
 }
 
-.news li {
+.news > li {
   margin: 1em 0;
+}
+
+.news > li li {
+  margin: 0.5em;
 }
 
 .news p {

@@ -6,5 +6,4 @@ author: Tobias Ahlbrecht
 read_more: false
 ---
 
-The [tournament schedule](/2017/#tournament) as discussed on the mailing list is now public.
-The contest maps have been uploaded to [GitHub](https://github.com/agentcontest/massim/tree/master/server/osm) and are also available in the latest [release](https://github.com/agentcontest/massim/releases/tag/massim-2017-1.7).
+The [tournament schedule](/2017/#tournament) as discussed on the mailing list is now public. The contest maps have been uploaded to [GitHub](https://github.com/agentcontest/massim/tree/master/server/osm) and are also available in the latest [release](https://github.com/agentcontest/massim/releases/tag/massim-2017-1.7).
