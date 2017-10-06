@@ -13,6 +13,9 @@ Below you will find an overview.
   Held by Tobias Ahlbrecht, Jürgen Dix, and Niklas Fiekas.
   **C++/Goal/Jason** and MASSim using the **agents-in-the-city scenario**.
 
+* Multi-Agent Systems - Research & Teaching - Laboratory [Department of Applied Mathematics and Computer Science, Technical University of Denmark](https://people.compute.dtu.dk/jovi/MAS/)
+  Held by [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/) 2009 to 2017
+
 * Course "Multi-Agent Systems I" at [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
   Held by Tristan Behrens, Michael Köster, Federico Schlesinger, and Jürgen Dix.
 
