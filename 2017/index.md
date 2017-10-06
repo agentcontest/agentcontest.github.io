@@ -7,17 +7,17 @@ permalink: /2017/
 Tournament
 ----------
 
-### Standings
+### Results
 
-Placement | Team | Total score
---- | --- | ---
-1 | BusyBeaver | 54
-2 | Flisvos 2017 ("Hot Stuff" edition) | 36
-  | Jason-DTU | 36
-4 | SMART-JaCaMo | 33
-5 | lampe | 16
-6 | TUBDAI | 6
-7 | Chameleon | 4
+Placement | Team | Total score | Sources
+--- | --- | --- | ---
+1 | BusyBeaver | 54 | [Zip](sources/BusyBeaver.zip)
+2 | Flisvos 2017 ("Hot Stuff" edition) | 36 | [Zip](sources/Flisvos-2017.zip)
+  | Jason-DTU | 36 | [Zip](sources/Jason-DTU.zip)
+4 | SMART-JaCaMo | 33 | [Git](https://github.com/smart-pucrs/mapc2017-pucrs)
+5 | lampe | 16 | [Git](https://github.com/suyjuris/lampe)
+6 | TUBDAI | 6 | [Git](https://gitlab.tubit.tu-berlin.de/mac17/mac_workspace) [Zip](sources/TUBDAI.zip)
+7 | Chameleon | 4 |
 
 ### Replays
 
