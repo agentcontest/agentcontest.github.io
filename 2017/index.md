@@ -16,7 +16,7 @@ Placement | Team | Total score | Sources
   | Jason-DTU | 36 | [Zip](sources/Jason-DTU.zip)
 4 | SMART-JaCaMo | 33 | [Git](https://github.com/smart-pucrs/mapc2017-pucrs)
 5 | lampe | 16 | [Git](https://github.com/suyjuris/lampe)
-6 | TUBDAI | 6 | [Git](https://gitlab.tubit.tu-berlin.de/mac17/mac_workspace) [Zip](sources/TUBDAI.zip)
+6 | TUBDAI | 6 | [Git](https://gitlab.tubit.tu-berlin.de/mac17/mac_workspace) / [Zip](sources/TUBDAI.zip)
 7 | Chameleon | 4 |
 
 ### Replays
