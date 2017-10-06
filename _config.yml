@@ -8,5 +8,5 @@ incremental: false
 markdown: kramdown
 
 # Plugins
-gems:
+plugins:
  - jekyll-redirect-from
