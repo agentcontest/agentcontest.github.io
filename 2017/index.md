@@ -11,7 +11,7 @@ Wrap-up
 
 Each team is invited to submit a team description paper. All papers will be published in a Special Issue of [Annals of Mathematics and Artificial Intelligence](https://link.springer.com/journal/10472).
 
-Your paper should consist of approx. 20 pages following the LLNCS style. The paper deadline is 20th December 2018.
+Your paper should consist of approx. 20 pages following the LLNCS style. The paper deadline is 20th December 2017.
 
 ### Statistics
 
