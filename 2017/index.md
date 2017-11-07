@@ -4,6 +4,31 @@ title: The 2017 Contest
 permalink: /2017/
 ---
 
+Wrap-up
+-------
+
+### Publication
+
+Each team is invited to submit a team description paper. All papers will be published in a Special Issue of [Annals of Mathematics and Artificial Intelligence](https://link.springer.com/journal/10472).
+
+Your paper should consist of approx. 20 pages following the LLNCS style. The paper deadline is 20th December 2018.
+
+### Statistics
+
+[This archive](statistics.zip) contains for each simulation
+
+- a chart comparing the teams' money in each step,
+- two charts depicting each team's actions,
+- a table comparing the completion times for each mission,
+- a table listing how many jobs where completed by which team,
+- another such table but for auctions,
+
+and one table listing the action failure codes and their overall frequencies for all teams.
+
+### Questionnaire
+
+Please submit the answers to [this questionnaire](questionnaire.zip) to the organizers until 28th November 2017 and append both questions and answers to your team paper.
+
 Tournament
 ----------
 
