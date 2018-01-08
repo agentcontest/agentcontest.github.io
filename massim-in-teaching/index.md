@@ -7,7 +7,15 @@ layout: page
 ![overview008.png](overview800.png)
 
 Our MASSim platform has been used extensively in teaching.
-Below you will find an overview.
+Below you will find an overview of the courses/projects we are aware of.
+
+* Application System Project, SS2017 and WS2017/2018, [Technische Universität Berlin, DAI-Labor](http://www.dai-labor.de/en/).
+  Held by Christopher-Eyk Hrabia und Axel Hessler. 
+  **Python/ROS and MASSim** using the **agents-in-the-city scenario**.
+
+* Agententechnologien in der Forschung, WS2017/2018, [Technische Universität Berlin, DAI-Labor](http://www.dai-labor.de/en/).
+  Held by Christopher-Eyk Hrabia und Stefan Fricke. 
+  **Python/ROS and MASSim** further developing the **agents-in-the-city scenario**.
 
 * Bachelor's project A.I., 2016, [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
   Held by Tobias Ahlbrecht, Jürgen Dix, and Niklas Fiekas.
