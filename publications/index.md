@@ -6,8 +6,10 @@ title: Publications
 Books and collections
 ---------------------
 
-* Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue on Multi-Agent-Contest 2010](http://link.springer.com/journal/10472/61/4), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
-* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue on Multi-Agent-Contest 2009](http://link.springer.com/journal/10472/59/3/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
+* (forthcoming) Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2017](www.springer.com/computer/ai/journal/10472), Annals of Mathematics and Artificial Intelligence, Volume ??, Springer, 2018
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/jhome.php?jcode=ijaose), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018
+* Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue on Multi-Agent Contest 2010](http://link.springer.com/journal/10472/61/4), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue on Multi-Agent Contest 2009](http://link.springer.com/journal/10472/59/3/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
 
 Chapters in books
 -----------------
