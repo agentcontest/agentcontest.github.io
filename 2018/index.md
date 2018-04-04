@@ -18,7 +18,7 @@ Our scenario consists of two teams of agents moving through the streets of a rea
 Agents can earn money by completing tasks and build wells to fight a water crisis.
 [Full specification](https://github.com/agentcontest/massim/blob/master/docs/scenario.md).
 
-This builds on the [previous edition](/2016/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays).
+This builds on the [previous edition](/2017/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays).
 
 Downloads
 ---------
@@ -72,7 +72,7 @@ is publically available.
 Changelog
 ---------
 
-There have been some [changes since the 2017 version](https://github.com/agentcontest/massim/blob/master/CHANGELOG.md)
+There have been some [changes since the 2017 version](https://github.com/agentcontest/massim/blob/master/CHANGELOG.md).
 Most notably money is no longer the primary goal. Instead you build wells to generate points.
 
 Publications
@@ -85,6 +85,6 @@ published. The publication outlet will be announced as soon as possible.
 Prize
 -----
 
-The winner of the contest will be awarded a voucher for 500€ worth in books,
+The winner of the contest will be awarded a voucher for 500 EUR worth in books,
 thankfully provided by Springer Verlag. Requirements are the submission of
 a paper and the source code of the agents.
