@@ -85,6 +85,10 @@ published. The publication outlet will be announced as soon as possible.
 Prize
 -----
 
+To be announced.
+
+<!--
 The winner of the contest will be awarded a voucher for 500 EUR worth in books,
 thankfully provided by Springer Verlag. Requirements are the submission of
 a paper and the source code of the agents.
+-->
