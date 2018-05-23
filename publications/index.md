@@ -7,7 +7,7 @@ Books and collections
 ---------------------
 
 * (forthcoming) Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2017](http://www.springer.com/computer/ai/journal/10472), Annals of Mathematics and Artificial Intelligence, Volume ??, Springer, 2018
-* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/jhome.php?jcode=ijaose), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2018&vol=6&issue=1), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018
 * Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue on Multi-Agent Contest 2010](http://link.springer.com/journal/10472/61/4), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue on Multi-Agent Contest 2009](http://link.springer.com/journal/10472/59/3/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
 
@@ -28,6 +28,7 @@ Conference papers
 Articles
 --------
 
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Multi-Agent Programming Contest 2016](http://dx.doi.org/10.1504/IJAOSE.2018.10010603) in [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2018&vol=6&issue=1), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018. [mapc2016.pdf](mapc2016.pdf) [^mapc2016]
 * Ahlbrecht, Tobias and Dix, Jürgen and Schlesinger, Federico: [From Testing Agent Systems to a Scalable Simulation Platform](adv2015.pdf), Advances in Knowledge Representation, Logic Programming, and Abstract Argumentation. Springer International Publishing, 2015. 47-62. [adv2015.pdf](adv2015.pdf) [^gb60]
 * Tobias Ahlbrecht, Jürgen Dix, Michael Köster, Federico Schlesinger: [Multi-Agent Programming Contest 2013](http://link.springer.com/chapter/10.1007/978-3-642-45343-4_16), EMAS@AAMAS 2013: 292-318 [mapc2013.pdf](mapc2013.pdf) [^mapc2013]
 * Tobias Ahlbrecht et al.: [Multi-Agent Programming Contest 2013: The Teams and the Design of Their Systems](http://link.springer.com/chapter/10.1007/978-3-642-45343-4_22), EMAS@AAMAS 2013: 366-390 [mapc2013teams.pdf](mapc2013teams.pdf) [^mapc2013teams]
@@ -66,6 +67,7 @@ Talks
 Remarks
 -------
 
+[^mapc2016]: The final publication is available at Inderscience via<br> [http://dx.doi.org/10.1504/IJAOSE.2018.10010603](http://dx.doi.org/10.1504/IJAOSE.2018.10010603).
 [^goal]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-54432-3_12](http://dx.doi.org/10.1007/978-3-642-54432-3_12).
 [^gb60]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-319-14726-0_4](http://dx.doi.org/10.1007/978-3-319-14726-0_4).
 [^mapc2013]: The final publication is available at Springer via<br> [http://dx.doi.org/10.1007/978-3-642-45343-4_16](http://dx.doi.org/10.1007/978-3-642-45343-4_16)
