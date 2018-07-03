@@ -54,6 +54,13 @@ There have also always been teams that implemented the
 [communication protocol](https://github.com/agentcontest/massim/blob/master/docs/protocol.md)
 themselves.
 
+Prize
+-----
+
+The winner of this year's contest will be awarded a voucher for 500 EUR worth in books,
+thankfully provided by [Springer Verlag](https://www.springer.com). Requirements are the submission of
+a team description paper and the source code of the agents.
+
 Mailing List
 ------------
 
@@ -81,10 +88,3 @@ Publications
 After the tournament we invite every participant to submit a paper about their
 team. Once the quality of the papers has been assured they will be regularly
 published. The publication outlet will be announced as soon as possible.
-
-Prize
------
-
-The winner of this year's contest will be awarded a voucher for 500 EUR worth in books,
-thankfully provided by [Springer Verlag](https://www.springer.com). Requirements are the submission of
-a team description paper and the source code of the agents.
