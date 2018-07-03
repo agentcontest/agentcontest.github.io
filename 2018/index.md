@@ -87,4 +87,4 @@ Prize
 
 The winner of this year's contest will be awarded a voucher for 500 EUR worth in books,
 thankfully provided by [Springer Verlag](https://www.springer.com). Requirements are the submission of
-a paper and the source code of the agents.
+a team description paper and the source code of the agents.
