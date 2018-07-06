@@ -123,7 +123,7 @@ The registration phase has been completed! The following teams have registered:
 | Jason-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen, <br> Oliver Fleckenstein, <br> Helge Hatteland, <br> John Bruntse Larsen, <br> Eirik Oterholm Nielsen, <br> Martin Nielsen | Jason + CArtAgO | [PDF](registration/Jason-DTU.pdf) |
 | lampe | Technische<br> Universität<br> Clausthal<br> (Germany) | Philipp Czerner, <br> Jonathan Pieper | C++ | [PDF](registration/lampe.pdf) |
 | SMART-JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul & Universidade <br> Federal <br> de Santa <br> Catarina <br> (Brazil) | Rafael C. Cardoso, <br> Tabajara Krausburg, <br> Túlio Baségio, <br> Débora Engelmann, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/SMART-JaCaMo.pdf) |
-| TUBDAI | Technische<br> Universität<br> Berlin<br> (Germany) | Christopher-Eyk Hrabia, <br> Patrick Marvin Lehmann, <br> Yousuf Shaladi, <br> Nabil Battjbuer, <br> Axel Heßler | Python | [PDF](registration/TUBDAI.pdf) |
+| TUBDAI | Technische<br> Universität<br> Berlin<br> (Germany) | Christopher-Eyk Hrabia, <br> Patrick Marvin Lehmann, <br> Yousuf Shaladi, <br> Nabil Badjuber, <br> Axel Heßler | Python | [PDF](registration/TUBDAI.pdf) |
 
 [Registration Template](/2017/registration-template-2017.zip)
 
