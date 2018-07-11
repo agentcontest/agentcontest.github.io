@@ -20,6 +20,15 @@ Agents can earn money by completing tasks and build wells to fight a water crisi
 
 This builds on the [previous edition](/2017/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays).
 
+Registration
+------------
+
+To register, download the registration [form](registration/registration.pdf) and/or [template](registration/registration.tex) and follow the instructions inside.
+
+| Team | Affiliation | Members | Language/<br>Platform | Details |
+| -- |
+| . | . | - | - | - |
+
 Downloads
 ---------
 
