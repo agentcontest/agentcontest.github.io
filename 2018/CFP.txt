@@ -1,0 +1,122 @@
+======== CALL FOR PARTICIPATION ========
+
+    MAPC 2018
+    Multi-Agent Programming Contest
+    https://multiagentcontest.org/2018/
+
+========================================
+
+[The registration deadline (August 12th) is fast approaching!]
+
+1. AIMS AND SCOPE
+
+This competition is an attempt to stimulate research in the area
+of multi-agent system development and programming by
+1. identifying key problems,
+2. collecting suitable benchmarks, and
+3. gathering test cases which require and enforce coordinated
+    action
+that can serve as milestones for testing multi-agent programming
+languages, platforms and tools. We also expect that participating
+at the contest helps to debug existing systems and to identify their
+weak and strong aspects.
+
+The performance of a particular system will be determined in a
+series of games where the systems compete against each other.
+While winning the competition is not the main point, we hope it will
+shed light on the applicability of certain frameworks to particular
+domains.
+
+
+2. HISTORY
+
+The Multi-Agent Programming Contest was initiated in 2005 and since
+then passed through four distinct phases.
+2005: the "food-gatherers"-scenario, where a pre-specified multi-agent
+system had to be implemented. These MASs were later examined in order
+to determine the winner.
+2006 - 2007: the "goldminers"-scenario, where  we provided the environment by means of an online-architecture and automatically determined the winner.
+2008 - 2010: the "cows and cowboys"-scenario, again on the online-architecture, but with a slightly changed objective.
+2011 - 2014: the "agents on Mars"-scenario, where agents had to solve a different more complex problem.
+
+
+3. THE FIFTH PHASE: "AGENTS IN THE CITY"
+
+After the two iterative instances in 2016 and 2017, we present
+the newest version of the fifth MAPC scenario: "Agents in the City".
+The goal is to implement a team of cooperating agents with different roles
+in order to complete certain jobs on realistic street graphs. The challenge of the scenario is
+its ever increasing complexity: agents have to reason about the quality of jobs and how to complete them. 
+This time, we have added an additional layer of interaction between opposing teams.
+
+
+4. ENROLLING AND DOWNLOAD
+
+We would like to invite potential participants to join the MAPC mailing list.
+
+        https://groups.google.com/forum/#!forum/agentcontest
+
+All the important details and announcements will be sent and discussed via this list. And please do not hesitate to say hello on the list.
+
+You can download the software package here:
+
+        https://multiagentcontest.org/2018/#downloads
+
+or directly from GitHub:
+
+        https://github.com/agentcontest/massim/releases
+
+
+5. PARTICIPATION REQUIREMENTS
+
+The participation in this contest consists of these parts:
+
+1. Declaring the intent to participate by registering to the mailing list.
+2. Submission of a short team description, thus registering to the contest officially.
+3. Participation in all assigned matches in the final tournament.
+4. Submitting the source-code of your application right after the tournament.
+5. Submission of a team description and analysis paper after the tournament.
+
+
+6. ROUGH TIMELINE
+
+12th of August: registration deadline.
+
+between registration and qualification: connection testing. You will have the chance to test the connection to our servers.
+
+10th of September: qualification. You have to prove
+that your agents' connections to our servers are stable and reliable.
+
+Week of 24th of September: tournament.
+
+After tournament: publications.
+
+
+7. PUBLICATIONS
+
+After the tournament we invite each participant to submit a paper
+about their agent team. The papers of which the quality has been assured
+will be regularly published. The publication details will be announced
+as soon as possible.
+
+
+8. PRIZE
+
+The winner of the contest will be awarded with a voucher for
+500 EUR worth in books, thankfully provided by Springer Verlag.
+Requirements are the submission of a paper and the source codes
+of the agents.
+
+
+9. PEOPLE
+
+Organizers:
+  Tobias Ahlbrecht (Clausthal University of Technology)
+  Jürgen Dix (Clausthal University of Technology)
+  Niklas Fiekas (Clausthal University of Technology)
+
+Steering Committee:
+  Mehdi Dastani (Utrecht University)
+  Jürgen Dix (Clausthal University of Technology)
+  Jomi Hübner (Federal University of Santa Catarina)
+  Peter Novak (Delft University of Technology)

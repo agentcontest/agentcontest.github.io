@@ -14,6 +14,8 @@ The Scenario: Agents in the City
 
 ![Agents in the City](/2016/banner.jpg){:width="630" height="280"}
 
+[Call for Participation](/2018/CFP.txt)
+
 Our scenario consists of two teams of agents moving through the streets of a realistic city.
 Agents can earn money by completing tasks and build wells to fight a water crisis.
 [Full specification](https://github.com/agentcontest/massim/blob/master/docs/scenario.md).
