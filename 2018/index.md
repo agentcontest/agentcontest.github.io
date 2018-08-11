@@ -29,7 +29,11 @@ To register, download the registration [form](registration/registration.pdf) and
 
 | Team | Affiliation | Members | Language/<br>Platform | Details |
 | -- |
-| . | . | - | - | - |
+| Dumping to Gather | TU Berlin | Christopher-Eyk Hrabia, <br> Josephine Alice Krause, <br> Marc Schmidt, <br> Andrea Marie Weintraud | ROS Hybrid Behavior Planner | [PDF](registration/dtg.pdf) |
+| Jason-DTU | Technical University of Denmark | Jørgen Villadsen, <br> Mads Okholm Bjørn, <br> Andreas Halkjær From, <br> Thomas Søren Henney, <br> John Bruntse Larsen | Jason + CArtAgO | [PDF](registration/jason-dtu.pdf) |
+| TUBDAI | TU Berlin | Michael Franz Ettlinger, <br> Michael Franz Ettlinger | | [PDF](registration/tubdai.pdf) |
+| Akuanduba-UDESC | Santa Catarina State University (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | | [PDF](registration/akuanduba.pdf)
+| SMART_JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul & Universidade <br> Federal <br> de Santa <br> Catarina <br> (Brazil) | Tabajara Krausburg, <br> Rafael C. Cardoso, <br> Débora Engelmann, <br> Vitor Peres, <br> Vágner Gabriel, <br> Juliana Damasio, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/smart-jacamo.pdf) |
 
 Downloads
 ---------
