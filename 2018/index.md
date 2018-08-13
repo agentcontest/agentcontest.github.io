@@ -34,7 +34,7 @@ To register, download the registration [form](registration/registration.pdf) and
 | TUBDAI | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | | [PDF](registration/tubdai.pdf) |
 | Akuanduba-UDESC | Santa Catarina State University (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | | [PDF](registration/akuanduba.pdf)
 | SMART_JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS) & Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg, <br> Rafael C. Cardoso, <br> Débora Engelmann, <br> Vitor Peres, <br> Vágner Gabriel, <br> Juliana Damasio, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/smart-jacamo.pdf) |
-| FIT BUT | Brno University of Technology | Uhlir Vaclav, <br> Hamran Peter | | [PDF](registration/fitbut.pdf) |
+| FIT BUT | Brno University of Technology | Uhlir Vaclav, <br> Hamran Peter | Python | [PDF](registration/fitbut.pdf) |
 
 Downloads
 ---------
