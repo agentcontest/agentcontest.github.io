@@ -26,14 +26,14 @@ Registration
 - Six teams have registered for MAPC 2018!
 - [DONE] To register, download the registration [form](registration/registration.pdf) and/or [template](registration/registration.tex) and follow the instructions inside.
 
-| Team | Affiliation | Members | Language/<br>Platform | Details |
+| Team | Affiliation | Members | Language/<br>Platform |
 | -- |
-| Dumping to Gather | TU Berlin | Christopher-Eyk Hrabia, <br> Josephine Alice Krause, <br> Marc Schmidt, <br> Andrea Marie Weintraud | ROS Hybrid Behavior Planner | [PDF](registration/dtg.pdf) |
-| Jason-DTU | Technical University of Denmark (DTU) | Jørgen Villadsen, <br> Mads Okholm Bjørn, <br> Andreas Halkjær From, <br> Thomas Søren Henney, <br> John Bruntse Larsen | Jason + CArtAgO | [PDF](registration/jason-dtu.pdf) |
-| TUBDAI | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | | [PDF](registration/tubdai.pdf) |
-| Akuanduba-UDESC | Santa Catarina State University (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | | [PDF](registration/akuanduba.pdf)
-| SMART_JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS) & University of Liverpool & <br> Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg, <br> Rafael C. Cardoso, <br> Débora Engelmann, <br> Vitor Peres, <br> Vágner Gabriel, <br> Juliana Damasio, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/smart-jacamo.pdf) |
-| FIT BUT | Brno University of Technology | Uhlir Vaclav, <br> Hamran Peter | Python | [PDF](registration/fitbut.pdf) |
+| [Dumping to Gather](registration/dtg.pdf) | TU Berlin | Christopher-Eyk Hrabia, <br> Josephine Alice Krause, <br> Marc Schmidt, <br> Andrea Marie Weintraud | ROS Hybrid Behavior Planner |
+| [Jason-DTU](registration/jason-dtu.pdf) | Technical University <br> of Denmark <br> (DTU) | Jørgen Villadsen, <br> Mads Okholm Bjørn, <br> Andreas Halkjær From, <br> Thomas Søren Henney, <br> John Bruntse Larsen | Jason + CArtAgO |
+| [TUBDAI](registration/tubdai.pdf) | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | |
+| [Akuanduba-UDESC](registration/akuanduba.pdf) | Santa Catarina <br> State University <br> (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | |
+| [SMART_JaCaMo](registration/smart-jacamo.pdf) | <sup>1</sup>Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS), <sup>2</sup>University of <br> Liverpool, <br> <sup>3</sup>Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg<sup>1</sup>, <br> Rafael C. Cardoso<sup>2</sup>, <br> Débora Engelmann<sup>1</sup>, <br> Vitor Peres<sup>1</sup>, <br> Vágner Gabriel<sup>1</sup>, <br> Juliana Damasio<sup>1</sup>, <br> Rafael H. Bordini<sup>1</sup>, <br> Jomi F. Hübner<sup>3</sup> | JaCaMo |
+| [FIT BUT](registration/fitbut.pdf) | Brno University of Technology | Uhlir Vaclav, <br> Hamran Peter | Python |
 
 Downloads
 ---------
