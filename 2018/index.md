@@ -14,18 +14,17 @@ The Scenario: Agents in the City
 
 ![Agents in the City](/2016/banner.jpg){:width="630" height="280"}
 
-[Call for Participation](/2018/CFP.txt)
-
 Our scenario consists of two teams of agents moving through the streets of a realistic city.
 Agents can earn money by completing tasks and build wells to fight a water crisis.
 [Full specification](https://github.com/agentcontest/massim/blob/master/docs/scenario.md).
 
-This builds on the [previous edition](/2017/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays).
+This builds on the [previous edition](/2017/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays). ([CFP](/2018/CFP.txt))
 
 Registration
 ------------
 
-To register, download the registration [form](registration/registration.pdf) and/or [template](registration/registration.tex) and follow the instructions inside.
+- Six teams have registered for MAPC 2018!
+- [DONE] To register, download the registration [form](registration/registration.pdf) and/or [template](registration/registration.tex) and follow the instructions inside.
 
 | Team | Affiliation | Members | Language/<br>Platform | Details |
 | -- |
@@ -33,7 +32,7 @@ To register, download the registration [form](registration/registration.pdf) and
 | Jason-DTU | Technical University of Denmark (DTU) | Jørgen Villadsen, <br> Mads Okholm Bjørn, <br> Andreas Halkjær From, <br> Thomas Søren Henney, <br> John Bruntse Larsen | Jason + CArtAgO | [PDF](registration/jason-dtu.pdf) |
 | TUBDAI | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | | [PDF](registration/tubdai.pdf) |
 | Akuanduba-UDESC | Santa Catarina State University (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | | [PDF](registration/akuanduba.pdf)
-| SMART_JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS) & Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg, <br> Rafael C. Cardoso, <br> Débora Engelmann, <br> Vitor Peres, <br> Vágner Gabriel, <br> Juliana Damasio, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/smart-jacamo.pdf) |
+| SMART_JaCaMo | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS) & University of Liverpool & <br> Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg, <br> Rafael C. Cardoso, <br> Débora Engelmann, <br> Vitor Peres, <br> Vágner Gabriel, <br> Juliana Damasio, <br> Rafael H. Bordini, <br> Jomi F. Hübner | JaCaMo | [PDF](registration/smart-jacamo.pdf) |
 | FIT BUT | Brno University of Technology | Uhlir Vaclav, <br> Hamran Peter | Python | [PDF](registration/fitbut.pdf) |
 
 Downloads
