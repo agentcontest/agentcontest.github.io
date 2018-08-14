@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Registration open
+title: Registration complete
 date: 2018-08-14 12:00:00 +0200
 author: Tobias Ahlbrecht
 read_more: false
