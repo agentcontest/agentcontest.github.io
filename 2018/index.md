@@ -42,7 +42,7 @@ Downloads
   <a href="https://github.com/agentcontest/massim/releases" title="MASSim on GitHub">
     <span class="title">Software package</span>
     <br>
-    <span class="filename">massim-2018-1.0-bin.tar.gz</span>
+    <span class="filename">massim-2018-1.1-bin.tar.gz</span>
   </a>
 </div>
 
@@ -52,7 +52,7 @@ Unpack the software package and start the contest server for development and tes
 
 ```bash
 cd server
-java -jar server-2018-1.0-jar-with-dependencies.jar \
+java -jar server-2018-1.1-jar-with-dependencies.jar \
   --monitor 8000  # with webmonitor on port 8000
 ```
 
