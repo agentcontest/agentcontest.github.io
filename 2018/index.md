@@ -30,7 +30,7 @@ Registration
 | -- |
 | [Dumping to Gather](registration/dtg.pdf) | TU Berlin | Christopher-Eyk Hrabia, <br> Josephine Alice Krause, <br> Marc Schmidt, <br> Andrea Marie Weintraud | ROS Hybrid Behavior Planner |
 | [Jason-DTU](registration/jason-dtu.pdf) | Technical University <br> of Denmark <br> (DTU) | Jørgen Villadsen, <br> Mads Okholm Bjørn, <br> Andreas Halkjær From, <br> Thomas Søren Henney, <br> John Bruntse Larsen | Jason + CArtAgO |
-| [TUBDAI](registration/tubdai.pdf) | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | |
+| [TUBDAI](registration/tubdai.pdf) | TU Berlin | Michael Franz Ettlinger, <br> Christopher-Eyk Hrabia | ROS Hybrid Behavior Planner |
 | [Akuanduba-UDESC](registration/akuanduba.pdf) | Santa Catarina <br> State University <br> (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | |
 | [SMART_JaCaMo](registration/smart-jacamo.pdf) | <sup>1</sup>Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS), <sup>2</sup>University of <br> Liverpool, <br> <sup>3</sup>Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg<sup>1</sup>, <br> Rafael C. Cardoso<sup>2</sup>, <br> Débora Engelmann<sup>1</sup>, <br> Vitor Peres<sup>1</sup>, <br> Vágner Gabriel<sup>1</sup>, <br> Juliana Damasio<sup>1</sup>, <br> Rafael H. Bordini<sup>1</sup>, <br> Jomi F. Hübner<sup>3</sup> | JaCaMo |
 | [FIT BUT](registration/fitbut.pdf) | Brno University of Technology | Vaclav Uhlir, <br> Peter Hamran | Python |
