@@ -20,6 +20,32 @@ Agents can earn money by completing tasks and build wells to fight a water crisi
 
 This builds on the [previous edition](/2017/). You can [watch](https://multiagentcontest.org/2017/replays/?2017-09-21-18-07-25-2017-MAPC-Sim3) replays from last year [here](https://multiagentcontest.org/2017/#replays). ([CFP](/2018/CFP.txt))
 
+Contest
+-------
+
+### Schedule
+
+The tournament will take place September 24th and 25th. All times are GMT+2.
+
+| Time | Monday | | Tuesday |
+| -- |
+| | ac1 |ac2 | ac1 | ac2 |
+| 10:00&nbsp;-&nbsp;12:00 ||| Jason&#8209;DTU ||
+| ||| TUBDAI ||
+| 12:00&nbsp;-&nbsp;14:00 | Akuanduba&#8209;UDESC || Akuanduba&#8209;UDESC ||
+| | Jason&#8209;DTU | | TUBDAI | |
+| 14:00&nbsp;-&nbsp;16:00 | SMART_JaCaMo | Dumping to Gather | TUBDAI ||
+| | Jason&#8209;DTU | Akuanduba&#8209;UDESC | Dumping to Gather ||
+| 16:00&nbsp;-&nbsp;18:00 | SMART_JaCaMo | Dumping to Gather | SMART_JaCaMo ||
+| | Akuanduba&#8209;UDESC | Jason&#8209;DTU | TUBDAI ||
+| 18:00&nbsp;-&nbsp;20:00 | SMART_JaCaMo ||||
+| | Dumping to Gather ||||
+
+- ac1: [agentcontest1.in.tu-clausthal.de](http://agentcontest1.in.tu-clausthal.de/)
+- ac2: [agentcontest2.in.tu-clausthal.de](http://agentcontest2.in.tu-clausthal.de/)
+- Matches may start early, if both teams and server are available
+- Matches may start late, if preceding match is taking longer
+
 Registration
 ------------
 
