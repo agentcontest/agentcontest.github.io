@@ -97,9 +97,9 @@ Maps
 
 | Sim | Map | Download | Coordinates |
 | -- |
-| 1 | London | [OSM.PBF](../maps/london.osm.pbf) | minLon="-0.1978"<br> maxLon="-0.0354"<br> minLat="51.4647"<br> maxLat="51.5223"<br> mapCenterLat="51.4885438"<br> mapCenterLon="-0.1112036"|
-| 2 | Hannover | [OSM.PBF](../maps/hannover.osm.pbf) | minLon="9.68"<br> maxLon="9.81"<br> minLat="52.33"<br> maxLat="52.39"<br> mapCenterLat="52.362967"<br> mapCenterLon="9.712156" |
-| 3 | San Francisco | [OSM.PBF](../maps/sanfrancisco.osm.pbf) | minLon="-122.495"<br> maxLon="-122.365"<br> minLat="37.695"<br> maxLat="37.795"<br> mapCenterLat="37.73"<br> mapCenterLon="-122.43" |
+| 1 | London | [OSM.PBF](maps/london.osm.pbf) | minLon="-0.1978"<br> maxLon="-0.0354"<br> minLat="51.4647"<br> maxLat="51.5223"<br> mapCenterLat="51.4885438"<br> mapCenterLon="-0.1112036"|
+| 2 | Hannover | [OSM.PBF](maps/hannover.osm.pbf) | minLon="9.68"<br> maxLon="9.81"<br> minLat="52.33"<br> maxLat="52.39"<br> mapCenterLat="52.362967"<br> mapCenterLon="9.712156" |
+| 3 | San Francisco | [OSM.PBF](maps/sanfrancisco.osm.pbf) | minLon="-122.495"<br> maxLon="-122.365"<br> minLat="37.695"<br> maxLat="37.795"<br> mapCenterLat="37.73"<br> mapCenterLon="-122.43" |
 
 All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
 
