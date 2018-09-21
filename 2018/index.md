@@ -56,6 +56,8 @@ These maps will be played in the contest. The sample configurations contain the 
 | 2 | [Berlin](osm/berlin.osm.pbf) | [conf.json](conf/Test-Berlin.json) |
 | 3 | [São Paulo](osm/saopaulo.osm.pbf) | [conf.json](conf/Test-SaoPaulo.json) |
 
+All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
+
 Registration
 ------------
 
