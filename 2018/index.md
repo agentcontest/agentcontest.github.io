@@ -46,6 +46,16 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 - Matches may start early, if both teams and server are available
 - Matches may start late, if preceding match is taking longer
 
+### Maps
+
+These maps will be played in the contest. The sample configurations contain the respective lat/lng values.
+
+| Nr. | Map | Sample Configuration |
+| -- |
+| 1 | [Copenhagen](osm/copenhagen.osm.pbf) | [conf.json](conf/Test-Copenhagen.json) |
+| 2 | [Berlin](osm/berlin.osm.pbf) | [conf.json](conf/Test-Berlin.json) |
+| 3 | [São Paulo](osm/saopaulo.osm.pbf) | [conf.json](conf/Test-SaoPaulo.json) |
+
 Registration
 ------------
 

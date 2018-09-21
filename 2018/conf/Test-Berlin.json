@@ -1,0 +1,35 @@
+{
+  "server" : "$(server/server.json)",
+
+  "match" : [
+    {
+      "id" : "2018-Test-Berlin",
+      "scenarioClass" : "city.CitySimulation",
+      "steps" : 1000,
+      "map" : "berlin",
+      "seedCapital" : 5000,
+      "minLon" : 13.35,
+      "maxLon" : 13.5,
+      "minLat" : 52.44,
+      "maxLat" : 52.54,
+      "centerLon" : 13.4,
+      "centerLat" : 52.5,
+      "proximity" : 5,
+      "cellSize" : 200,
+      "randomSeed" : 18,
+      "randomFail" : 1,
+      "gotoCost" : 1,
+      "rechargeRate" : 0.3,
+
+      "upgrades" : "$(upgrades/upgrades.json)",
+      "roles" : "$(roles/roles.json)",
+      "entities" : [{"drone" : 4}, {"motorcycle" : 8}, {"car" : 10}, {"truck" : 12}],
+      "generate" : "$(generate/generate.json)"
+    }
+  ],
+
+  "teams" : {
+    "A" : "$(teams/A.json)",
+    "B" : "$(teams/B.json)"
+  }
+}
