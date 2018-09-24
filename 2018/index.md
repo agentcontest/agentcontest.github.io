@@ -57,8 +57,7 @@ Jason&#8209;DTU vs. Smart_JaCaMo | [3644&nbsp;:&nbsp;**6800**](/2018/replays?201
 Akuanduba&#8209;UDESC vs. Dumping&nbsp;to&nbsp;Gather | [130&nbsp;:&nbsp;**6402**](/2018/replays?2018-09-24-14-05-22-Contest-2018-1of3) | [0&nbsp;:&nbsp;**18677**](/2018/replays?2018-09-24-14-05-22-Contest-2018-2of3) | [0&nbsp;:&nbsp;**16936**](/2018/replays?2018-09-24-14-05-22-Contest-2018-3of3) | 0:9
 Akuanduba&#8209;UDESC vs. Smart_JaCaMo | [74&nbsp;:&nbsp;**22271**](/2018/replays?2018-09-24-16-26-12-Contest-2018-1of3) | [18&nbsp;:&nbsp;**101995**](/2018/replays?2018-09-24-16-26-12-Contest-2018-2of3) | [65&nbsp;:&nbsp;**37062**](/2018/replays?2018-09-24-16-26-12-Contest-2018-3of3) | 0:9
 Dumping&nbsp;to&nbsp;Gather vs. Jason&#8209;DTU | [3030&nbsp;:&nbsp;**3472**](/2018/replays?2018-09-24-16-29-30-Contest-2018-1of3) | [9973&nbsp;:&nbsp;**14332**](/2018/replays?2018-09-24-16-29-30-Contest-2018-2of3) | [5847&nbsp;:&nbsp;**8545**](/2018/replays?2018-09-24-16-29-30-Contest-2018-3of3) | 0:9
-
-<!-- Dumping&nbsp;to&nbsp;Gather vs. Smart_JaCaMo | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | -->
+Dumping&nbsp;to&nbsp;Gather vs. Smart_JaCaMo | [2303&nbsp;:&nbsp;**4581**](/2018/replays?2018-09-24-18-31-08-Contest-2018-1of3) | [9163&nbsp;:&nbsp;**62413**](/2018/replays?2018-09-24-18-31-08-Contest-2018-2of3) | [4367&nbsp;:&nbsp;**29543**](/2018/replays?2018-09-24-18-31-08-Contest-2018-3of3) | 0:9
 
 <!--
 | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
