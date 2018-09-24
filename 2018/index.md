@@ -53,6 +53,19 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 Akuanduba&#8209;UDESC vs. Jason&#8209;DTU | [401&nbsp;:&nbsp;**11586**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-1of3) | [1014&nbsp;:&nbsp;**25366**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-2of3) | [0&nbsp;:&nbsp;**1693**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-3of3) | 0:9
+Jason&#8209;DTU vs. Smart_JaCaMo | [3644&nbsp;:&nbsp;**6800**](/2018/replays?2018-09-24-14-05-06-Contest-2018-1of3) | [**9142**&nbsp;:&nbsp;7079](/2018/replays?2018-09-24-14-05-06-Contest-2018-2of3) | [770&nbsp;:&nbsp;**41324**](/2018/replays?2018-09-24-14-05-06-Contest-2018-3of3) | 3:6
+Akuanduba&#8209;UDESC vs. Dumping&nbsp;to&nbsp;Gather | [130&nbsp;:&nbsp;**6402**](/2018/replays?2018-09-24-14-05-22-Contest-2018-1of3) | [0&nbsp;:&nbsp;**18677**](/2018/replays?2018-09-24-14-05-22-Contest-2018-2of3) | [0&nbsp;:&nbsp;**16936**](/2018/replays?2018-09-24-14-05-22-Contest-2018-3of3) | 0:9
+Akuanduba&#8209;UDESC vs. Smart_JaCaMo | [74&nbsp;:&nbsp;**22271**](/2018/replays?2018-09-24-16-26-12-Contest-2018-1of3) | [18&nbsp;:&nbsp;**101995**](/2018/replays?2018-09-24-16-26-12-Contest-2018-2of3) | [65&nbsp;:&nbsp;**37062**](/2018/replays?2018-09-24-16-26-12-Contest-2018-3of3) | 0:9
+Dumping&nbsp;to&nbsp;Gather vs. Jason&#8209;DTU | [3030&nbsp;:&nbsp;**3472**](/2018/replays?2018-09-24-16-29-30-Contest-2018-1of3) | [9973&nbsp;:&nbsp;**14332**](/2018/replays?2018-09-24-16-29-30-Contest-2018-2of3) | [5847&nbsp;:&nbsp;**8545**](/2018/replays?2018-09-24-16-29-30-Contest-2018-3of3) | 0:9
+
+<!-- Dumping&nbsp;to&nbsp;Gather vs. Smart_JaCaMo | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | -->
+
+<!--
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+-->
 
 ### Maps
 
