@@ -48,8 +48,11 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 
 ### Replays
 
+#### Monday
+
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
+Akuanduba&#8209;UDESC vs. Jason-&#8209;DTU | [401&nbsp;:&nbsp;**11586**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-1of3) | [1014&nbsp;:&nbsp;**25366**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-2of3) | [0&nbsp;:&nbsp;**1693**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-3of3) | 0:3
 
 ### Maps
 
