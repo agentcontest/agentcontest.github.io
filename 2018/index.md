@@ -46,6 +46,11 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 - Matches may start early, if both teams and server are available
 - Matches may start late, if preceding match is taking longer
 
+### Replays
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+
 ### Maps
 
 These maps will be played in the contest. The sample configurations contain the respective lat/lng values.
