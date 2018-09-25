@@ -73,8 +73,8 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 | ||| TUBDAI ||
 | 12:00&nbsp;-&nbsp;14:00 | Akuanduba&#8209;UDESC || Akuanduba&#8209;UDESC ||
 | | Jason&#8209;DTU | | TUBDAI | |
-| 14:00&nbsp;-&nbsp;16:00 | SMART_JaCaMo | Dumping to Gather | TUBDAI ||
-| | Jason&#8209;DTU | Akuanduba&#8209;UDESC | Dumping to Gather ||
+| 14:00&nbsp;-&nbsp;16:00 | SMART_JaCaMo | Dumping to Gather | Dumping to Gather ||
+| | Jason&#8209;DTU | Akuanduba&#8209;UDESC | TUBDAI ||
 | 16:00&nbsp;-&nbsp;18:00 | SMART_JaCaMo | Dumping to Gather | SMART_JaCaMo ||
 | | Akuanduba&#8209;UDESC | Jason&#8209;DTU | TUBDAI ||
 | 18:00&nbsp;-&nbsp;20:00 | SMART_JaCaMo ||||
