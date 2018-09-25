@@ -48,7 +48,7 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 Jason&#8209;DTU vs. TUBDAI | [146&nbsp;:&nbsp;**13368**](/2018/replays?2018-09-25-10-01-17-Contest-2018-1of3) | [699&nbsp;:&nbsp;**35190**](/2018/replays?2018-09-25-10-01-17-Contest-2018-2of3) | [1391&nbsp;:&nbsp;**9061**](/2018/replays?2018-09-25-10-01-17-Contest-2018-3of3) | 0:9
 Akuanduba&#8209;UDESC vs. TUBDAI | [0&nbsp;:&nbsp;**13692**](/2018/replays?2018-09-25-12-46-19-Contest-2018-1of3) | [0&nbsp;:&nbsp;**46008**](/2018/replays?2018-09-25-12-46-19-Contest-2018-2of3) | [0&nbsp;:&nbsp;**12228**](/2018/replays?2018-09-25-12-46-19-Contest-2018-3of3) | 0:9
 Dumping&nbsp;to&nbsp;Gather vs. TUBDAI | [216&nbsp;:&nbsp;**11404**](/2018/replays?2018-09-25-15-34-12-Contest-2018-1of3) | [1192&nbsp;:&nbsp;**25954**](/2018/replays?2018-09-25-15-34-12-Contest-2018-2of3) | [798&nbsp;:&nbsp;**5577**](/2018/replays?2018-09-25-15-34-12-Contest-2018-3of3) | 0:9
-TUBDAI vs. SMART_JaCaMo | [515&nbsp;:&nbsp;**2337**](/2018/replays?2018-09-25-18-16-09-Contest-2018-1of3) | [&nbsp;:&nbsp;](/2018/replays?2018-09-25-18-16-09-Contest-2018-2of3) | [&nbsp;:&nbsp;](/2018/replays?2018-09-25-18-16-09-Contest-2018-3of3) | 3:0
+TUBDAI vs. SMART_JaCaMo | [515&nbsp;:&nbsp;**2337**](/2018/replays?2018-09-25-18-16-09-Contest-2018-1of3) | [&nbsp;:&nbsp;](/2018/replays?2018-09-25-18-16-09-Contest-2018-2of3) | [&nbsp;:&nbsp;](/2018/replays?2018-09-25-18-16-09-Contest-2018-3of3) | 0:3
 
 ### Maps
 
