@@ -24,7 +24,7 @@ Placement | Team | Total score | Sources
 --- | --- | --- | --- | ---
 1 | TUBDAI | 27 |
 2 | SMART_JaCaMo | 27 |
-3 | Jason-DTU | 12 |
+3 | Jason-DTU | 21 |
 4 | Dumping to Gather | 9 |
 5 | Akuanduba-UDESC | 0 |
 
