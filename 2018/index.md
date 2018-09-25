@@ -4,11 +4,6 @@ title: The 2018 Contest
 permalink: /2018/
 ---
 
-Important dates
----------------
-
-{% include_relative _schedule.html %}
-
 The Scenario: Agents in the City
 --------------------------------
 
@@ -22,6 +17,50 @@ This builds on the [previous edition](/2017/). You can [watch](https://multiagen
 
 Contest
 -------
+
+### Standings
+
+Placement | Team | Total score | Sources
+--- | --- | --- | --- | ---
+1 | SMART_JaCaMo | 24 |
+2 | Jason-DTU | 21 |
+3 | Dumping to Gather | 9 |
+4 | TUBDAI | |
+5 | Akuanduba-UDESC | 0 |
+
+### Replays
+
+#### Monday
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+Akuanduba&#8209;UDESC vs. Jason&#8209;DTU | [401&nbsp;:&nbsp;**11586**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-1of3) | [1014&nbsp;:&nbsp;**25366**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-2of3) | [0&nbsp;:&nbsp;**1693**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-3of3) | 0:9
+Jason&#8209;DTU vs. Smart_JaCaMo | [3644&nbsp;:&nbsp;**6800**](/2018/replays?2018-09-24-14-05-06-Contest-2018-1of3) | [**9142**&nbsp;:&nbsp;7079](/2018/replays?2018-09-24-14-05-06-Contest-2018-2of3) | [770&nbsp;:&nbsp;**41324**](/2018/replays?2018-09-24-14-05-06-Contest-2018-3of3) | 3:6
+Akuanduba&#8209;UDESC vs. Dumping&nbsp;to&nbsp;Gather | [130&nbsp;:&nbsp;**6402**](/2018/replays?2018-09-24-14-05-22-Contest-2018-1of3) | [0&nbsp;:&nbsp;**18677**](/2018/replays?2018-09-24-14-05-22-Contest-2018-2of3) | [0&nbsp;:&nbsp;**16936**](/2018/replays?2018-09-24-14-05-22-Contest-2018-3of3) | 0:9
+Akuanduba&#8209;UDESC vs. Smart_JaCaMo | [74&nbsp;:&nbsp;**22271**](/2018/replays?2018-09-24-16-26-12-Contest-2018-1of3) | [18&nbsp;:&nbsp;**101995**](/2018/replays?2018-09-24-16-26-12-Contest-2018-2of3) | [65&nbsp;:&nbsp;**37062**](/2018/replays?2018-09-24-16-26-12-Contest-2018-3of3) | 0:9
+Dumping&nbsp;to&nbsp;Gather vs. Jason&#8209;DTU | [3030&nbsp;:&nbsp;**3472**](/2018/replays?2018-09-24-16-29-30-Contest-2018-1of3) | [9973&nbsp;:&nbsp;**14332**](/2018/replays?2018-09-24-16-29-30-Contest-2018-2of3) | [5847&nbsp;:&nbsp;**8545**](/2018/replays?2018-09-24-16-29-30-Contest-2018-3of3) | 0:9
+Dumping&nbsp;to&nbsp;Gather vs. Smart_JaCaMo | [2303&nbsp;:&nbsp;**4581**](/2018/replays?2018-09-24-18-31-08-Contest-2018-1of3) | [9163&nbsp;:&nbsp;**62413**](/2018/replays?2018-09-24-18-31-08-Contest-2018-2of3) | [4367&nbsp;:&nbsp;**29543**](/2018/replays?2018-09-24-18-31-08-Contest-2018-3of3) | 0:9
+
+#### Tuesday
+
+<!--
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
+-->
+
+### Maps
+
+These maps will be played in the contest. The sample configurations contain the respective lat/lng values.
+
+| Nr. | Map | Sample Configuration |
+| -- |
+| 1 | [Copenhagen](osm/copenhagen.osm.pbf) | [conf.json](conf/Test-Copenhagen.json) |
+| 2 | [Berlin](osm/berlin.osm.pbf) | [conf.json](conf/Test-Berlin.json) |
+| 3 | [São Paulo](osm/saopaulo.osm.pbf) | [conf.json](conf/Test-SaoPaulo.json) |
+
+All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
 
 ### Schedule
 
@@ -46,38 +85,6 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 - Matches may start early, if both teams and server are available
 - Matches may start late, if preceding match is taking longer
 
-### Replays
-
-#### Monday
-
-Match | Sim 1 | Sim 2 | Sim 3 | Score
---- | --- | --- | --- | ---
-Akuanduba&#8209;UDESC vs. Jason&#8209;DTU | [401&nbsp;:&nbsp;**11586**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-1of3) | [1014&nbsp;:&nbsp;**25366**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-2of3) | [0&nbsp;:&nbsp;**1693**](/2018/replays/?2018-09-24-12-06-37-Contest-2018-3of3) | 0:9
-Jason&#8209;DTU vs. Smart_JaCaMo | [3644&nbsp;:&nbsp;**6800**](/2018/replays?2018-09-24-14-05-06-Contest-2018-1of3) | [**9142**&nbsp;:&nbsp;7079](/2018/replays?2018-09-24-14-05-06-Contest-2018-2of3) | [770&nbsp;:&nbsp;**41324**](/2018/replays?2018-09-24-14-05-06-Contest-2018-3of3) | 3:6
-Akuanduba&#8209;UDESC vs. Dumping&nbsp;to&nbsp;Gather | [130&nbsp;:&nbsp;**6402**](/2018/replays?2018-09-24-14-05-22-Contest-2018-1of3) | [0&nbsp;:&nbsp;**18677**](/2018/replays?2018-09-24-14-05-22-Contest-2018-2of3) | [0&nbsp;:&nbsp;**16936**](/2018/replays?2018-09-24-14-05-22-Contest-2018-3of3) | 0:9
-Akuanduba&#8209;UDESC vs. Smart_JaCaMo | [74&nbsp;:&nbsp;**22271**](/2018/replays?2018-09-24-16-26-12-Contest-2018-1of3) | [18&nbsp;:&nbsp;**101995**](/2018/replays?2018-09-24-16-26-12-Contest-2018-2of3) | [65&nbsp;:&nbsp;**37062**](/2018/replays?2018-09-24-16-26-12-Contest-2018-3of3) | 0:9
-Dumping&nbsp;to&nbsp;Gather vs. Jason&#8209;DTU | [3030&nbsp;:&nbsp;**3472**](/2018/replays?2018-09-24-16-29-30-Contest-2018-1of3) | [9973&nbsp;:&nbsp;**14332**](/2018/replays?2018-09-24-16-29-30-Contest-2018-2of3) | [5847&nbsp;:&nbsp;**8545**](/2018/replays?2018-09-24-16-29-30-Contest-2018-3of3) | 0:9
-Dumping&nbsp;to&nbsp;Gather vs. Smart_JaCaMo | [2303&nbsp;:&nbsp;**4581**](/2018/replays?2018-09-24-18-31-08-Contest-2018-1of3) | [9163&nbsp;:&nbsp;**62413**](/2018/replays?2018-09-24-18-31-08-Contest-2018-2of3) | [4367&nbsp;:&nbsp;**29543**](/2018/replays?2018-09-24-18-31-08-Contest-2018-3of3) | 0:9
-
-<!--
-| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
-| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
-| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
-| [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) | [&nbsp;:&nbsp;](/2018/replays?) |
--->
-
-### Maps
-
-These maps will be played in the contest. The sample configurations contain the respective lat/lng values.
-
-| Nr. | Map | Sample Configuration |
-| -- |
-| 1 | [Copenhagen](osm/copenhagen.osm.pbf) | [conf.json](conf/Test-Copenhagen.json) |
-| 2 | [Berlin](osm/berlin.osm.pbf) | [conf.json](conf/Test-Berlin.json) |
-| 3 | [São Paulo](osm/saopaulo.osm.pbf) | [conf.json](conf/Test-SaoPaulo.json) |
-
-All maps are © OpenStreetMap contributors ([terms](http://www.openstreetmap.org/copyright)).
-
 Registration
 ------------
 
@@ -92,6 +99,11 @@ Registration
 | [Akuanduba-UDESC](registration/akuanduba.pdf) | Santa Catarina <br> State University <br> (UDESC) | Giovanni Jakubiak de Albuquerque, <br> Tiago Funk, <br> Vilson de Deus Corrêa Júnior, <br> Tiago Luiz Schmitz | |
 | [SMART_JaCaMo](registration/smart-jacamo.pdf) | <sup>1</sup>Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (PUCRS), <sup>2</sup>University of <br> Liverpool, <br> <sup>3</sup>Universidade <br> Federal <br> de Santa <br> Catarina <br> (UFSC) | Tabajara Krausburg<sup>1</sup>, <br> Rafael C. Cardoso<sup>2</sup>, <br> Débora Engelmann<sup>1</sup>, <br> Vitor Peres<sup>1</sup>, <br> Giovani P. Farias<sup>1</sup>, <br> Juliana Damasio<sup>1</sup>, <br> Vágner Gabriel<sup>1</sup>, <br> Jomi F. Hübner<sup>3</sup>, <br> Rafael H. Bordini<sup>1</sup> | JaCaMo |
 | [FIT BUT](registration/fitbut.pdf) (withdrawn) | Brno University of Technology | Vaclav Uhlir, <br> Peter Hamran | Python |
+
+Important dates
+---------------
+
+{% include_relative _schedule.html %}
 
 Downloads
 ---------
