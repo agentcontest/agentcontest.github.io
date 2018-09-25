@@ -18,14 +18,14 @@ This builds on the [previous edition](/2017/). You can [watch](https://multiagen
 Contest
 -------
 
-### Standings after first day
+### Standings
 
 Placement | Team | Total score | Sources
 --- | --- | --- | --- | ---
-1 | SMART_JaCaMo | 24 |
-2 | Jason-DTU | 21 |
-3 | Dumping to Gather | 9 |
-4 | TUBDAI | |
+1 | TUBDAI | 27 |
+2 | SMART_JaCaMo | 24 |
+3 | Jason-DTU | 12 |
+4 | Dumping to Gather | 9 |
 5 | Akuanduba-UDESC | 0 |
 
 ### Replays
@@ -75,8 +75,8 @@ The tournament will take place September 24th and 25th. All times are GMT+2.
 | | Jason&#8209;DTU | | TUBDAI | |
 | 14:00&nbsp;-&nbsp;16:00 | SMART_JaCaMo | Dumping to Gather | Dumping to Gather ||
 | | Jason&#8209;DTU | Akuanduba&#8209;UDESC | TUBDAI ||
-| 16:00&nbsp;-&nbsp;18:00 | SMART_JaCaMo | Dumping to Gather | SMART_JaCaMo ||
-| | Akuanduba&#8209;UDESC | Jason&#8209;DTU | TUBDAI ||
+| 16:00&nbsp;-&nbsp;18:00 | SMART_JaCaMo | Dumping to Gather | TUBDAI ||
+| | Akuanduba&#8209;UDESC | Jason&#8209;DTU | Smart_JaCaMo ||
 | 18:00&nbsp;-&nbsp;20:00 | SMART_JaCaMo ||||
 | | Dumping to Gather ||||
 
