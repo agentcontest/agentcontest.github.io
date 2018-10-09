@@ -24,7 +24,7 @@ Placement | Team | Total score | Sources
 --- | --- | --- | --- | ---
 1 | SMART_JaCaMo | 33 | [Git](https://github.com/smart-pucrs/mapc2018-pucrs) [Zip](sources/SMART_JaCaMo.zip)
 2 | TUBDAI | 27 | [Git](https://github.com/etticat/mapc-2018) [Zip](sources/TUBDAI.zip)
-3 | Jason-DTU | 21 |
+3 | Jason-DTU | 21 | [Zip](sources/Jason-DTU.zip)
 4 | Dumping to Gather | 9 | [Zip](sources/Dumping_to_Gather.zip)
 5 | Akuanduba-UDESC | 0 | [Zip](sources/Akuanduba-UDESC.zip)
 
