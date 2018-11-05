@@ -9,12 +9,16 @@ layout: page
 Our MASSim platform has been used extensively in teaching.
 Below you will find an overview of the courses/projects we are aware of.
 
+* Course ["Agent Oriented Programming &amp; Design"](https://sites.google.com/site/rmitaopd18/home) at RMIT University, Melbourne, Australia.
+  Held by [Sebastian Sardina](http://goanna.cs.rmit.edu.au/~ssardina/).
+  Using [SARL](http://www.sarl.io/) and [SWI Prolog](http://www.swi-prolog.org/) in the **agents-in-the-city scenario (2018)**.
+
 * Application System Project, SS2017 and WS2017/2018, [Technische Universität Berlin, DAI-Labor](http://www.dai-labor.de/en/).
-  Held by Christopher-Eyk Hrabia und Axel Hessler. 
+  Held by Christopher-Eyk Hrabia und Axel Hessler.
   **Python/ROS and MASSim** using the **agents-in-the-city scenario**.
 
 * Agententechnologien in der Forschung, WS2017/2018, [Technische Universität Berlin, DAI-Labor](http://www.dai-labor.de/en/).
-  Held by Christopher-Eyk Hrabia und Stefan Fricke. 
+  Held by Christopher-Eyk Hrabia und Stefan Fricke.
   **Python/ROS and MASSim** further developing the **agents-in-the-city scenario**.
 
 * Bachelor's project A.I., 2016, [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
@@ -26,11 +30,10 @@ Below you will find an overview of the courses/projects we are aware of.
 
 * Course "Multi-Agent Systems I" at [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
   Held by Tristan Behrens, Michael Köster, Federico Schlesinger, and Jürgen Dix.
-
-  - In 2012: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2012](mas-BSc-1-up-SS2012.pdf).
-  - In 2011: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2011](mas-BSc-2011.pdf).
-  - In 2010: **Jason** and MASSim. **Cows-and-cowboys scenario**. [TUC Slides 2010](mas-BSc-1-up-2010.pdf).
-  - In 2009: **2APL** and MASSim. With **toy-examples** and the **goldminers scenario**. [TUC Slides 2008](mas-BSc-2008.pdf).
+  * In 2012: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2012](mas-BSc-1-up-SS2012.pdf).
+  * In 2011: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2011](mas-BSc-2011.pdf).
+  * In 2010: **Jason** and MASSim. **Cows-and-cowboys scenario**. [TUC Slides 2010](mas-BSc-1-up-2010.pdf).
+  * In 2009: **2APL** and MASSim. With **toy-examples** and the **goldminers scenario**. [TUC Slides 2008](mas-BSc-2008.pdf).
 
 * Practical course (extra-curricular) "Multi-agent programming contest 2011"
   at [Department of Computer Science](http://ls1-www.cs.uni-dortmund.de/), [Technische Universität Dortmund](http://www.tu-dortmund.de/).
@@ -73,6 +76,5 @@ Below you will find an overview of the courses/projects we are aware of.
   Held by [Sebastian Sardina](http://goanna.cs.rmit.edu.au/~ssardina/).
   Using **Prometheus Design Tool + JACK Intelligent Agents** in the **gold-miner scenario**.
 
-
 * MAS course at St. Etienne, France. Held by [Olivier Boissier](http://www.emse.fr/~boissier/) in 2008.
-  Using **Java-/Jason-agents** the **gold-miners scenario**.
+  Using **Java-/Jason-agents** in the **gold-miners scenario**.
