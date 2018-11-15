@@ -10,7 +10,7 @@ Our MASSim platform has been used extensively in teaching.
 Below you will find an overview of the courses/projects we are aware of.
 
 * Course ["Agent Oriented Programming &amp; Design"](https://sites.google.com/site/rmitaopd18/home) at RMIT University, Melbourne, Australia.
-  Held by [Sebastian Sardina](http://goanna.cs.rmit.edu.au/~ssardina/).
+  Held by [Sebastian Sardina](https://sites.google.com/site/ssardina/).
   Using [SARL](http://www.sarl.io/) and [SWI Prolog](http://www.swi-prolog.org/) in the **agents-in-the-city scenario (2018)**.
 
 * Application System Project, SS2017 and WS2017/2018, [Technische Universität Berlin, DAI-Labor](http://www.dai-labor.de/en/).
@@ -73,7 +73,7 @@ Below you will find an overview of the courses/projects we are aware of.
   **Jason/Java/ASP** and MASSim using the **cows-and-cowboys scenario**.
 
 * Course ["Agent Oriented Programming and Design"](http://www.cs.rmit.edu.au/agents/aopd/) at RMIT University, Melbourne, Australia.
-  Held by [Sebastian Sardina](http://goanna.cs.rmit.edu.au/~ssardina/).
+  Held by [Sebastian Sardina](https://sites.google.com/site/ssardina/).
   Using **Prometheus Design Tool + JACK Intelligent Agents** in the **gold-miner scenario**.
 
 * MAS course at St. Etienne, France. Held by [Olivier Boissier](http://www.emse.fr/~boissier/) in 2008.
