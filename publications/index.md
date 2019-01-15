@@ -6,7 +6,8 @@ title: Publications
 Books and collections
 ---------------------
 
-* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2017](http://www.springer.com/computer/ai/journal/10472), Annals of Mathematics and Artificial Intelligence, Volume ??, Springer, 2018
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: Special Issue on Multi-Agent Contest 2018 (to appear), Springer, 2019
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2017](http://www.springer.com/computer/ai/journal/10472), Annals of Mathematics and Artificial Intelligence, Volume 84, Issue 1-2, Springer, 2018
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2018&vol=6&issue=1), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018
 * Behrens, Tristan and Dix, Jürgen and Köster, Michael and Hübner, Jomi: [Special Issue on Multi-Agent Contest 2010](http://link.springer.com/journal/10472/61/4), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, Netherlands, 2011
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [Special Issue on Multi-Agent Contest 2009](http://link.springer.com/journal/10472/59/3/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer, Netherlands, 2010
@@ -14,7 +15,7 @@ Books and collections
 Articles
 --------
 
-* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Multi-Agent Programming Contest 2017](http://dx.doi.org/10.1007/s10472-018-9594-x) in [Special Issue on Multi-Agent Contest 2017](https://link.springer.com/journal/volumesAndIssues/10472), Annals of Mathematics and Artificial Intelligence, Volume 84 No. ?, Springer, 2018.
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Multi-Agent Programming Contest 2017](http://dx.doi.org/10.1007/s10472-018-9594-x) in [Special Issue on Multi-Agent Contest 2017](https://link.springer.com/journal/volumesAndIssues/10472), Annals of Mathematics and Artificial Intelligence, Volume 84, Issue 1-2, Springer, 2018.
   * [read online](https://rdcu.be/2Qrt)
   * [download post-peer-review, pre-copyedit version](mapc2017.pdf) [^mapc2017]
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Multi-Agent Programming Contest 2016](http://dx.doi.org/10.1504/IJAOSE.2018.10010603) in [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2018&vol=6&issue=1), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018. [mapc2016.pdf](mapc2016.pdf) [^mapc2016]
