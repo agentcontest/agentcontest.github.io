@@ -6,3 +6,5 @@ author: Tobias Ahlbrecht
 ---
 
 The 2018 contest proceedings will be published with Springer in the color-cover subline of LNCS/LNAI.
+
+Dates and the submission system will be announced shortly.
