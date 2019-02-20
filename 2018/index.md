@@ -4,6 +4,13 @@ title: The 2018 Contest
 permalink: /2018/
 ---
 
+Publication
+-----------
+
+Each team is [invited](/2019/02/20/publication.html) to submit a team
+description paper. The articles will
+appear in an issue of the "color-cover subline" of LNCS/LNAI.
+
 The Scenario: Agents in the City
 --------------------------------
 
