@@ -9,6 +9,8 @@ The Scenario: Agents Assemble(*)
 
 The new scenario will be described here shortly.
 
+![Agents Assemble](/2019/banner.png){:width="630" height="314"}
+
 Contest
 -------
 
