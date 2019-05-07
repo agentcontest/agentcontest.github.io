@@ -156,7 +156,7 @@ a team description paper and the source code of the agents.
 Mailing List
 ------------
 
-Participants and all intrested colleagues are invited to
+Participants and all interested colleagues are invited to
 [subscribe to our mailing list](https://groups.google.com/forum/#!forum/agentcontest):
 
 `agentcontest@googlegroups.com`
