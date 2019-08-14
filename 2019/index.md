@@ -14,6 +14,8 @@ In the new scenario, agents have to put blocks together to assemble more complex
 Contest
 -------
 
+(Schedule etc. coming soon.)
+
 Registration
 ------------
 
