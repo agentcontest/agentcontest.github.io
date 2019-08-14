@@ -16,6 +16,10 @@ Contest
 
 (Schedule etc. coming soon.)
 
+### Rules and Guidelines
+
+(About to be finished.)
+
 Registration
 ------------
 
