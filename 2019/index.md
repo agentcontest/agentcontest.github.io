@@ -14,11 +14,9 @@ In the new scenario, agents have to put blocks together to assemble more complex
 Contest
 -------
 
+[Organisation & Guidelines](downloads/organisation.txt)
+
 (Schedule etc. coming soon.)
-
-### Rules and Guidelines
-
-(About to be finished.)
 
 Registration
 ------------

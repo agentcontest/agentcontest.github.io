@@ -1,0 +1,25 @@
+MAPC Organisation & Guidelines
+
+Contest
+
+- Each team plays one match of 3 simulations against each other team.
+- Winning a simulation awards 3 points. A draw results in 1 point for each team.
+- The team with the most points wins the tournament.
+    - If 2 or more teams are tied for a place, they will share the same placement.
+- The “web monitor” will not be available during the matches (only a version with very basic information).
+- The agents may be modified during the tournament. Changes should be documented and submitted to the organisers after the contest to support the contest analysis.
+- If there is any hardware or software failure on the part of the contest organisation, we may decide to reschedule and replay the affected match (depending on severity).
+
+Technical
+
+- Agents may access the current state of the game only via their perceptions (given by the sim-start and request-action messages).
+- Agents may reconnect at any time to their current simulation.
+- Any programming language, framework, etc. may be used to create agents.
+
+Scenario
+
+- A simulation is won by the team with the most points.
+- If both teams are tied, the simulation ends in a draw.
+
+
+Last edited: 14.8.2019 - 16:35
