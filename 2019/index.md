@@ -14,23 +14,22 @@ In the new scenario, agents have to put blocks together to assemble more complex
 Contest
 -------
 
-(Happening around September)
-
 Registration
 ------------
 
-(Opening in August)
+Please fill out the [registration form](downloads/registration.tex) and
+follow the instructions within.
 
 Important dates
 ---------------
 
 What | When
 --- | ---
-First software package available | now!
-Scenario is feature complete | July 2019
-Registration Deadline | 18 August 2019
-Qualification | September
-Contest | Mid to Late September
+(done) First software package available | now!
+(done) Scenario is feature complete | July 2019
+Registration Deadline | 1st September 2019
+Qualification | 9th September 2019
+Contest | Week of 23rd September 2019
 
 The platform
 ------------
