@@ -12,7 +12,7 @@ Contest
 
 Technical
 
-- The server may provide additional information (beyond what agents receive in their messages) to (human) spectators. Agents may not get access to this information.
+- The server might provide additional information (beyond what agents receive in their messages) to (human) spectators. Agents may not get access to this information.
 - Agents may reconnect at any time to their current simulation.
 - Any programming language, framework, etc. may be used to create agents.
 
