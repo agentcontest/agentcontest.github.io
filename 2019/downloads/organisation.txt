@@ -12,7 +12,7 @@ Contest
 
 Technical
 
-- Agents may access the current state of the game only via their perceptions (given by the sim-start and request-action messages).
+- The server may provide additional information (beyond what agents receive in their messages) to (human) spectators. Agents may not get access to this information.
 - Agents may reconnect at any time to their current simulation.
 - Any programming language, framework, etc. may be used to create agents.
 
@@ -22,4 +22,4 @@ Scenario
 - If both teams are tied, the simulation ends in a draw.
 
 
-Last edited: 14.8.2019 - 16:35
+Last edited: 15.8.2019 - 14:05
