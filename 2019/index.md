@@ -18,6 +18,15 @@ Contest
 
 (Schedule etc. coming soon.)
 
+### Registrations
+
+Team | Affiliation | Members | Platform/Language
+--- | --- | ---
+[FIT BUT](registrations/FIT_BUT_public.pdf) | Brno University of Technology | Uhlir Vaclav <br> Zboril Frantisek <br> Vidensky Frantisek | Java
+[GOAL-DTU](registrations/DTU_public.pdf) | Technical University of Denmark | Jørgen Villadsen <br> Alexander Birch Jensen <br> Andreas Halkjær From | [GOAL](https://goalapl.atlassian.net/wiki/)
+[LFC](registrations/LFC_public.pdf) | University of Liverpool | Rafael C. Cardoso <br> Angelo Ferrando <br> Fabio Papacchini | [JaCaMo](http://jacamo.sourceforge.net/)
+[TRG](registrations/TRG_public.pdf) | Carleton University | Michael Vezina | [Jason](http://jason.sourceforge.net/wp/)
+
 Registration
 ------------
 
@@ -31,7 +40,7 @@ What | When
 --- | ---
 (done) First software package available | now!
 (done) Scenario is feature complete | July 2019
-Registration Deadline | 1st September 2019
+(done) Registration Deadline | 1st September 2019
 Qualification | 9th September 2019
 Contest | Week of 23rd September 2019
 
