@@ -20,7 +20,7 @@ Contest
 
 ### Registrations
 
-Team | Affiliation | Members | Platform/Language
+Team | Affiliation | Members | Using
 --- | --- | ---
 [FIT BUT](registrations/FIT_BUT_public.pdf) | Brno University of Technology | Uhlir Vaclav <br> Zboril Frantisek <br> Vidensky Frantisek | Java
 [GOAL-DTU](registrations/DTU_public.pdf) | Technical University of Denmark | Jørgen Villadsen <br> Alexander Birch Jensen <br> Andreas Halkjær From | [GOAL](https://goalapl.atlassian.net/wiki/)
