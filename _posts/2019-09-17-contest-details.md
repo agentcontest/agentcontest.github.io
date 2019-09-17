@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 Contest details
+title: Contest details
 date: 2019-08-17 12:00:00 +0200
 author: MAPC organizers
 read_more: false

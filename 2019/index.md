@@ -20,7 +20,7 @@ Contest
 
 
 
-Time | [agentcontest1](agentcontest1.in.tu-clausthal.de) | [agentcontest2](agentcontest2.in.tu-clausthal.de)
+Time | ac1 | ac2
 --- | --- | ---
 tba. | A vs. B | C vs. D
 tba. | A vs. D | C vs. B
