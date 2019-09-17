@@ -16,7 +16,15 @@ Contest
 
 [Organisation & Guidelines](downloads/organisation.txt)
 
-(Schedule etc. coming soon.)
+### Schedule
+
+
+
+Time | [agentcontest1](agentcontest1.in.tu-clausthal.de) | [agentcontest2](agentcontest2.in.tu-clausthal.de)
+--- | --- | ---
+tba. | A vs. B | C vs. D
+tba. | A vs. D | C vs. B
+tba. | A vs. C | B vs. D
 
 ### Registrations
 
@@ -41,8 +49,8 @@ What | When
 (done) First software package available | now!
 (done) Scenario is feature complete | July 2019
 (done) Registration Deadline | 1st September 2019
-Qualification | 9th September 2019
-Contest | Week of 23rd September 2019
+(done) Qualification | 9th September 2019
+Contest | 16th October 2019
 
 The platform
 ------------
