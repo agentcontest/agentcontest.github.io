@@ -18,13 +18,15 @@ Contest
 
 ### Schedule
 
-
+All times are CEST. Letters will be assigned team names randomly ~1 week before the contest.
 
 Time | ac1 | ac2
 --- | --- | ---
-tba. | A vs. B | C vs. D
-tba. | A vs. D | C vs. B
-tba. | A vs. C | B vs. D
+14:00 | A vs. B | C vs. D
+~15:30 | A vs. D | C vs. B
+~17:00 | A vs. C | B vs. D
+~18:30 | Live-Replays | |
+
 
 ### Registrations
 
