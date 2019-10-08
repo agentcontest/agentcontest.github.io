@@ -86,7 +86,9 @@ header, footer {
 
 @media(min-width: 630px) {
   .wrapper {
-    width: 630px;
+    min-width: 630px;
+    width: 70%;
+    max-width:1260px;
     margin: auto;
   }
 
