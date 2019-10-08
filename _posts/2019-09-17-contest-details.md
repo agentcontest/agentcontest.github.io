@@ -6,4 +6,6 @@ author: MAPC organizers
 read_more: false
 ---
 
-We are happy to announce that all 4 registered teams have passed qualification! The contest date has been set to 16th October 2019.
+We are happy to announce that all 4 registered teams have passed qualification! 
+
+Update: The contest date has been set to 16th October 2019.

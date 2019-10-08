@@ -4,8 +4,8 @@ title: The 2019 Contest
 permalink: /2019/
 ---
 
-The Scenario: Agents Assemble(*)
---------------------------------
+The Scenario: Agents Assemble
+-----------------------------
 
 In the new scenario, agents have to put blocks together to assemble more complex structures and deliver them in a grid world. For more information, see the [Scenario documentation](https://github.com/agentcontest/massim_2019/blob/master/docs/scenario.md).
 
