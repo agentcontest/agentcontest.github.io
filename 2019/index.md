@@ -22,9 +22,9 @@ All times are CEST. Letters will be assigned team names randomly ~1 week before 
 
 Time | ac1 | ac2
 --- | --- | ---
-14:00 | A vs. B | C vs. D
-~15:30 | A vs. D | C vs. B
-~17:00 | A vs. C | B vs. D
+14:00 | LFC vs. FIT BUT | GOAL-DTU vs. TRG
+~15:30 | LFC vs. TRG | GOAL-DTU vs. FIT BUT
+~17:00 | LFC vs. GOAL-DTU | FIT BUT vs. TRG
 ~18:30 | Live-Replays | |
 
 
