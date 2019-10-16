@@ -18,9 +18,9 @@ Contest
 
 Placement | Team | Total score | Sources
 --- | --- | --- | ---
-1 | LFC | 9 |
+1 | LFC | 16 |
 2 | GOAL-DTU | 7
-3 | TRG | 1
+3 | TRG | 2
 4 | FIT BUT | 0 |
 
 ### Replays
@@ -29,6 +29,7 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 LFC vs. FIT BUT | [**210**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-16-27-1571228187194_LFC_FIT-BUT) | [**170**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-16-27-1571228815095_LFC_FIT-BUT) | [**220**&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-14-16-27-1571229197887_LFC_FIT-BUT) | 9:0
 GOAL-DTU vs. TRG | [40&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-14-07-44-1571227664602_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-37-04-1571229424884_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-15-02-26-1571230946067_GOAL-DTU_TRG) | 7:1
+LFC vs. TRG | [**180**&nbsp;:&nbsp;120](/2019/replays/?2019-10-16-15-32-19-1571232739091_LFC_TRG) | [0&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-15-39-17-1571233157086_LFC_TRG) | [**210**&nbsp;:&nbsp;40](/replays/2019/?2019-10-16-15-50-00-1571233800721_LFC_TRG) | 7:1
 
 ### Schedule
 
