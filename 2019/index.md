@@ -14,7 +14,21 @@ In the new scenario, agents have to put blocks together to assemble more complex
 Contest
 -------
 
-[Organisation & Guidelines](downloads/organisation.txt)
+### Results
+
+Placement | Team | Total score | Sources
+--- | --- | --- | ---
+1 | LFC | 9 |
+2 | GOAL-DTU | 7
+3 | TRG | 1
+4 | FIT BUT | 0 |
+
+### Replays
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+LFC vs. FIT BUT | [**210**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-16-27-1571228187194_LFC_FIT-BUT) | [**170**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-16-27-1571228815095_LFC_FIT-BUT) | [**220**&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-14-16-27-1571229197887_LFC_FIT-BUT) | 9:0
+GOAL-DTU vs. TRG | [40&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-14-07-44-1571227664602_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-37-04-1571229424884_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-15-02-26-1571230946067_GOAL-DTU_TRG) | 7:1
 
 ### Schedule
 
@@ -27,8 +41,9 @@ Time | ac1 | ac2
 ~17:00 | LFC vs. GOAL-DTU | FIT BUT vs. TRG
 ~18:30 | Live-Replays | |
 
-
 ### Registrations
+
+[Organisation & Guidelines](downloads/organisation.txt)
 
 Team | Affiliation | Members | Using
 --- | --- | ---
