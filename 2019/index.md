@@ -18,10 +18,10 @@ Contest
 
 Placement | Team | Total score | Sources
 --- | --- | --- | ---
-1 | LFC | 16 |
-2 | GOAL-DTU | 7
-3 | TRG | 2
-4 | FIT BUT | 9 |
+1 | LFC | 22 |
+2 | FIT BUT | 15 |
+3 | GOAL-DTU | 10
+4 | TRG | 5
 
 ### Replays
 
@@ -31,6 +31,9 @@ LFC vs. FIT BUT | [**210**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-16-27-157
 GOAL-DTU vs. TRG | [40&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-14-07-44-1571227664602_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-14-37-04-1571229424884_GOAL-DTU_TRG) | [**40**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-15-02-26-1571230946067_GOAL-DTU_TRG) | 7:1
 LFC vs. TRG | [**180**&nbsp;:&nbsp;120](/2019/replays/?2019-10-16-15-32-19-1571232739091_LFC_TRG) | [0&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-15-39-17-1571233157086_LFC_TRG) | [**210**&nbsp;:&nbsp;40](/replays/2019/?2019-10-16-15-50-00-1571233800721_LFC_TRG) | 7:1
 GOAL-DTU vs. FIT BUT | [0&nbsp;:&nbsp;**340**](/2019/replays/?2019-10-16-15-21-50-1571232110105_GOAL-DTU_FIT-BUT) | [0&nbsp;:&nbsp;**40**](/2019/replays/?2019-10-16-15-47-46-1571233666717_GOAL-DTU_FIT-BUT) | [0&nbsp;:&nbsp;**680**](/2019/replays/?2019-10-16-16-22-05-1571235725395_GOAL-DTU_FIT-BUT) | 0:9
+FIT BUT vs. TRG | [**80**&nbsp;:&nbsp;0](/2019/replays/?2019-10-16-16-46-42-1571237202721_TRG_FIT-BUT) | [80&nbsp;:&nbsp;**210**](/2019/replays/?2019-10-16-16-53-51-1571237631601_TRG_FIT-BUT) | [**500**&nbsp;:&nbsp;180](/2019/replays/?2019-10-16-17-00-42-1571238042365_TRG_FIT-BUT) | 6:3
+LFC vs. GOAL-DTU | [**380**&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-16-52-05-1571237525849_GOAL-DTU_LFC) | [40&nbsp;:&nbsp;**130**](/2019/replays/?2019-10-16-17-22-57-1571239377138_GOAL-DTU_LFC) | [**380**&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-17-43-04-1571240584642_GOAL-DTU_LFC) | 6:3
+
 
 ### Schedule
 
