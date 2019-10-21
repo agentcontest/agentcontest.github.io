@@ -18,10 +18,10 @@ Contest
 
 Placement | Team | Total score | Sources
 --- | --- | --- | ---
-1 | LFC | 22 |
+1 | LFC | 22 | [GIT](https://github.com/autonomy-and-verification-uol/mapc2019-liv)
 2 | FIT BUT | 15 |
-3 | GOAL-DTU | 10
-4 | TRG | 5
+3 | GOAL-DTU | 10 |
+4 | TRG | 5 | [GIT](https://github.com/MikeVezina/massim2019)
 
 ### Replays
 
