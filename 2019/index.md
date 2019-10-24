@@ -37,7 +37,7 @@ LFC vs. GOAL-DTU | [**380**&nbsp;:&nbsp;40](/2019/replays/?2019-10-16-16-52-05-1
 
 ### Schedule
 
-All times are CEST. Letters will be assigned team names randomly ~1 week before the contest.
+All times are CEST.
 
 Time | ac1 | ac2
 --- | --- | ---
@@ -114,8 +114,7 @@ Prize
 -----
 
 The winner of this year's contest will be awarded a voucher for 500 EUR worth in books,
-thankfully provided by [Springer Verlag](https://www.springer.com). Requirements are the submission of
-a team description paper and the source code of the agents.
+thankfully provided by [Springer Verlag](https://www.springer.com). Requirements are the submission of a team description paper and the source code of the agents.
 
 Mailing List
 ------------
