@@ -9,7 +9,7 @@ The Scenario: Agents Assemble
 
 In the new scenario, agents have to put blocks together to assemble more complex structures and deliver them in a grid world. For more information, see the [Scenario documentation](https://github.com/agentcontest/massim_2019/blob/master/docs/scenario.md).
 
-![Agents Assemble](/2019/contest_banner.png)
+![Agents Assemble](/2019/contest_banner_small.png)
 
 Contest
 -------
@@ -72,7 +72,7 @@ What | When
 (done) Scenario is feature complete | July 2019
 (done) Registration Deadline | 1st September 2019
 (done) Qualification | 9th September 2019
-Contest | 16th October 2019
+(done) Contest | 16th October 2019
 
 The platform
 ------------
