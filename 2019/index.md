@@ -11,6 +11,11 @@ In the new scenario, agents have to put blocks together to assemble more complex
 
 ![Agents Assemble](/2019/banner.png){:width="630" height="342"}
 
+Publication
+-----------
+- [Questionnaire](/2019/questionnaire.zip)
+- The concrete outlet and submission system will be announced in early 2020.
+
 Contest
 -------
 
