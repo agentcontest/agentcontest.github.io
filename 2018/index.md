@@ -7,9 +7,11 @@ permalink: /2018/
 Publication
 -----------
 
-Each team is [invited](/2019/02/20/publication.html) to submit a team
-description paper. The articles will
-appear in an issue of the "color-cover subline" of LNCS/LNAI.
+<div class="actions">
+  <a href="https://link.springer.com/book/10.1007/978-3-030-37959-9"><strong>MAPC 2018 Publication</strong></a>
+</div>
+
+The results of MAPC 2018 and all team description papers have been published with Springer in the new *Challenges* series.
 
 The Scenario: Agents in the City
 --------------------------------
