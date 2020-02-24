@@ -1,3 +1,11 @@
+### 2019: Agents Assemble
+
+![Agents Assemble](/2019/banner.png){:height="280" width="630"}
+
+<div class="actions">
+  <a href="/2019/">Agent Contest 2019</a>
+</div>
+
 ### 2016, 2017, 2018: Agents in the City
 
 ![Agents in the City](/2016/banner.jpg){:height="280" width="630"}
