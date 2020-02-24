@@ -8,7 +8,7 @@ The Scenario: Agents Assemble II
 --------------------------------
 
 Agents with limited local vision have to organize to assemble and deliver
-complex structures made of blocks, and deliver them in a grid world.
+complex structures made of blocks, in a grid world.
 
 The scenario is a revision of the [previous edition](/2019/).
 [Replays](http://localhost:4000/2019/#replays) are available.
