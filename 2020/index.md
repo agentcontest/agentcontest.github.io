@@ -20,7 +20,7 @@ Provisional timeline
 
 What | When
 --- | ---
-First software package and specifications available | End of March
+First software package and specifications available | Complete
 Programming and testing by the participants | April - July
 Registration Deadline | 10th August
 Qualification | 24th August
@@ -29,9 +29,9 @@ Contest | September 2020
 The platform
 ------------
 
-The MASSim server will soon be available on GitHub.
+The MASSim server is [available on GitHub](https://github.com/agentcontest/massim_2020).
 
-The package will contain some dummy agents. You can use them as a starting
+The package contains some dummy agents. You can use them as a starting
 point or implement the communication protocol yourself.
 
 Prize
