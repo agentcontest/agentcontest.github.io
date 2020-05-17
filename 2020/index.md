@@ -68,3 +68,22 @@ Authors should consult Springer’s [authors’ guidelines](ftp://ftp.springerna
 
 - Tentative submission deadline: 7 December 2020
 - Submission system: [Springer OCS](https://ocs.springer.com/ocs/en/home/MAPC2020)
+
+General Advice
+--------------
+
+We have collected some tips and tricks for participating in the contest. If you have participated before, please send us your additions.
+
+- Make sure your agents can handle transitions between simulations.
+- During the contest, only the status monitor will be active. Maybe enable your agents to tell you what's going on.
+- Often, we see agents reconnecting to the server during a simulation. Maybe try to ensure that:
+    - your agents do not lose valuable information if they need to be restarted; and
+    - they can handle different initial states (e.g., agent is carrying a block).
+- Test your agents against other agents (e.g. a second instance of your team).
+- Test your agents with different scenario parameters.
+- Use the skip() action for each agent who needs to wait a step in order to speed up the simulation.
+
+For the current scenario:
+
+- If an agent is somehow attached to another, it moves together with the other agent. These agents can coordinate their movements to move twice as fast! (One move-action per agent and step.)
+- Your agents can start or end up surrounded by obstacles. Make sure they know how to "dig" themselves out.- Clear actions could also be used to scare away opponent agents.
