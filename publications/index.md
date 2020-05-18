@@ -62,6 +62,7 @@ Technical reports
 Talks
 -----
 
+* [EMAS](https://emas2020.in.tu-clausthal.de), Auckland (virtual) 2020. [Talk on underline](https://underline.io/lecture/86-multi-agent-programming-contest-2019).
 * MAPC Winner Ceremony, Delft 2012. [delft2012.pdf](delft2012.pdf).
 * [IJCAI-NRAC](http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
 * [ProMAS IX](http://inf.ufrgs.br/promas2011/), 2011. [promas2011-mapc.pdf](promas2011-mapc.pdf).

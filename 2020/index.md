@@ -86,4 +86,5 @@ We have collected some tips and tricks for participating in the contest. If you 
 For the current scenario:
 
 - If an agent is somehow attached to another, it moves together with the other agent. These agents can coordinate their movements to move twice as fast! (One move-action per agent and step.)
-- Your agents can start or end up surrounded by obstacles. Make sure they know how to "dig" themselves out.- Clear actions could also be used to scare away opponent agents.
+- Your agents can start or end up surrounded by obstacles. Make sure they know how to "dig" themselves out.
+- Clear actions could also be used to scare away opponent agents.
