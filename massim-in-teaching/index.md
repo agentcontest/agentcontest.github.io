@@ -7,7 +7,7 @@ layout: page
 ![overview008.png](overview800.png)
 
 Our MASSim platform has been used extensively in teaching.
-Below you will find an overview of the courses/projects we are aware of.
+Below you will find an overview of the courses/projects we are aware of. (If you used MASSim or the MAPC in your teaching, we would be happy to include your entry as well!)
 
 * Course ["Agent Oriented Programming &amp; Design"](https://sites.google.com/site/rmitaopd18/home) at RMIT University, Melbourne, Australia.
   Held by [Sebastian Sardina](https://sites.google.com/site/ssardina/).
