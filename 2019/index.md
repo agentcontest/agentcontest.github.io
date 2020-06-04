@@ -4,6 +4,20 @@ title: The 2019 Contest
 permalink: /2019/
 ---
 
+Publication
+-----------
+
+The results will be published in Springer's [Lect. Notes Computer Challenges](https://www.springer.com/series/16528) series.
+
+Team | Title | Details
+--- | --- | ---
+Organizers | The Multi-Agent Programming Contest - A résumé | -
+FIT BUT | Multi-Agent Programming Contest 2019 FIT BUT Team solution | -
+GOAL-DTU | GOAL-DTU: Development of Distributed Intelligence for the Multi-Agent Programming Contest | -
+LFC | LFC: Combining Autonomous Agents and Automated Planning in the Multi-Agent Programming Contest | -
+TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | -
+
+
 The Scenario: Agents Assemble
 -----------------------------
 
@@ -144,6 +158,3 @@ team. Once the quality of the papers has been assured they will be regularly
 published (as the [previous edition](https://link.springer.com/conference/mapc)) in Springer's [LNCS Challenges](https://www.springer.com/series/16528) subline.
 
 Authors should consult Springer’s [authors’ guidelines](ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid?wt_mc=Other.Other.1.AUT642.ORCID+proceedings+pilot+2017&utm_medium=other&utm_source=other&utm_content=8232017&utm_campaign=1_barz01_orcid+proceedings+pilot+2017) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
-
-- Submission deadline: tba
-- Submission system: tba
