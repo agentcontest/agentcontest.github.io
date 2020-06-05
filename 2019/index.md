@@ -26,10 +26,6 @@ In the new scenario, agents have to put blocks together to assemble more complex
 
 ![Agents Assemble](/2019/banner.png){:width="630" height="342"}
 
-Publication
------------
-- [Questionnaire](/2019/questionnaire.zip)
-- The concrete outlet and submission system will be announced in early 2020.
 
 Contest
 -------
@@ -151,8 +147,8 @@ and bug reports will be shared on this list.
 The [mailing list archive](https://groups.google.com/forum/#!forum/agentcontest)
 is publically available.
 
-Publications
-------------
+Planned Publications
+--------------------
 
 After the tournament we invite every participant to submit a paper about their
 team. Once the quality of the papers has been assured they will be regularly
