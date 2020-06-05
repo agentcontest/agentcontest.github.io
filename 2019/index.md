@@ -9,14 +9,15 @@ Publication
 
 The results will be published in Springer's [Lect. Notes Computer Challenges](https://www.springer.com/series/16528) series.
 
-Team | Title | Details
+Team | Title | DOI
 --- | --- | ---
-Organizers | The Multi-Agent Programming Contest - A résumé | Preprint on [arxiv](https://arxiv.org/)
+Organizers | The Multi-Agent Programming Contest - A résumé | -
 FIT BUT | Multi-Agent Programming Contest 2019 FIT BUT Team solution | -
 GOAL-DTU | GOAL-DTU: Development of Distributed Intelligence for the Multi-Agent Programming Contest | -
-LFC | LFC: Combining Autonomous Agents and Automated Planning in the Multi-Agent Programming Contest | Preprint on [arxiv](https://arxiv.org/)
-TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | Preprint on [arxiv](https://arxiv.org/)
+LFC | LFC: Combining Autonomous Agents and Automated Planning in the Multi-Agent Programming Contest | -
+TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | -
 
+Preprints may be available on [arxiv](https://arxiv.org/).
 
 The Scenario: Agents Assemble
 -----------------------------
