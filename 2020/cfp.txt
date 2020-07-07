@@ -1,0 +1,106 @@
+======== CALL FOR PARTICIPATION ========
+
+    MAPC 2020
+    Multi-Agent Programming Contest
+    https://multiagentcontest.org/2020/
+
+========================================
+
+1. AIMS AND SCOPE
+
+This competition is an attempt to stimulate research in the area
+of multi-agent system development and programming by
+1. identifying key problems,
+2. collecting suitable benchmarks, and
+3. gathering test cases
+that can serve as milestones for testing multi-agent programming
+languages, platforms, and tools. We also expect that participating
+in the contest will help to debug existing systems and frameworks and 
+to identify their weak and strong aspects.
+
+The performance of a particular system will be determined in a
+series of games where the systems compete against each other.
+While winning the competition is not the main point, we hope it will
+shed light on the applicability of certain frameworks to particular
+domains.
+
+
+2. HISTORY
+
+The Multi-Agent Programming Contest was initiated in 2005 and is now in its 6th phase.
+
+2005: the "food-gatherers"-scenario, where a pre-specified multi-agent
+system had to be implemented. These MASs were later examined in order
+to determine the winner.
+2006 - 2007: the "goldminers"-scenario, where  we provided the environment by means of an online-architecture and automatically determined the winner.
+2008 - 2010: the "cows and cowboys"-scenario, again on the online-architecture, but with a slightly changed objective.
+2011 - 2014: the "agents on Mars"-scenario, where agents had to solve a different more complex problem.
+2016-2018: the "agents in the city"-scenario, played on realistic street graphs, where agents had to solve logistics puzzles.
+
+2019-NOW: The "Agents Assemble"-scenario combines many aspects which have proven interesting in previous scenarios. The agents have to move in a dynamic grid-world with limited local information and cooperate to find and combine pieces in order to complete randomized tasks.
+
+
+3. ENROLLING AND DOWNLOAD
+
+We would like to invite potential participants to join the MAPC mailing list.
+
+        https://groups.google.com/forum/#!forum/agentcontest
+
+All the important details and announcements will be sent and discussed via this list. And please do not hesitate to say hello on the list.
+
+You can download the software package directly from GitHub:
+
+        https://github.com/agentcontest/massim_2020/releases
+
+
+4. PARTICIPATION REQUIREMENTS
+
+The participation in this contest consists of these parts:
+
+1. Declaring the intent to participate by registering to the mailing list.
+2. Submission of a short team description, thus registering to the contest officially.
+3. Participation in all assigned matches in the final tournament.
+4. Submitting the source-code of your application right after the tournament.
+5. Submission of a team description and analysis paper after the tournament.
+
+
+5. ROUGH TIMELINE
+
+10th of August: registration deadline.
+
+24th of August: start of qualification phase.
+
+October/November: tournament.
+
+After tournament: publications.
+
+
+6. PUBLICATIONS
+
+After the tournament we invite each participant to submit a paper
+about their agent team. The papers of which the quality has been assured
+will be regularly published in Springer's new Computer Challenges subline:
+https://www.springer.com/series/16528
+
+
+7. PRIZE
+
+The winner of the contest will be awarded with a voucher for
+500 EUR worth in books, thankfully provided by Springer Verlag.
+Requirements are the submission of a paper and the source codes
+of the agents.
+
+
+8. PEOPLE
+
+Organizers:
+  Tobias Ahlbrecht (Clausthal University of Technology)
+  Jürgen Dix (Clausthal University of Technology)
+  Niklas Fiekas (Clausthal University of Technology)
+  Tabajara Krausburg (Clausthal University of Technology)
+
+Steering Committee:
+  Mehdi Dastani (Utrecht University)
+  Jürgen Dix (Clausthal University of Technology)
+  Jomi Hübner (Federal University of Santa Catarina)
+  Peter Novak (Delft University of Technology)
