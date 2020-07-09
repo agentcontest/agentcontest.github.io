@@ -24,7 +24,7 @@ First software package and specifications available | Complete
 Programming and testing by the participants | April - July
 Registration Deadline | 10th August
 Start of qualification | 24th August
-Contest | September/October 2020
+Contest | October/November 2020
 
 The platform
 ------------
