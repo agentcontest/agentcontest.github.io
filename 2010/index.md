@@ -152,14 +152,13 @@ Downloads
 * [protocol.pdf](protocol.pdf)
 * [scenario.pdf](scenario.pdf)
 * Sources:
-  - [argonauts.zip](sources/argonauts.zip)
+  - [argonauts.tar.xz](sources/argonauts.tar.xz)
   - [bogtrotters.zip](sources/bogtrotters.zip)
-  - [brainbug.zip](sources/brainbug.zip)
-  - [cowraiders.zip](sources/cowraiders.zip)
+  - [brainbug.tar.xz](sources/brainbug.tar.xz)
+  - [cowraiders.tar.xz](sources/cowraiders.tar.xz)
   - [galoan.rar](sources/galoan.rar)
   - [jason-dtu.zip](sources/jason-dtu.zip)
-  - [paulo.jar](sources/paulo.jar)
-  - [paulo.zip](sources/paulo.zip)
-  - [uspfarmers.zip](sources/uspfarmers.zip)
+  - [paulo.jar](sources/paulo.jar), [paulo.zip](sources/paulo.zip)
+  - [uspfarmers.tar.xz](sources/uspfarmers.tar.xz)
 
 <!-- TODO: Videos and stuff -->
