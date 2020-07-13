@@ -1,0 +1,255 @@
+---
+---
+
+$primary: #ac5419;
+$secondary: #fae6c8;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia,Times,"Times New Roman",serif;
+  font-size: 1em;
+  line-height: 1.5;
+  background: $secondary;
+}
+
+footer {
+  text-align: center;
+  padding: 3em 0;
+  border-top: 1px solid $primary;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2em 0;
+  }
+  li {
+    white-space: nowrap;
+    padding: 0 1em;
+    display: inline;
+    line-height: 2;
+  }
+}
+
+header {
+  border-bottom: 1px solid $primary;
+  padding: 1em;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    border: none;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    white-space: nowrap;
+    padding-right: 1em;
+    line-height: 3;
+  }
+}
+
+header, footer {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+main {
+  background: white;
+  padding: 1em;
+  padding-bottom: 2em;
+}
+
+@media(min-width: 630px) {
+  nav, article {
+    min-width: 630px;
+    max-width: 1024px;
+    width: 70%;
+    margin: auto;
+  }
+
+  table {
+    display: table!important;
+  }
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-webfont.eot?v=4.6.3') format('embedded-opentype'), url('/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+  font-display: blocking;
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  &:link {
+    color: $primary;
+  }
+  &:hover {
+    text-decoration: none;
+  }
+  &:visited {
+    color: #44210a;
+  }
+
+  &[href$=".pdf"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f1c1";
+  }
+  &[href$=".txt"]:before,
+  &[href$=".tex"]:before,
+  &[href$=".cls"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f0f6";
+  }
+  &[href^="https://github.com/"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f09b";
+  }
+  &[href$=".tar.bz2"]:before,
+  &[href$=".tar.gz"]:before,
+  &[href$=".tar.xz"]:before,
+  &[href$=".tar"]:before,
+  &[href$=".rar"]:before,
+  &[href$=".jar"]:before,
+  &[href$=".zip"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f1c6";
+  }
+  &[href^="mailto:"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f003";
+  }
+  &.ics, &.rss {
+    text-decoration: none;
+  }
+  &.rss:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f143";
+  }
+  &.ics:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f073";
+  }
+}
+
+h1 {
+  font-size: 2em;
+  border-bottom: 4px solid $primary;
+}
+h2 {
+  font-size: 1.8em;
+  border-bottom: 2px solid $primary;
+}
+h3 {
+  font-size: 1.5em;
+  border-bottom: 1px solid $primary;
+}
+h4, h5, h6 {
+  font-size: 1em;
+}
+
+article {
+  img, video, iframe {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    max-width: 90vw;
+    max-height: 90vh;
+  }
+  img, video {
+    width: auto;
+    height: auto;
+  }
+  ul, ol {
+    padding: 0 1em;
+  }
+  figcaption {
+    text-align: center;
+    color: #666;
+  }
+}
+table {
+  border-collapse: collapse;
+  margin: 2em 0;
+
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  min-width: 100%;
+  max-width: 100vw;
+  display: block;
+  overflow-x: auto;
+}
+thead {
+  background: $primary;
+  color: white;
+}
+tr:nth-child(even) {
+  background: $secondary;
+}
+td, th {
+  border: 1px solid $primary;
+  padding: 0.5em;
+}
+
+.actions {
+  text-align: center;
+  a {
+    background-color: #4caf50;
+    border: 2px solid #4aa84a;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0.5em 3em;
+    margin: 1em;
+    &:hover {
+      background: #66bb6a;
+    }
+    > .title {
+      font-size: 1.5em;
+    }
+  }
+}
+
+.centered {
+  text-align: center;
+}
+
+#back-to-top {
+  position: fixed;
+  right: 20px;
+  background: $primary;
+  text-decoration: none;
+  color: white;
+  width: 40px;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid $primary;
+  display: block;
+  bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+
+  &:hover {
+    background: $secondary;
+    color: black;
+  }
+}
+
+#markdown-toc {
+  list-style-type: circle;
+}

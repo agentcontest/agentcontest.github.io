@@ -2,45 +2,42 @@
 layout: default
 ---
 
-<h1>The Multi-Agent Programming Contest</h1>
+<article>
+  <h1>The Multi-Agent Programming Contest</h1>
 
-<h2>News</h2>
+  <h2>News</h2>
+  <ul class="news">
+    {% for post in site.posts limit:4 %}
+      {% if post.hidden == null %}
+        <li>
+          {% if post.read_more %}
+            <strong><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</a></strong>
+            {{ post.excerpt | strip_newlines }}
+            <a href="{{ post.url }}">Read more.</a>
+          {% else %}
+            <strong><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</strong>
+            {{ post.content }}
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 
-<ul class="news">
-  {% for post in site.posts limit:4 %}
-    {% if post.hidden == null %}
-      <li>
-        {% if post.read_more %}
-          <strong><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</a></strong>
-          {{ post.excerpt | strip_newlines }}
-          <a href="{{ post.url }}">Read more.</a>
-        {% else %}
-          <strong><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d.%m.%Y" }}:</time> {{ post.title }}:</strong>
-          {{ post.content }}
-        {% endif %}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+  <div class="centered">
+    <a href="/feed.xml" class="rss">Subscribe via RSS</a>
+  </div>
 
-<div class="centered">
-  <a href="/feed.xml" class="rss">Subscribe via RSS</a>
-</div>
+  <h2>2020: Agents Assemble II</h2>
+  <img src="/2019/contest.gif" width="809" height="931" alt="Agents Assemble">
+  <div class="actions">
+    <a href="/2020/"><strong>Agent Contest 2020</strong></a>
+  </div>
 
-<h2>2020: Agents Assemble II</h2>
+  <h2 id="aims-and-scope">Aims and Scope</h2>
+  {% capture aims_and_scope %}{% include_relative _aims_and_scope.md %}{% endcapture %}
+  {{ aims_and_scope | markdownify }}
 
-<img src="/2019/contest.gif" width="809" height="931" alt="Agents Assemble">
-
-<div class="actions">
-  <a href="/2020/"><strong>Agent Contest 2020</strong></a>
-</div>
-
-<h2 id="aims-and-scope">Aims and Scope</h2>
-
-{% capture aims_and_scope %}{% include_relative _aims_and_scope.md %}{% endcapture %}
-{{ aims_and_scope | markdownify }}
-
-<h2 id="history">History</h2>
-
-{% capture history %}{% include_relative _history.md %}{% endcapture %}
-{{ history | markdownify }}
+  <h2 id="history">History</h2>
+  {% capture history %}{% include_relative _history.md %}{% endcapture %}
+  {{ history | markdownify }}
+</article>

@@ -1,25 +1,20 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-     <link rel="stylesheet" href="/css/main.css">
-     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
-     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-     <link rel="alternate" type="application/rss+xml" href="/feed.xml">
-     <script>
-       document.createElement('main'); // for IE
-     </script>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml">
   </head>
   <body>
     <header>
-      <nav class="wrapper">
-        <a href="/"><img src="/mapc-logo-2015.png" alt="Multi-Agent Programming Contest"></a>
+      <nav>
+        <a href="/"><img src="/mapc-logo-2015.png" alt="Multi-Agent Programming Contest" width="629" height="70"></a>
         <ul>
           <li><a href="/" title="The Multi-Agent Programming Contest">MAPC</a></li>
           <li><a href="/2020/"><strong>Contest 2020</strong></a></li>
@@ -30,13 +25,11 @@
       </nav>
     </header>
     <main>
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {{ content }}
       <a href="#top" id="back-to-top" title="Back to top">&#8593;</a>
     </main>
     <footer>
-      <nav class="wrapper">
+      <nav>
         <strong>Multi-Agent Programming Contest</strong>
         <ul>
           <li><a href="/publications/">Publications</a></li>
