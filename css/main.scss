@@ -31,20 +31,36 @@ footer {
   }
 }
 
-header {
-  border-bottom: 1px solid $primary;
-  padding: 1em;
-  text-align: center;
-
-  a:link {
-    text-decoration: underline;
-  }
+#mapc-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2em;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
 
   img {
-    max-width: 100%;
-    border: none;
+    width: 96px;
+    height: 96px;
   }
+  img, span {
+    margin: 0.8em 0.4em;
+  }
+}
+header {
+  border-bottom: 1px solid $primary;
+  text-align: center;
 
+  nav {
+    margin: 0;
+    padding: 1em;
+    background: $primary;
+
+    a:link, a:visited {
+      color: $secondary;
+    }
+  }
   ul {
     list-style: none;
     margin: 0;
@@ -53,8 +69,8 @@ header {
   li {
     display: inline;
     white-space: nowrap;
-    padding-right: 1em;
-    line-height: 3;
+    padding: 0.8em;
+    line-height: 2;
   }
 }
 
@@ -69,7 +85,7 @@ main {
 }
 
 @media(min-width: 630px) {
-  nav, article {
+  footer nav, article {
     min-width: 630px;
     max-width: 1024px;
     width: 70%;
