@@ -37,17 +37,17 @@ Results
 
 | Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
 | -- |
-| BathTUB vs. Python-DTU | -640,533:**49,725** | -111,406:**39,123** | **50,000**:38,919 | 2:4 | [ZIP](https://agentcontest.github.io/replays_2016/day1match1.zip) |
-| BathTUB vs. PUCRS | -1039:**851268** | 50000:**102345** | 36921:**227144** | 0:9 | [ZIP](https://agentcontest.github.io/replays_2016/day1match2.zip) |
-| lampe vs. PUCRS | 63776:**73549** | 55518:**159922** | 50000:**61728** | 0:9 | [ZIP](https://agentcontest.github.io/replays_2016/day1match3.zip) |
-| Flisvos-2016 vs. lampe | **485,984**:-3,022 | **117,353**:54,555 | **288,760**:47422 | 9:0 | [ZIP](https://agentcontest.github.io/replays_2016/day1match4.zip) |
-| Flisvos-2016 vs. Python-DTU | **2,610,354**:36,764 | **1,156,322**:48,404 | **138,718**:43,968 | 9:0 | [ZIP](https://agentcontest.github.io/replays_2016/day1match5.zip) |
+| BathTUB vs. Python-DTU | -640,533:**49,725** | -111,406:**39,123** | **50,000**:38,919 | 2:4 | [ZIP](https://multiagentcontest.org/replays_2016/day1match1.zip) |
+| BathTUB vs. PUCRS | -1039:**851268** | 50000:**102345** | 36921:**227144** | 0:9 | [ZIP](https://multiagentcontest.org/replays_2016/day1match2.zip) |
+| lampe vs. PUCRS | 63776:**73549** | 55518:**159922** | 50000:**61728** | 0:9 | [ZIP](https://multiagentcontest.org/replays_2016/day1match3.zip) |
+| Flisvos-2016 vs. lampe | **485,984**:-3,022 | **117,353**:54,555 | **288,760**:47422 | 9:0 | [ZIP](https://multiagentcontest.org/replays_2016/day1match4.zip) |
+| Flisvos-2016 vs. Python-DTU | **2,610,354**:36,764 | **1,156,322**:48,404 | **138,718**:43,968 | 9:0 | [ZIP](https://multiagentcontest.org/replays_2016/day1match5.zip) |
 |  |
-| BathTUB vs. Flisvos-2016 | 184763:**657500** | -508096:**977580** | 37258:**164839** | 0:9 | [ZIP](https://agentcontest.github.io/replays_2016/day2match1.zip) |
-| Flisvos-2016 vs. PUCRS | **109387**:86775 | 140856:**150358** | 350240:**761920** | 3:6 | [ZIP](https://agentcontest.github.io/replays_2016/day2match2.zip) |
-| PUCRS vs. Python-DTU | **136401**:42882 | **3517745**:47897 | **374010**:47671 | 9:0 | [ZIP](https://agentcontest.github.io/replays_2016/day2match3.zip) |
-| lampe vs. Python-DTU | 38280:**40863** | **172963**:47410 | **321791**:49088 | 6:2 | [ZIP](https://agentcontest.github.io/replays_2016/day2match4.zip) |
-| BathTUB vs. lampe | **64875**:50710 | 38638:**85114** | 173379:**383046** | 3:6 | [ZIP](https://agentcontest.github.io/replays_2016/day2match5.zip) |
+| BathTUB vs. Flisvos-2016 | 184763:**657500** | -508096:**977580** | 37258:**164839** | 0:9 | [ZIP](https://multiagentcontest.org/replays_2016/day2match1.zip) |
+| Flisvos-2016 vs. PUCRS | **109387**:86775 | 140856:**150358** | 350240:**761920** | 3:6 | [ZIP](https://multiagentcontest.org/replays_2016/day2match2.zip) |
+| PUCRS vs. Python-DTU | **136401**:42882 | **3517745**:47897 | **374010**:47671 | 9:0 | [ZIP](https://multiagentcontest.org/replays_2016/day2match3.zip) |
+| lampe vs. Python-DTU | 38280:**40863** | **172963**:47410 | **321791**:49088 | 6:2 | [ZIP](https://multiagentcontest.org/replays_2016/day2match4.zip) |
+| BathTUB vs. lampe | **64875**:50710 | 38638:**85114** | 173379:**383046** | 3:6 | [ZIP](https://multiagentcontest.org/replays_2016/day2match5.zip) |
 
 Rematches
 ---------
@@ -56,9 +56,9 @@ Some teams decided to play some friendly matches a few days after the competitio
 
 | Match | Sim1 | Sim2 | Sim3 | Score | Replay xmls |
 | --- | --- | --- | --- | --- | --- |
-| Flisvos-2016 vs. lampe | **211034**:153846 | **908215**:159359 | **706169**:155656 | 9:0 | [ZIP](https://agentcontest.github.io/replays_2016/rematch-Flisvos-lampe.zip) |
-| Flisvos-2016 vs. PUCRS | **113929**:-478368 | **211163**:57888 | **4101143**:1091542 | 9:0 | [ZIP](https://agentcontest.github.io/replays_2016/rematch-Flisvos-PUCRS.zip) |
-| lampe vs. PUCRS | 487318:**757660** | 294795:**455684** | 145333:**180023** | 0:9 | [ZIP](https://agentcontest.github.io/replays_2016/rematch-lampe-PUCRS.zip) |
+| Flisvos-2016 vs. lampe | **211034**:153846 | **908215**:159359 | **706169**:155656 | 9:0 | [ZIP](https://multiagentcontest.org/replays_2016/rematch-Flisvos-lampe.zip) |
+| Flisvos-2016 vs. PUCRS | **113929**:-478368 | **211163**:57888 | **4101143**:1091542 | 9:0 | [ZIP](https://multiagentcontest.org/replays_2016/rematch-Flisvos-PUCRS.zip) |
+| lampe vs. PUCRS | 487318:**757660** | 294795:**455684** | 145333:**180023** | 0:9 | [ZIP](https://multiagentcontest.org/replays_2016/rematch-lampe-PUCRS.zip) |
 
 Matchup Schedule
 ----------------
@@ -124,7 +124,7 @@ Qualification details
 | 6 | PUCRS | 0 |
 
 <div class="actions">
-  <a href="https://agentcontest.github.io/replays_2016/qualification-results.tar.gz" title="qualification-results.tar.gz">
+  <a href="https://multiagentcontest.org/replays_2016/qualification-results.tar.gz" title="qualification-results.tar.gz">
     <span class="title">Qualification results</span>
     <br>
     <span class="filename">qualification-results.tar.gz</span>
