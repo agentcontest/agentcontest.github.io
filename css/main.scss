@@ -3,6 +3,7 @@
 
 $primary: #ac5419;
 $secondary: #fae6c8;
+$gray: #f3f3f3;
 
 body {
   margin: 0;
@@ -230,12 +231,12 @@ pre {
   code {
     padding: 0;
   }
-  padding: 16px;
+  padding: 1em;
   overflow: auto;
   line-height: 1.45;
 }
 pre, code {
-  background-color: #f3f3f3;
+  background-color: $gray;
   border-radius: 6px;
 }
 
@@ -284,5 +285,14 @@ pre, code {
 }
 
 #markdown-toc {
-  list-style-type: circle;
+  &::before {
+    content: "Table of Contents";
+    font-weight: bold;
+  }
+  list-style-type: none;
+  float: right;
+  background: $gray;
+  border-radius: 6px;
+  padding: 1em 1.5em;
+  margin-left: 1em;
 }
