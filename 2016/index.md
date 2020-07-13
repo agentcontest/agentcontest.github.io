@@ -29,7 +29,7 @@ Results
 
 | Placement | Team | Total Score | Sources |
 | -- |
-| 1 | PUCRS | 33 | [PUCRS.tar.gz](/2016/sources/PUCRS.tar.gz) |
+| 1 | PUCRS | 33 | [Git](https://github.com/smart-pucrs/mapc2016-pucrs) |
 | 2 | Flisvos-2016 | 30 | [Flisvos-2016.zip](/2016/sources/Flisvos-2016.zip) |
 | 3 | lampe | 12 | [lampe.zip](/2016/sources/lampe.zip) |
 | 4 | Python-DTU | 6 | [Python-DTU.zip](/2016/sources/Python-DTU.zip) |
