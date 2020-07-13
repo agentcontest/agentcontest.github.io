@@ -99,7 +99,6 @@ The winners of the the First CLIMA Contest are, ex-aequo,
 from Imperial College London, UK
 
 <video controls>
-  <source src="coffey.mp4" type="video/mp4">
   <source src="coffey.webm" type="video/webm">
   <img src="coffey.jpg">
 </video>
@@ -141,7 +140,6 @@ Qu-Prolog distribution, ICM library distribution, installation instructions, imp
 from Universitat Politècnica de Catalunya, Barcelona, Spain, and Universidad de la Frontera, Temuco, Chile
 
 <video controls>
-  <source src="cares.mp4" type="video/mp4">
   <source src="cares.webm" type="video/webm">
   <img src="cares.jpg">
 </video>
