@@ -73,7 +73,6 @@ Agents on Mars
 --------------
 
 <video controls>
-  <source src="mapc2012.mp4" source="video/mp4">
   <source src="mapc2012.webm" source="video/webm">
   <img src="mapc2012.jpg">
 </video>

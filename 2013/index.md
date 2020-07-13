@@ -127,7 +127,6 @@ Agents on Mars
 --------------
 
 <video controls>
-  <source src="mapc2013-teaser.mp4" type="video/mp4">
   <source src="mapc2013-teaser.webm" type="video/webm">
   <img src="mapc2013-teaser.jpg">
 </video>

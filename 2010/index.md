@@ -57,7 +57,6 @@ Scenario
 --------
 
 <video controls>
-  <source src="mapc2010.mp4" type="video/mp4">
   <source src="mapc2010.webm" type="video/webm">
   <img src="mapc2010.jpg">
 </video>

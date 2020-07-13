@@ -21,7 +21,6 @@ The winner of the tournament was team brazil by Rafael Bordini and Jomi Huebner.
 
 <figure>
   <video controls>
-    <source src="GridSimulation_spainbrazil_labyrinth_2006-04-27_20-10.mp4" type="video/mp4">
     <source src="GridSimulation_spainbrazil_labyrinth_2006-04-27_20-10.webm" type="video/webm">
     <img src="GridSimulation_spainbrazil_labyrinth_2006-04-27_20-10.jpg">
   </video>

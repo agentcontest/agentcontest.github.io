@@ -60,7 +60,6 @@ An unknown species of cattle was recently discovered in the unexplored ﬂatland
 These facts deﬁnitely caught the attention of the beef- and milk-industries. The government decided to allow the cows to be captured and bred by everyone who is interested and has the capabilities. Several well-known companies decided to send in their personnel to the ﬁelds to catch as many of them as possible. This led to an unprecedented rush for cows. To maximize their success the companies replaced their traditional cowboys by artiﬁcial herders. In this year’s agent contest the participants have to compete in an environment for cows. Each team controls a set of herders in order to direct the cows into their own corral. The team with the most cows in the corral at the end wins the match.
 
 <video controls>
-  <source src="mapc2009.mp4" type="video/mp4">
   <source src="mapc2009.webm" type="video/webm">
   <img src="mapc2009.jpg" alt="MAPC 2009">
 </video>
