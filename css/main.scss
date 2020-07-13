@@ -14,24 +14,6 @@ body {
   background: $secondary;
 }
 
-footer {
-  text-align: center;
-  padding: 3em 0;
-  border-top: 1px solid $primary;
-
-  ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 2em 0;
-  }
-  li {
-    white-space: nowrap;
-    padding: 0 1em;
-    display: inline;
-    line-height: 2;
-  }
-}
-
 #mapc-title {
   display: flex;
   align-items: center;
@@ -75,14 +57,33 @@ header {
   }
 }
 
-header, footer {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-}
-
 main {
   background: white;
   padding: 1em;
   padding-bottom: 2em;
+}
+
+footer {
+  text-align: center;
+  padding: 3em 0;
+  border-top: 1px solid $primary;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2em 0;
+  }
+  li {
+    white-space: nowrap;
+    padding: 0 1em;
+    display: inline;
+    line-height: 2;
+  }
+}
+
+
+header, footer {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 @media(min-width: 630px) {
@@ -257,6 +258,19 @@ pre, code {
     > .title {
       font-size: 1.5em;
     }
+  }
+}
+
+.news {
+  > li {
+    margin: 1em 0;
+  }
+  > li li {
+    margin: 0.5em;
+  }
+  p {
+    display: block;
+    margin: 0;
   }
 }
 
