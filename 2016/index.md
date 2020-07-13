@@ -152,10 +152,10 @@ Downloads
 ---------
 
 <div class="actions">
-  <a href="/2016/massim-2016-1.3.2-bin.tar.gz" title="massim-2016-1.3.2-bin.tar.gz">
+  <a href="/2016/massim-2016-1.3.2-bin.tar.xz" title="massim-2016-1.3.2-bin.tar.xz">
     <span class="title">Software package</span>
     <br>
-    <span class="filename">massim-2016-1.3.2-bin.tar.gz</span>
+    <span class="filename">massim-2016-1.3.2-bin.tar.xz</span>
     <br>
     <span class="filename">(requires Java 8 to run)</span>
   </a>
