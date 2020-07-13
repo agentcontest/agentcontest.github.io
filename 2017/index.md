@@ -185,7 +185,9 @@ Mailing List
 Participants and all interested colleagues are invited to [subscribe to our
 mailing list](https://groups.google.com/forum/#!forum/agentcontest):
 
-`agentcontest@googlegroups.com`
+```
+agentcontest@googlegroups.com
+```
 
 All the important details and announcements including scenario and communication protocol specifications as well as software release announcements and bug reports will be announced and discussed via this list.
 

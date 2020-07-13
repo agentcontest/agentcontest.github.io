@@ -206,6 +206,23 @@ td, th {
   padding: 0.5em;
 }
 
+code {
+  padding: .2em .4em;
+  margin: 0;
+}
+pre {
+  code {
+    padding: 0;
+  }
+  padding: 16px;
+  overflow: auto;
+  line-height: 1.45;
+}
+pre, code {
+  background-color: #f3f3f3;
+  border-radius: 6px;
+}
+
 .actions {
   text-align: center;
   a {

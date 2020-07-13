@@ -48,7 +48,9 @@ Mailing List
 Participants and all interested colleagues are invited to
 [subscribe to our mailing list](https://groups.google.com/forum/#!forum/agentcontest):
 
-`agentcontest@googlegroups.com`
+```
+agentcontest@googlegroups.com
+```
 
 All the important details and announcements including scenario and
 communication protocol specifications as well as software release announcements
@@ -81,7 +83,7 @@ We have collected some tips and tricks for participating in the contest. If you 
     - they can handle different initial states (e.g., agent is carrying a block).
 - Test your agents against other agents (e.g. a second instance of your team).
 - Test your agents with different scenario parameters.
-- Use the skip() action for each agent who needs to wait a step in order to speed up the simulation.
+- Use the `skip()` action for each agent who needs to wait a step in order to speed up the simulation.
 
 For the current scenario:
 

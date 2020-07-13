@@ -42,7 +42,9 @@ Mailing list
 
 Please use the [mailing list](https://groups.google.com/forum/#!forum/agentcontest) for contest related questions:
 
-`agentcontest@googlegroups.com`
+```
+agentcontest@googlegroups.com
+```
 
 Past co-organizers
 ------------------
