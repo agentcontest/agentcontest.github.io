@@ -61,6 +61,7 @@ main {
   background: white;
   padding: 1em;
   padding-bottom: 2em;
+  overflow-x: hidden; /* for extremely narrow views */
 }
 
 footer {
