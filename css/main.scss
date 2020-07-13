@@ -275,6 +275,14 @@ pre, code {
   }
 }
 
+.post-meta {
+  margin-top: 3em;
+  border-top: 1px solid $primary;
+  border-bottom: 1px solid $primary;
+  padding: 0.5em 0;
+  text-align: center;
+}
+
 .centered {
   text-align: center;
 }
