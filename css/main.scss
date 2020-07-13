@@ -36,6 +36,10 @@ header {
   padding: 1em;
   text-align: center;
 
+  a:link {
+    text-decoration: underline;
+  }
+
   img {
     max-width: 100%;
     border: none;
@@ -88,9 +92,10 @@ main {
 a {
   &:link {
     color: $primary;
+    text-decoration: none;
   }
   &:hover {
-    text-decoration: none;
+    text-decoration: underline;
   }
   &:visited {
     color: #44210a;
@@ -128,9 +133,6 @@ a {
     font-family: FontAwesome;
     margin-right: 0.2em;
     content: "\f003";
-  }
-  &.ics, &.rss {
-    text-decoration: none;
   }
   &.rss:before {
     font-family: FontAwesome;
@@ -212,7 +214,6 @@ td, th {
     border-radius: 5px;
     color: white;
     display: inline-block;
-    text-decoration: none;
     text-align: center;
     padding: 0.5em 3em;
     margin: 1em;
@@ -233,7 +234,6 @@ td, th {
   position: fixed;
   right: 20px;
   background: $primary;
-  text-decoration: none;
   color: white;
   width: 40px;
   text-align: center;
