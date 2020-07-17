@@ -15,6 +15,8 @@ The scenario is a revision of the [previous edition](/2019/).
 
 ![Agents Assemble](/2019/banner.png){:width="630" height="342"}
 
+Also see the official [Call for Participation](cfp.txt).
+
 Provisional timeline
 --------------------
 
@@ -22,9 +24,14 @@ What | When
 --- | ---
 First software package and specifications available | Complete
 Programming and testing by the participants | April - July
-Registration Deadline | 10th August
+[Registration](#registration) Deadline | 10th August
 Start of qualification | 24th August
 Contest | October/November 2020
+
+Registration
+------------
+
+To register, please download the [registration form](registration.tex) and follow the instructions inside.
 
 The platform
 ------------
