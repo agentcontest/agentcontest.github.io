@@ -137,6 +137,11 @@ a {
     margin-right: 0.2em;
     content: "\f09b";
   }
+  &[href^="https://twitter.com/"]:before {
+    font-family: FontAwesome;
+    margin-right: 0.2em;
+    content: "\f099";
+  }
   &[href$=".tar.bz2"]:before,
   &[href$=".tar.gz"]:before,
   &[href$=".tar.xz"]:before,
