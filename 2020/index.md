@@ -17,21 +17,32 @@ The scenario is a revision of the [previous edition](/2019/).
 
 Also see the official [Call for Participation](cfp.txt).
 
+Participants
+------------
+
+In order of registration:
+
+Team | Platform
+--- | ---
+[JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/)
+[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/)
+[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/)
+[GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/)
+[UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/)
+
 Provisional timeline
 --------------------
 
 What | When
 --- | ---
 First software package and specifications available | Complete
-Programming and testing by the participants | April - July
-[Registration](#registration) Deadline | 10th August
+[Registration](#registration) | Complete
 Qualification | 24th August - 4th September
 Contest | October/November 2020
 
 ### Registration
 
-
-To register, please download the [registration form](registration.tex) and follow the instructions inside.
+To register, please download the [registration form](registration.tex) and follow the instructions inside. (Please note: The official registration deadline has passed. We may still be able to process late registrations, though we cannot guarantee it.)
 
 ### Qualification
 
