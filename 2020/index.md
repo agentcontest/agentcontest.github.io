@@ -36,9 +36,9 @@ Provisional timeline
 What | When
 --- | ---
 First software package and specifications available | Complete
-[Registration](#registration) | Complete
-Qualification | 24th August - 4th September
-Contest | October/November 2020
+[Registration](#registration) | Complete (late reg. may be possible)
+End of [Qualification](#qualification) | 15 October
+Contest | 9 - 13 November (we need 2 days as of now)
 
 ### Registration
 
@@ -46,10 +46,14 @@ To register, please download the [registration form](registration.tex) and follo
 
 ### Qualification
 
-The qualification phase starts on 24 August and will run for 2 weeks. During this period, you can schedule qualification matches where your agent team plays alone in a setting similar to the [SampleQualification](https://github.com/agentcontest/massim_2020/commit/16ef714f408e16984fd0b07a182434dbbe9739e1) config.
+Update 14 August: The timeline has been relaxed. (We recommend to try to qualify as soon as possible, though.)
+
+You can schedule qualification matches where your agent team plays alone in a setting similar to the [SampleQualification](https://github.com/agentcontest/massim_2020/commit/16ef714f408e16984fd0b07a182434dbbe9739e1) config.
 **To qualify**, your agents have to
 - complete one task in each of the two rounds and
 - submit most actions in time (i.e. less than 30% "noAction").
+
+If you do not succeed for some reason, you can attempt again at a later time (provided there is still time).
 
 ### Connection Tests
 
