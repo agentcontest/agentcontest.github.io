@@ -22,13 +22,13 @@ Participants
 
 In order of registration:
 
-Team | Platform
+Team | Platform | Qualification
 --- | ---
-[JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/)
-[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/)
-[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/)
-[GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/)
-[UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/)
+[JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) |
+[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Passed
+[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) |
+[GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) |
+[UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
 
 Provisional timeline
 --------------------
