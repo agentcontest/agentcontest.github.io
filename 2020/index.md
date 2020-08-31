@@ -25,7 +25,7 @@ In order of registration:
 Team | Platform | Qualification
 --- | ---
 [JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) |
-[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Passed
+[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Passed 08/31
 [FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) |
 [GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) |
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
