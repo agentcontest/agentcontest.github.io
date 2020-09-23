@@ -29,6 +29,7 @@ Team | Platform | Qualification
 [FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) |
 [GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Passed 09/21
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
+[TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) |
 
 Provisional timeline
 --------------------
