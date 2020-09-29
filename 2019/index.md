@@ -7,7 +7,11 @@ permalink: /2019/
 Publication
 -----------
 
-The results will be published in Springer's [Lect. Notes Computer Challenges](https://www.springer.com/series/16528) series.
+<div class="actions">
+  <a href="https://link.springer.com/book/10.1007/978-3-030-59299-8"><strong>MAPC 2019 Publication</strong></a>
+</div>
+
+The results and all team description papers have been published in Springer's *Lect. Notes Computer Challenges* series.
 
 Team | Title | DOI
 --- | --- | ---
