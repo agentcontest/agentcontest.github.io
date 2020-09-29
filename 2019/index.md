@@ -15,13 +15,13 @@ The results and all team description papers have been published in Springer's *L
 
 Team | Title | DOI
 --- | --- | ---
-Organizers | The Multi-Agent Programming Contest - A résumé | -
-FIT BUT | Multi-Agent Programming Contest 2019 FIT BUT Team solution | -
-GOAL-DTU | GOAL-DTU: Development of Distributed Intelligence for the Multi-Agent Programming Contest | -
-LFC | LFC: Combining Autonomous Agents and Automated Planning in the Multi-Agent Programming Contest | -
-TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | -
+Organizers | The Multi-Agent Programming Contest - A résumé | 10.1007/978-3-030-59299-8_1
+LFC | LFC: Combining Autonomous Agents and Automated Planning in the Multi-Agent Programming Contest | 10.1007/978-3-030-59299-8_2
+FIT BUT | Multi-Agent Programming Contest 2019 FIT BUT Team solution | 10.1007/978-3-030-59299-8_3
+GOAL-DTU | GOAL-DTU: Development of Distributed Intelligence for the Multi-Agent Programming Contest | 10.1007/978-3-030-59299-8_4
+TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | 10.1007/978-3-030-59299-8_5
 
-Preprints may be available on [arxiv](https://arxiv.org/).
+<!-- Preprints may be available on [arxiv](https://arxiv.org/). -->
 
 The Scenario: Agents Assemble
 -----------------------------
