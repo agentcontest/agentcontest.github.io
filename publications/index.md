@@ -6,6 +6,7 @@ title: Publications
 Books and collections
 ---------------------
 
+* Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas and Krausburg, Tabajara: [The Multi-Agent Programming Contest 2019 - Agents Assemble - Block by Block to Victory](https://www.springer.com/gp/book/9783030592981), Springer, 2020.
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [The Multi-Agent Programming Contest 2018 - Agents teaming up in an urban environment](https://www.springer.com/gp/book/9783030379582), Springer, 2019 ([online version](https://link.springer.com/book/10.1007/978-3-030-37959-9))
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2017](http://www.springer.com/computer/ai/journal/10472), Annals of Mathematics and Artificial Intelligence, Volume 84, Issue 1-2, Springer, 2018
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Special Issue on Multi-Agent Contest 2016 - Agents in the City](http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2018&vol=6&issue=1), International Journal of Agent-Oriented Software Engineering, Volume 6 No. 1, Inderscience, 2018
@@ -15,6 +16,7 @@ Books and collections
 Articles
 --------
 
+* Ahlbrecht, T., Dix, J., Fiekas, N., & Krausburg, T.: [The Multi-Agent Programming Contest: A Résumé](https://link.springer.com/chapter/10.1007/978-3-030-59299-8_1). In Multi-Agent Progamming Contest (pp. 3-27). Springer, Cham, 2020.
 * Ahlbrecht T., Dix J., Fiekas N. (2019) [The Multi-Agent Programming Contest 2018 - A Third Time in the City](https://link.springer.com/chapter/10.1007/978-3-030-37959-9_1). In: Ahlbrecht T., Dix J., Fiekas N. (eds) [The Multi-Agent Programming Contest 2018](https://www.springer.com/gp/book/9783030379582). MAPC 2018. Lecture Notes in Computer Science, vol 11957. Springer, Cham
 * Ahlbrecht, Tobias and Dix, Jürgen and Fiekas, Niklas: [Multi-Agent Programming Contest 2017](http://dx.doi.org/10.1007/s10472-018-9594-x) in [Special Issue on Multi-Agent Contest 2017](https://link.springer.com/journal/volumesAndIssues/10472), Annals of Mathematics and Artificial Intelligence, Volume 84, Issue 1-2, Springer, 2018.
   * [read online](https://rdcu.be/2Qrt)
