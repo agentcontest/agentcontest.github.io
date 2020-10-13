@@ -38,7 +38,7 @@ What | When
 --- | ---
 First software package and specifications available | Complete
 [Registration](#registration) | Complete (late reg. may be possible)
-End of [Qualification](#qualification) | 15 October
+End of [Qualification](#qualification) | <s>15 October</s> 22 October
 Contest | 9 - 13 November (we need 2 days as of now)
 
 ### Registration
