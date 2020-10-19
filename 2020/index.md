@@ -30,6 +30,7 @@ Team | Platform | Status
 [GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 09/21
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
 [TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Reg. retracted
+[LTI-USP](registrations/LTI-USP.pdf) | [Jason](http://jason.sourceforge.net/wp/) |
 
 Provisional timeline
 --------------------
