@@ -21,7 +21,7 @@ FIT BUT | Multi-Agent Programming Contest 2019 FIT BUT Team solution | 10.1007/9
 GOAL-DTU | GOAL-DTU: Development of Distributed Intelligence for the Multi-Agent Programming Contest | 10.1007/978-3-030-59299-8_4
 TRG | The Requirement Gatherers' Approach to the 2019 Multi-Agent Programming Contest Scenario | 10.1007/978-3-030-59299-8_5
 
-<!-- Preprints may be available on [arxiv](https://arxiv.org/). -->
+Preprints may be available on [arXiv](https://arxiv.org/).
 
 The Scenario: Agents Assemble
 -----------------------------
