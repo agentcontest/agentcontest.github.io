@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The 2020 Contest
+title: The 15th edition of the Multi-Agent Programming Contest
 permalink: /2020/
 ---
 
