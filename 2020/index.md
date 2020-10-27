@@ -38,9 +38,9 @@ Provisional timeline
 What | When
 --- | ---
 First software package and specifications available | Complete
-[Registration](#registration) | Complete (late reg. may be possible)
-End of [Qualification](#qualification) | <s>15 October</s> 22 October
-Contest | 9 - 13 November (we need 2 days as of now)
+[Registration](#registration) | <del>Complete (late reg. may be possible)</del> Extended/tba
+End of [Qualification](#qualification) | <del>15 October</del> <del>22 October</del> Extended/tba
+Contest | <del>9 - 13 November (we need 2 days as of now)</del> Spring/early 2021
 
 ### Registration
 
