@@ -38,17 +38,17 @@ Provisional timeline
 What | When
 --- | ---
 First software package and specifications available | Complete
-[Registration](#registration) | <del>Complete (late reg. may be possible)</del> Extended/tba
-End of [Qualification](#qualification) | <del>15 October</del> <del>22 October</del> Extended/tba
-Contest | <del>9 - 13 November (we need 2 days as of now)</del> Spring/early 2021
+[Registration](#registration) | <del>Complete (late reg. may be possible)</del> Extended/tba.
+End of [Qualification](#qualification) | <del>15 October</del> <del>22 October</del> Extended/tba.
+Contest | <del>9 - 13 November (we need 2 days as of now)</del> Spring 2021
+
+Update 27th October: The contest has been postponed to spring 2021, with precise dates tba.
 
 ### Registration
 
-To register, please download the [registration form](registration.tex) and follow the instructions inside. (Please note: The official registration deadline has passed. We may still be able to process late registrations, though we cannot guarantee it.)
+To register, please download the [registration form](registration.tex) and follow the instructions inside.
 
 ### Qualification
-
-Update 14 August: The timeline has been relaxed. (We recommend to try to qualify as soon as possible, though.)
 
 You can schedule qualification matches where your agent team plays alone in a setting similar to the [SampleQualification](https://github.com/agentcontest/massim_2020/commit/16ef714f408e16984fd0b07a182434dbbe9739e1) config.
 **To qualify**, your agents have to
