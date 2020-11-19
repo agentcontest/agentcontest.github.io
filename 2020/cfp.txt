@@ -1,6 +1,6 @@
 ======== CALL FOR PARTICIPATION ========
 
-    MAPC 2020
+    15th MAPC (2020/21) [DEADLINES EXTENDED]
     Multi-Agent Programming Contest
     https://multiagentcontest.org/2020/
 
@@ -66,11 +66,9 @@ The participation in this contest consists of these parts:
 
 5. ROUGH TIMELINE
 
-10th of August: registration deadline.
+12 February 2021: end of registration and qualification.
 
-24th of August: start of qualification phase.
-
-October/November: tournament.
+15-19 March 2021: tournament.
 
 After tournament: publications.
 

@@ -38,11 +38,10 @@ Provisional timeline
 What | When
 --- | ---
 First software package and specifications available | Complete
-[Registration](#registration) | <del>Complete (late reg. may be possible)</del> Extended/tba.
-End of [Qualification](#qualification) | <del>15 October</del> <del>22 October</del> Extended/tba.
-Contest | <del>9 - 13 November (we need 2 days as of now)</del> Spring 2021
+End of [Registration](#registration) and [Qualification](#qualification) | <del>22 October</del> 12 February 2021
+Contest | <del>9 - 13 November</del> 15-19 March 2021
 
-Update 27th October: The contest has been postponed to spring 2021, with precise dates tba.
+(Update 27th October: The contest has been postponed to spring 2021.)
 
 ### Registration
 
