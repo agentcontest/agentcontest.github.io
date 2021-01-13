@@ -38,9 +38,10 @@ Chapters in books
 
 * Hindriks, Koen and Dix, Jürgen: GOAL: A Multi-Agent Programming Language Applied to an Exploration Game, Research Directions Agent-Oriented Software Engineering, Eds.: Onn Shehory and Arnon Sturm, pg. 112-136, Springer 2013. [AppliedGOAL.pdf](AppliedGOAL.pdf). [^goal]
 
-Conference papers
+Conference + workshop papers
 -----------------
 
+* Tobias Ahlbrecht, Jürgen Dix, Niklas Fiekas, Tabajara Krausburg: [Accept a Challenge: The Multi-Agent Programming Contest - Challenging Tasks and How to Deal with Them](https://link.springer.com/chapter/10.1007%2F978-3-030-66534-0_9). EMAS@AAMAS 2020: 129-143
 * Tristan Behrens, Michael Köster, Federico Schlesinger, Jürgen Dix und Jomi F. Hübner: [The Multi-agent Programming Contest 2011: A Résumé](http://www.springerlink.com/content/c81p265085n04754/), Lecture Notes in Computer Science, 2012, Volume 7217, Springer, 2012
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition: 4th Edition](http://www.springerlink.com/content/g54k45r8wvh46858/), Lecture Notes in Computer Science, Volume 5442, Springer, 2009
 * Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition - 3rd edition](http://www.springerlink.com/content/jv23737805830r7v/), Lecture Notes in Artificial Intelligence, Springer, 2008
