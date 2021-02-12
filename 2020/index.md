@@ -26,7 +26,7 @@ Team | Platform | Status
 --- | ---
 [JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) |
 [MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Q. Passed 08/31
-[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) |
+[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) | Q. Passed 02/21
 [GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 09/21
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
 [TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Reg. retracted
@@ -38,7 +38,7 @@ Provisional timeline
 What | When
 --- | ---
 First software package and specifications available | Complete
-End of [Registration](#registration) and [Qualification](#qualification) | <del>22 October</del> 12 February 2021
+End of [Registration](#registration) and [Qualification](#qualification) | <del>22 October</del> <del>12 February 2021</del> 19 February 2021
 Contest | <del>9 - 13 November</del> 15-19 March 2021
 
 (Update 27th October: The contest has been postponed to spring 2021.)
