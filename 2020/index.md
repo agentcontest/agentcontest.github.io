@@ -26,7 +26,7 @@ Team | Platform | Status
 --- | ---
 [JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) |
 [MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Q. Passed 08/31
-[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) | Q. Passed 02/21
+[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) | Q. Passed 02/12
 [GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 09/21
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
 [TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Reg. retracted
