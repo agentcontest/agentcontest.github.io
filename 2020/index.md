@@ -24,13 +24,13 @@ In order of registration:
 
 Team | Platform | Status
 --- | ---
-[JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) |
-[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Q. Passed 08/31
-[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) | Q. Passed 02/12
-[GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 09/21
+[JaCaMo Builders](registrations/JaCaMo_Builders.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Q. Passed 15.2.2021
+[MLFC](registrations/MLFC.pdf) | [JaCaMo](http://jacamo.sourceforge.net/) | Q. Passed 31.8.2020
+[FIT BUT](registrations/FIT_BUT.pdf) | [Java](https://www.java.com/) | Q. Passed 12.2.2021
+[GOAL-DTU](registrations/GOAL-DTU.pdf) | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 21.9.2020
 [UCD Builders](registrations/UCD_Builders.pdf) | [ASTRA](http://astralanguage.com/) |
 [TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Reg. retracted
-[LTI-USP](registrations/LTI-USP.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Q. Passed 01/22
+[LTI-USP](registrations/LTI-USP.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Q. Passed 22.1.2021
 
 Provisional timeline
 --------------------
