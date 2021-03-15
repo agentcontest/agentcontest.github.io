@@ -29,7 +29,7 @@ Contest
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 15 |
-2 | Goal-DTU | 10 |
+2 | Goal-DTU | 13 |
 3 | LTI-USP | 9 |
 4 | MLFC | 4 |
 5 | JaCaMo Builders | 3 |
@@ -47,7 +47,7 @@ FIT BUT vs. JaCaMo Builders | **3**:0 | **3**:0 | **3**:0 | 9:0
 GOAL-DTU vs. LTI-USP | **3**:0 | **3**:0 | 0:**3** | 6:3
 FIT BUT vs. MLFC | 0:**3** | **3**:0 | **3**:0 | 6:3
 JaCaMo Builders vs. LTI-USP | **3**:0 | 0:**3** | 0:**3** | 3:6
-GOAL-DTU vs. MLFC | **3**:0 | 1:1 | ? | ?
+GOAL-DTU vs. MLFC | **3**:0 | 1:1 | **3**:0 | 7:1
 
 #### Tuesday
 
