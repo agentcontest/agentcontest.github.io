@@ -20,12 +20,15 @@ Also see the official [Call for Participation](cfp.txt).
 Contest
 -------
 
-### Results after round 1
+### Results after round 2
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
-1 | FIT BUT | 9 |
-2 | JaCaMo Builders | 0 |
+1 | FIT BUT | 15 |
+2 | Goal-DTU | 6 |
+3 | LTI-USP | 3 |
+  | MLFC | 3 |
+  | JaCaMo Builders | ? |
 
 ### Completed matches
 
@@ -35,6 +38,9 @@ complete.
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 FIT BUT vs. JaCaMo Builders | ? | ? | ? | 9:0
+GOAL-DTU vs. LTI-USP | ? | ? | ? | 6:3
+FIT BUT vs. MLFC | ? | ? | ? | 6:3
+JaCaMo Builders vs. LTI-USP | ? | ? | ? | ?
 
 Schedule + Organisation
 -----------------------
