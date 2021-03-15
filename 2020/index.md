@@ -29,7 +29,7 @@ Contest
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 15 |
-2 | Goal-DTU | 13 |
+2 | GOAL-DTU | 13 |
 3 | LTI-USP | 9 |
 4 | MLFC | 4 |
 5 | JaCaMo Builders | 3 |
