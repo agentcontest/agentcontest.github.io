@@ -22,7 +22,7 @@ Schedule + Organisation
 
 All times are GMT+1/CET.
 
-### Monday
+### Monday (March 15th)
 
 Time | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -30,7 +30,7 @@ Time | agentcontest1 | agentcontest2
 13:00 | GOAL-DTU vs. LTI-USP | FIT BUT vs. MLFC
 15:30 | JaCaMo Builders vs. LTI-USP | GOAL-DTU vs. MLFC
 
-### Tuesday
+### Tuesday (March 16th)
 
 Time | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -39,7 +39,7 @@ Time | agentcontest1 | agentcontest2
 15:30 | JaCaMo Builders vs. MLFC |
 ~18:00 | LTI-USP vs. MLFC |
 
-### Wednesday
+### Wednesday (March 17th)
 
 15:00 **Watch party** - Grab some snacks, join us in the chat and we'll watch the match replays together.
 
@@ -48,7 +48,6 @@ Time | agentcontest1 | agentcontest2
 - Only the status monitor will be available during the competition. The replays will be made available after the final match on Tuesday night.
 - After each match, the points awarded to each team will be announced.
 - We have set up a Slack chat, where we can extensively talk about each match after the contest. The invitation link will be distributed during the competition.
-
 
 Participants
 ------------
