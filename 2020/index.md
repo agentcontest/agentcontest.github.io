@@ -20,14 +20,14 @@ Also see the official [Call for Participation](cfp.txt).
 Contest
 -------
 
-### Results so far
+### Results after Day 1
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 15 |
-2 | Goal-DTU | 9 |
-3 | LTI-USP | 3 |
-  | MLFC | 3 |
+2 | Goal-DTU | 10 |
+3 | LTI-USP | 9 |
+  | MLFC | 4 |
   | JaCaMo Builders | 3 |
 
 ### Completed matches
@@ -35,20 +35,25 @@ Placement | Team | Total Score | Sources
 Detailed match results and replays will be revealed once the contest is
 complete.
 
+#### Monday
+
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 FIT BUT vs. JaCaMo Builders | 3:0 | 3:0 | 3:0 | 9:0
 GOAL-DTU vs. LTI-USP | 3:0 | 3:0 | 0:3 | 6:3
 FIT BUT vs. MLFC | 3:0 | 3:0 | 0:3 | 6:3
-JaCaMo Builders vs. LTI-USP | 3:0 | ? | ? | ?
-GOAL-DTU vs. MLFC | 3:0 | ? | ? | ?
+JaCaMo Builders vs. LTI-USP | 3:0 | 0:3 | 0:3 | 3:6
+GOAL-DTU vs. MLFC | 3:0 | 1:1 | ? | ?
 
-Schedule + Organisation
------------------------
+#### Tuesday
+
+See you tomorrow.
+
+### Schedule
 
 All times are GMT+1/CET.
 
-### Monday (March 15th)
+#### Monday (15th March 2021)
 
 Time | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -56,7 +61,7 @@ Time | agentcontest1 | agentcontest2
 13:00 | GOAL-DTU vs. LTI-USP | FIT BUT vs. MLFC
 15:30 | JaCaMo Builders vs. LTI-USP | GOAL-DTU vs. MLFC
 
-### Tuesday (March 16th)
+#### Tuesday (16th March 2021)
 
 Time | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -65,7 +70,7 @@ Time | agentcontest1 | agentcontest2
 15:30 | JaCaMo Builders vs. MLFC |
 ~18:00 | LTI-USP vs. MLFC |
 
-### Wednesday (March 17th)
+#### Wednesday (17th March 2021)
 
 15:00 **Watch party** - Grab some snacks, join us in the chat and we'll watch the match replays together.
 
@@ -90,8 +95,8 @@ Team | Platform | Status
 [TRG](registrations/TRG.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Reg. retracted
 [LTI-USP](registrations/LTI-USP.pdf) | [Jason](http://jason.sourceforge.net/wp/) | Q. Passed 22.1.2021
 
-Provisional timeline
---------------------
+Timeline
+--------
 
 What | When
 --- | ---
@@ -99,7 +104,7 @@ First software package and specifications available | Complete
 End of [Registration](#registration) and [Qualification](#qualification) | <del>22 October</del> <del>12 February 2021</del> 19 February 2021
 Contest | <del>9 - 13 November</del> 15-19 March 2021
 
-(Update 27th October: The contest has been postponed to spring 2021.)
+Update 27th October: The contest has been postponed to spring 2021.
 
 ### Registration
 
