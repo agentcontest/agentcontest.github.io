@@ -17,6 +17,25 @@ The scenario is a revision of the [previous edition](/2019/).
 
 Also see the official [Call for Participation](cfp.txt).
 
+Contest
+-------
+
+### Results after round 1
+
+Placement | Team | Total Score | Sources
+--- | --- | --- | ---
+1 | FIT BUT | 9 |
+2 | JaCaMo Builders | 0 |
+
+### Completed matches
+
+Detailed match results and replays will be revealed once the contest is
+complete.
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+FIT BUT vs. JaCaMo Builders | ? | ? | ? | 9:0
+
 Schedule + Organisation
 -----------------------
 
