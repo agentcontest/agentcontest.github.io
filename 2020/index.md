@@ -20,6 +20,10 @@ Also see the official [Call for Participation](cfp.txt).
 Contest
 -------
 
+- Only the status monitor will be available during the competition. The replays will be made available after the final match on Tuesday night.
+- After each match, the points awarded to each team will be announced.
+- We have set up a Slack chat, where we can extensively talk about each match after the contest. The invitation link will be distributed during the competition.
+
 ### Results after Day 1
 
 Placement | Team | Total Score | Sources
@@ -27,8 +31,8 @@ Placement | Team | Total Score | Sources
 1 | FIT BUT | 15 |
 2 | Goal-DTU | 10 |
 3 | LTI-USP | 9 |
-  | MLFC | 4 |
-  | JaCaMo Builders | 3 |
+4 | MLFC | 4 |
+5 | JaCaMo Builders | 3 |
 
 ### Completed matches
 
@@ -39,11 +43,11 @@ complete.
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-FIT BUT vs. JaCaMo Builders | 3:0 | 3:0 | 3:0 | 9:0
-GOAL-DTU vs. LTI-USP | 3:0 | 3:0 | 0:3 | 6:3
-FIT BUT vs. MLFC | 3:0 | 3:0 | 0:3 | 6:3
-JaCaMo Builders vs. LTI-USP | 3:0 | 0:3 | 0:3 | 3:6
-GOAL-DTU vs. MLFC | 3:0 | 1:1 | ? | ?
+FIT BUT vs. JaCaMo Builders | **3**:0 | **3**:0 | **3**:0 | 9:0
+GOAL-DTU vs. LTI-USP | **3**:0 | **3**:0 | 0:**3** | 6:3
+FIT BUT vs. MLFC | 0:**3** | **3**:0 | **3**:0 | 6:3
+JaCaMo Builders vs. LTI-USP | **3**:0 | 0:**3** | 0:**3** | 3:6
+GOAL-DTU vs. MLFC | **3**:0 | 1:1 | ? | ?
 
 #### Tuesday
 
@@ -51,11 +55,9 @@ See you tomorrow.
 
 ### Schedule
 
-All times are GMT+1/CET.
-
 #### Monday (15th March 2021)
 
-Time | agentcontest1 | agentcontest2
+Time (GMT+1/CET) | agentcontest1 | agentcontest2
 --- | --- | ---
 10:00 | | FIT BUT vs. JaCaMo Builders
 13:00 | GOAL-DTU vs. LTI-USP | FIT BUT vs. MLFC
@@ -63,7 +65,7 @@ Time | agentcontest1 | agentcontest2
 
 #### Tuesday (16th March 2021)
 
-Time | agentcontest1 | agentcontest2
+Time (GMT+1/CET) | agentcontest1 | agentcontest2
 --- | --- | ---
 10:00 | | FIT BUT vs. GOAL-DTU
 13:00 | GOAL-DTU vs. JaCaMo Builders | FIT BUT vs. LTI-USP
@@ -72,13 +74,7 @@ Time | agentcontest1 | agentcontest2
 
 #### Wednesday (17th March 2021)
 
-15:00 **Watch party** - Grab some snacks, join us in the chat and we'll watch the match replays together.
-
-### Organisational
-
-- Only the status monitor will be available during the competition. The replays will be made available after the final match on Tuesday night.
-- After each match, the points awarded to each team will be announced.
-- We have set up a Slack chat, where we can extensively talk about each match after the contest. The invitation link will be distributed during the competition.
+15:00 GMT+1/CET: **Watch party**. Grab some snacks, join us in the chat and we'll watch the match replays together.
 
 Participants
 ------------
