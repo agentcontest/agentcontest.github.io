@@ -30,9 +30,9 @@ Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 30 |
 2 | GOAL-DTU | 22 |
-3 | LTI-USP | 9 |
-4 | JaCaMo Builders | 6 |
-5 | MLFC | 4 |
+3 | MLFC | 13 |
+4 | LTI-USP | 9 |
+5 | JaCaMo Builders | 6 |
 
 ### Completed matches
 
@@ -56,6 +56,7 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 FIT BUT vs. GOAL-DTU | 0:**3** | **3**:0 | **3**:0 | 6:3
 GOAL-DTU vs. JaCaMo Builders | **3**:0 | **3**:0 | 0:**3** | 6:3
 FIT BUT vs. LTI-USP | **3**:0 | **3**:0 | **3**:0 | 9:0
+JaCaMo Builders vs. MLFC | 0:**3** | 0:**3** | 0:**3** | 0:9
 
 ### Schedule
 
