@@ -20,24 +20,19 @@ Also see the official [Call for Participation](cfp.txt).
 Contest
 -------
 
-- Only the status monitor will be available during the competition. The replays will be made available after the final match on Tuesday night.
-- After each match, the points awarded to each team will be announced.
-- We have set up a Slack chat, where we can extensively talk about each match after the contest. The invitation link will be distributed during the competition.
-
-### Standings after Day 2 Round 2
+### Results
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 30 |
 2 | GOAL-DTU | 22 |
-3 | MLFC | 13 |
+  | MLFC | 22 |
 4 | LTI-USP | 9 |
 5 | JaCaMo Builders | 6 |
 
-### Completed matches
+### Matches
 
-Detailed match results and replays will be revealed once the contest is
-complete.
+Detailed match results and replays will be revealed during the watch party.
 
 #### Monday
 
@@ -57,6 +52,7 @@ FIT BUT vs. GOAL-DTU | 0:**3** | **3**:0 | **3**:0 | 6:3
 GOAL-DTU vs. JaCaMo Builders | **3**:0 | **3**:0 | 0:**3** | 6:3
 FIT BUT vs. LTI-USP | **3**:0 | **3**:0 | **3**:0 | 9:0
 JaCaMo Builders vs. MLFC | 0:**3** | 0:**3** | 0:**3** | 0:9
+LTI-USP vs. MLFC | 0:**3** | 0:**3** | 0:**3** | 0:9
 
 ### Schedule
 
