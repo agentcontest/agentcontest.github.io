@@ -30,29 +30,27 @@ Placement | Team | Total Score | Sources
 4 | LTI-USP | 9 |
 5 | JaCaMo Builders | 6 |
 
-### Matches
-
-Detailed match results and replays will be revealed during the watch party.
+### Replays
 
 #### Monday
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-FIT BUT vs. JaCaMo Builders | **3**:0 | **3**:0 | **3**:0 | 9:0
-GOAL-DTU vs. LTI-USP | **3**:0 | **3**:0 | 0:**3** | 6:3
-FIT BUT vs. MLFC | 0:**3** | **3**:0 | **3**:0 | 6:3
-JaCaMo Builders vs. LTI-USP | **3**:0 | 0:**3** | 0:**3** | 3:6
-GOAL-DTU vs. MLFC | **3**:0 | 1:1 | **3**:0 | 7:1
+FIT BUT vs. JaCaMo Builders | [**38**&nbsp;:&nbsp;0](/replays_2020/?2021-03-15-10-08-50-1615799330616_JaCaMo_Builders_FIT_BUT) | [**113**&nbsp;:&nbsp;8](/replays_2020/?2021-03-15-10-08-50-1615800067382_JaCaMo_Builders_FIT_BUT) | [**98**&nbsp;:&nbsp;0](/replays_2020/?2021-03-15-10-08-50-1615802021396_JaCaMo_Builders_FIT_BUT) | 9:0
+GOAL-DTU vs. LTI-USP | [**65**&nbsp;:&nbsp;16](/replays_2020/?2021-03-15-12-53-40-1615809220731_GOAL-DTU_LTIUSP) | [**100**&nbsp;:&nbsp;14](/replays_2020/?2021-03-15-12-53-40-1615809729757_GOAL-DTU_LTIUSP) | [0&nbsp;:&nbsp;**38**](/replays_2020/?2021-03-15-12-53-40-1615810403049_GOAL-DTU_LTIUSP) | 6:3
+FIT BUT vs. MLFC | [0&nbsp;:&nbsp;**48**](/replays_2020/?2021-03-15-12-59-11-1615809551265_MLFC_FIT_BUT) | [**53**&nbsp;:&nbsp;44](/replays_2020/?2021-03-15-12-59-11-1615810308934_MLFC_FIT_BUT) | [**90**&nbsp;:&nbsp;18](/replays_2020/?2021-03-15-12-59-11-1615812569519_MLFC_FIT_BUT) | 6:3
+JaCaMo Builders vs. LTI-USP | [**8**&nbsp;:&nbsp;0](/replays_2020/?2021-03-15-14-14-54-1615814094473_JaCaMo_Builders_LTIUSP) | [10&nbsp;:&nbsp;**20**](/replays_2020/?2021-03-15-14-14-54-1615814942060_JaCaMo_Builders_LTIUSP) | [10&nbsp;:&nbsp;**18**](/replays_2020/?2021-03-15-14-14-54-1615816825262_JaCaMo_Builders_LTIUSP) | 3:6
+GOAL-DTU vs. MLFC | [**187**&nbsp;:&nbsp;26](/replays_2020/?2021-03-15-14-34-08-1615815248346_MLFC_GOAL-DTU) | [0&nbsp;:&nbsp;0](/replays_2020/?2021-03-15-14-34-08-1615815874757_MLFC_GOAL-DTU) | [**105**&nbsp;:&nbsp;48](/replays_2020/?2021-03-15-14-34-08-1615817947411_MLFC_GOAL-DTU) | 7:1
 
 #### Tuesday
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-FIT BUT vs. GOAL-DTU | 0:**3** | **3**:0 | **3**:0 | 6:3
-GOAL-DTU vs. JaCaMo Builders | **3**:0 | **3**:0 | 0:**3** | 6:3
-FIT BUT vs. LTI-USP | **3**:0 | **3**:0 | **3**:0 | 9:0
-JaCaMo Builders vs. MLFC | 0:**3** | 0:**3** | 0:**3** | 0:9
-LTI-USP vs. MLFC | 0:**3** | 0:**3** | 0:**3** | 0:9
+FIT BUT vs. GOAL-DTU | [62&nbsp;:&nbsp;**181**](/replays_2020/?2021-03-16-10-07-16-1615885636898_GOAL-DTU_FIT_BUT) | [**104**&nbsp;:&nbsp;0](/replays_2020/?2021-03-16-10-07-16-1615885909187_GOAL-DTU_FIT_BUT) | [**282**&nbsp;:&nbsp;0](/replays_2020/?2021-03-16-10-07-16-1615886436432_GOAL-DTU_FIT_BUT) | 6:3
+GOAL-DTU vs. JaCaMo Builders | [**353**&nbsp;:&nbsp;10](/replays_2020/?2021-03-16-12-48-31-1615895311163_JaCaMo_Builders_GOAL-DTU) | [**235**&nbsp;:&nbsp;12](/replays_2020/?2021-03-16-12-48-31-1615895993686_JaCaMo_Builders_GOAL-DTU) | [0&nbsp;:&nbsp;**8**](/replays_2020/?2021-03-16-12-48-31-1615897053562_JaCaMo_Builders_GOAL-DTU) | 6:3
+FIT BUT vs. LTI-USP | [**185**&nbsp;:&nbsp;16](/replays_2020/?2021-03-16-13-01-39-1615896099369_LTIUSP_FIT_BUT) | [**148**&nbsp;:&nbsp;10](/replays_2020/?2021-03-16-13-01-39-1615896741383_LTIUSP_FIT_BUT) | [**314**&nbsp;:&nbsp;0](/replays_2020/?2021-03-16-13-01-39-1615897639974_LTIUSP_FIT_BUT) | 9:0
+JaCaMo Builders vs. MLFC | [10&nbsp;:&nbsp;**60**](/replays_2020/?2021-03-16-14-04-39-1615899879278_JaCaMo_Builders_MLFC) | [10&nbsp;:&nbsp;**26**](/replays_2020/?2021-03-16-14-04-39-1615900844380_JaCaMo_Builders_MLFC) | [10&nbsp;:&nbsp;**148**](/replays_2020/?2021-03-16-14-04-39-1615903514381_JaCaMo_Builders_MLFC) | 0:9
+LTI-USP vs. MLFC | [12&nbsp;:&nbsp;**160**](/replays_2020/?2021-03-16-15-42-22-1615905742452_MLFC_LTIUSP) | [38&nbsp;:&nbsp;**195**](/replays_2020/?2021-03-16-15-42-22-1615906450033_MLFC_LTIUSP) | [8&nbsp;:&nbsp;**235**](/replays_2020/?2021-03-16-15-42-22-1615908596589_MLFC_LTIUSP) | 0:9
 
 ### Schedule
 
