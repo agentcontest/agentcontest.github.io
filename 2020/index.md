@@ -24,15 +24,15 @@ Contest
 - After each match, the points awarded to each team will be announced.
 - We have set up a Slack chat, where we can extensively talk about each match after the contest. The invitation link will be distributed during the competition.
 
-### Standings after Day 2 Round 1
+### Standings after Day 2 Round 2
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
-1 | FIT BUT | 21 |
-2 | GOAL-DTU | 16 |
+1 | FIT BUT | 30 |
+2 | GOAL-DTU | 22 |
 3 | LTI-USP | 9 |
-4 | MLFC | 4 |
-5 | JaCaMo Builders | 3 |
+4 | JaCaMo Builders | 6 |
+5 | MLFC | 4 |
 
 ### Completed matches
 
@@ -54,6 +54,8 @@ GOAL-DTU vs. MLFC | **3**:0 | 1:1 | **3**:0 | 7:1
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 FIT BUT vs. GOAL-DTU | 0:**3** | **3**:0 | **3**:0 | 6:3
+GOAL-DTU vs. JaCaMo Builders | **3**:0 | **3**:0 | 0:**3** | 6:3
+FIT BUT vs. LTI-USP | **3**:0 | **3**:0 | **3**:0 | 9:0
 
 ### Schedule
 
