@@ -28,7 +28,7 @@ Placement | Team | Total Score | Sources
 2 | GOAL-DTU | 22 |
   | MLFC | 22 |
 4 | LTI-USP | 9 |
-5 | JaCaMo Builders | 6 |
+5 | JaCaMo Builders | 6 | [Git](https://github.com/jacamo-lang/mapc2020)
 
 ### Matches
 
