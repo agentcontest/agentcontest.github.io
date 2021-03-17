@@ -11,7 +11,6 @@ Agents with limited local vision have to organize to assemble and deliver
 complex structures made of blocks, in a grid world.
 
 The scenario is a revision of the [previous edition](/2019/).
-[Replays](/2019/#replays) are available.
 
 ![Agents Assemble](/2019/banner.png){:width="630" height="342"}
 
