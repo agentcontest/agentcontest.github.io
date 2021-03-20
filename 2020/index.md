@@ -25,7 +25,7 @@ Placement | Team | Total Score | Sources
 --- | --- | --- | ---
 1 | FIT BUT | 30 |
 2 | GOAL-DTU | 22 |
-  | MLFC | 22 |
+  | MLFC | 22 | [Git](https://github.com/autonomy-and-verification-uol/mapc2020-lfc)
 4 | LTI-USP | 9 | [Git](https://github.com/mfstabile/MAPC2020_LTI-USP)
 5 | JaCaMo Builders | 6 | [Git](https://github.com/jacamo-lang/mapc2020)
 
