@@ -23,7 +23,7 @@ Contest
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
-1 | FIT BUT | 30 |
+1 | FIT BUT | 30 | [Zip](/2020/sources/fitBut.zip)
 2 | GOAL-DTU | 22 | [Zip](/2020/sources/MAPC2020-GOAL-DTU.zip) [Homepage](https://people.compute.dtu.dk/jovi/MAS/)
   | MLFC | 22 | [Git](https://github.com/autonomy-and-verification-uol/mapc2020-lfc)
 4 | LTI-USP | 9 | [Git](https://github.com/mfstabile/MAPC2020_LTI-USP)
