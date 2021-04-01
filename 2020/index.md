@@ -51,9 +51,20 @@ FIT BUT vs. LTI-USP | [**185**&nbsp;:&nbsp;16](/replays_2020/?2021-03-16-13-01-3
 JaCaMo Builders vs. MLFC | [10&nbsp;:&nbsp;**60**](/replays_2020/?2021-03-16-14-04-39-1615899879278_JaCaMo_Builders_MLFC) | [10&nbsp;:&nbsp;**26**](/replays_2020/?2021-03-16-14-04-39-1615900844380_JaCaMo_Builders_MLFC) | [10&nbsp;:&nbsp;**148**](/replays_2020/?2021-03-16-14-04-39-1615903514381_JaCaMo_Builders_MLFC) | 0:9
 LTI-USP vs. MLFC | [12&nbsp;:&nbsp;**160**](/replays_2020/?2021-03-16-15-42-22-1615905742452_MLFC_LTIUSP) | [38&nbsp;:&nbsp;**195**](/replays_2020/?2021-03-16-15-42-22-1615906450033_MLFC_LTIUSP) | [8&nbsp;:&nbsp;**235**](/replays_2020/?2021-03-16-15-42-22-1615908596589_MLFC_LTIUSP) | 0:9
 
-### Schedule
+Free for all
+------------
 
-#### Monday (15th March 2021)
+After the contest, we invited everyone to stress test our system
+(and their implementations) by playing all at the same time in unofficial
+free for all simulations. Replays:
+
+* [15 agents each](/replays_2020/?2021-04-01-15-37-38-1617284258519_GOAL-DTU_JaCaMo_Builders_MLFC_FIT_BUT)
+* [30 agents each](/replays_2020/?2021-04-01-15-59-23-1617285563666_FIT_BUT_JaCaMo_Builders_MLFC_GOAL-DTU)
+
+Schedule
+--------
+
+### Monday (15th March 2021)
 
 Time (GMT+1/CET) | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -61,7 +72,7 @@ Time (GMT+1/CET) | agentcontest1 | agentcontest2
 13:00 | GOAL-DTU vs. LTI-USP | FIT BUT vs. MLFC
 15:30 | JaCaMo Builders vs. LTI-USP | GOAL-DTU vs. MLFC
 
-#### Tuesday (16th March 2021)
+### Tuesday (16th March 2021)
 
 Time (GMT+1/CET) | agentcontest1 | agentcontest2
 --- | --- | ---
@@ -70,7 +81,7 @@ Time (GMT+1/CET) | agentcontest1 | agentcontest2
 15:30 | JaCaMo Builders vs. MLFC |
 ~18:00 | LTI-USP vs. MLFC |
 
-#### Wednesday (17th March 2021)
+### Wednesday (17th March 2021)
 
 15:00 GMT+1/CET: **Watch party**. Grab some snacks, join us in the chat and we'll watch the match replays together.
 
