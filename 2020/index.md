@@ -166,6 +166,9 @@ Authors should consult Springer’s [authors’ guidelines](ftp://ftp.springerna
 - Tentative submission deadline: 1 June 2021
 - Submission system: [Springer OCS](https://ocs.springer.com/ocs/en/home/MAPC2020)
 
+Please answer and append the [questionnaire](questionnaire.tex) to your team description paper. Also, please send us a draft version until 21 April.
+If you'd like to give us some more general feedback (and answer a few questions regarding the organization), there's also a [form](https://forms.gle/YaSBVaHZm9dvDn7v8) for that!
+
 General Advice
 --------------
 
