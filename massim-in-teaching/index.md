@@ -9,6 +9,12 @@ layout: page
 Our MASSim platform has been used extensively in teaching.
 Below you will find an overview of the courses/projects we are aware of. (If you used MASSim or the MAPC in your teaching, we would be happy to include your entry as well!)
 
+* We were invited to give a lecture and a shourt course at [WESAAC 2021](https://wesaac.ufsc.br/2021/).
+  * It looks like the lecture has been [recorded](https://www.youtube.com/watch?v=HgNlfKm7YdQ).
+  * The slides of the lecture are [here](./wesaac_lecture_slides.zip) (you need a PDF reader that can play videos).
+  * The slides of the short course are [here](./wesaac_short-course_slides.pdf).
+  * The code of the short course can be found [here](https://github.com/agentcontest/python-mapc2020).
+
 * Course ["Agent Oriented Programming &amp; Design"](https://sites.google.com/site/rmitaopd18/home) at RMIT University, Melbourne, Australia.
   Held by [Sebastian Sardina](https://sites.google.com/site/ssardina/).
   Using [SARL](http://www.sarl.io/) and [SWI Prolog](http://www.swi-prolog.org/) in the **agents-in-the-city scenario (2018)**.
