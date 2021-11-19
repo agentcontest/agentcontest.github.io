@@ -14,6 +14,11 @@ Members
 * [Jomi Hübner](http://jomi.das.ufsc.br/),
   [Federal University of Santa Catarina](http://www.ufsc.br/).
 
+Former members
+--------------
+
+* Mehdi Dastani
+
 Steering Committee Charter
 --------------------------
 
