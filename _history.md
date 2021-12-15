@@ -3,6 +3,7 @@
 ![Agents Assemble](/2019/banner.png){:height="280" width="630"}
 
 <div class="actions">
+  <a href="/2020/" title="15th edition">Agent Contest 2020/21</a>
   <a href="/2019/" title="14th edition">Agent Contest 2019</a>
 </div>
 
