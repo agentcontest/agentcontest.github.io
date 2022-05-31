@@ -35,7 +35,7 @@ Due to popular demand, the dates have been moved into late(r) 2022.
 
 ### Registration
 
-To register, submit the registration form (tbd).
+To register, submit the [registration form](https://forms.gle/nQ6uRAdQShNVv9gk7).
 
 
 ### Qualification
