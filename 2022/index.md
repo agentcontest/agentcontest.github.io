@@ -20,11 +20,17 @@ Also see the official [Call for Participation](cfp.txt).
 Timeline
 --------
 
-What | When
---- | ---
-First software package and specifications available | December 2021
-End of [Registration](#registration) and [Qualification](#qualification) | June 2022
-Contest | July 2022
+### Replanned schedule
+
+Due to popular demand, the dates have been moved into late(r) 2022.
+
+| What                                                | When                 |
+| --------------------------------------------------- | -------------------- |
+| First software package and specifications available | December 2021        |
+| [Registration](#registration) Deadline              | 5 August 2022        |
+| [Qualification](#qualification) Deadline            | 26 August 2022       |
+| Contest                                             | Week of 19 September |
+| Publication                                         | After the contest    |
 
 
 ### Registration
