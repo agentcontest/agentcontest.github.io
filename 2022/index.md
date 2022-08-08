@@ -16,7 +16,6 @@ The scenario is a revision of the previous editions, [2019](/2019/) and [2020/21
 
 Also see the official [Call for Participation](cfp.txt).
 
-
 Timeline
 --------
 
@@ -32,6 +31,18 @@ Due to popular demand, the dates have been moved into late(r) 2022.
 | Contest                                             | Week of 19 September |
 | Publication                                         | After the contest    |
 
+Participants
+------------
+
+In order of registration:
+
+Team | Affiliation | Members | Using | Status
+--- | --- | --- | --- | ---
+LI(A)RA | UFSC (Brazil) | 10 | [JaCaMo](http://jacamo.sourceforge.net/) | 
+GOALdigger-AIG-Hagen | University of Hagen (Germany) | 4 | [GOAL](https://goalapl.atlassian.net/wiki/) |
+MMD | ELTE (Hungary) | 2 | [Python](https://www.python.org/) | 
+FIT BUT | BUT (Czech Republic) | 3 | [Java](https://www.java.com/) | 
+GOAL-DTU | DTU (Denmark) | 3 | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 8.8.2022
 
 ### Registration
 
