@@ -37,7 +37,7 @@ Participants
 In order of registration:
 
 Team | Affiliation | Members | Using | Status
---- | --- | --- | --- | ---
+--- | --- | :---: | :---: | ---
 LI(A)RA | UFSC (Brazil) | 10 | [JaCaMo](http://jacamo.sourceforge.net/) | 
 GOALdigger-AIG-Hagen | University of Hagen (Germany) | 4 | [GOAL](https://goalapl.atlassian.net/wiki/) |
 MMD | ELTE (Hungary) | 2 | [Python](https://www.python.org/) | 
