@@ -38,7 +38,7 @@ In order of registration:
 
 Team | Affiliation | Members | Using | Status
 --- | --- | :---: | :---: | ---
-LI(A)RA | UFSC (Brazil) | 10 | [JaCaMo](http://jacamo.sourceforge.net/) | 
+LI(A)RA | UFSC (Brazil) | 5 | [Jason](http://jason.sourceforge.net/) | Q. Passed 22.8.2022
 GOALdigger-AIG-Hagen | University of Hagen (Germany) | 4 | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 16.8.2022
 MMD | ELTE (Hungary) | 2 | [Python](https://www.python.org/) | Q. Passed 19.8.2022
 FIT BUT | BUT (Czech Republic) | 3 | [Java](https://www.java.com/) | Q. Passed 22.8.2022
