@@ -41,7 +41,7 @@ Team | Affiliation | Members | Using | Status
 LI(A)RA | UFSC (Brazil) | 10 | [JaCaMo](http://jacamo.sourceforge.net/) | 
 GOALdigger-AIG-Hagen | University of Hagen (Germany) | 4 | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 16.8.2022
 MMD | ELTE (Hungary) | 2 | [Python](https://www.python.org/) | Q. Passed 19.8.2022
-FIT BUT | BUT (Czech Republic) | 3 | [Java](https://www.java.com/) | 
+FIT BUT | BUT (Czech Republic) | 3 | [Java](https://www.java.com/) | Q. Passed 22.8.2022
 GOAL-DTU | DTU (Denmark) | 3 | [GOAL](https://goalapl.atlassian.net/wiki/) | Q. Passed 8.8.2022
 
 ### Registration
