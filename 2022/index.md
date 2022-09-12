@@ -16,6 +16,26 @@ The scenario is a revision of the previous editions, [2019](/2019/) and [2020/21
 
 Also see the official [Call for Participation](cfp.txt).
 
+Contest
+-------
+
+#### Wednesday (21st September 2022)
+
+Time (UTC+2/CEST) | agentcontest1 | agentcontest2
+--- | --- | ---
+11:00 | LI(A)RA vs. FIT BUT |
+13:00 | GOALdigger-AIG-Hagen vs. GOAL-DTU | MMD vs. FIT BUT
+15:00 | GOALdigger-AIG-Hagen vs. MMD | GOAL-DTU vs. LI(A)RA
+
+#### Thursday (22nd September 2022)
+
+Time (UTC+2/CEST) | agentcontest1 | agentcontest2
+--- | --- | ---
+11:00 | GOALdigger-AIG-Hagen vs. LI(A)RA |
+13:00 | GOALdigger-AIG-Hagen vs. FIT BUT | MMD vs. GOAL-DTU
+15:00 | GOAL-DTU vs. FIT BUT | MMD vs. LI(A)RA
+~17:00 | Watch party |
+
 Timeline
 --------
 
@@ -28,7 +48,7 @@ Due to popular demand, the dates have been moved into late(r) 2022.
 | First software package and specifications available | December 2021        |
 | [Registration](#registration) Deadline              | 5 August 2022        |
 | [Qualification](#qualification) Deadline            | 26 August 2022       |
-| Contest                                             | Week of 19 September |
+| Contest                                             | 21 & 22 Sept. 2022   |
 | Publication                                         | After the contest    |
 
 Participants
