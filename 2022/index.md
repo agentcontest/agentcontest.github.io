@@ -29,7 +29,7 @@ Placement | Team | Total Score | Sources
 4 | ??? | ? |
 5 | ??? | ? |
 
-### Replays 
+### Replays
 
 (available after the final match)
 
@@ -38,9 +38,9 @@ Placement | Team | Total Score | Sources
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 LI(A)RA vs. FIT BUT | **220**&nbsp;:&nbsp;60 | 60&nbsp;:&nbsp;**540** | 120&nbsp;:&nbsp;**780** | 3&nbsp;:&nbsp;6
-GOALdigger vs. GOAL-DTU | | | | ?:?
+GOALdigger vs. GOAL-DTU | **180**&nbsp;:&nbsp;0 | **370**&nbsp;:&nbsp;0 | 410&nbsp;:&nbsp;**520** | 6&nbsp;:&nbsp;3
 GOALdigger vs. MMD | | | | ?:?
-FIT BUT vs. MMD | | | | ?:?
+FIT BUT vs. MMD | 80&nbsp;:&nbsp;**770** | **760**&nbsp;:&nbsp;680 | 170&nbsp;:&nbsp;**1140** | 3&nbsp;:&nbsp;6
 GOAL-DTU vs. LI(A)RA | | | | ?:?
 
 
