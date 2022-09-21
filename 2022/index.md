@@ -39,9 +39,9 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 LI(A)RA vs. FIT BUT | **220**&nbsp;:&nbsp;60 | 60&nbsp;:&nbsp;**540** | 120&nbsp;:&nbsp;**780** | 3&nbsp;:&nbsp;6
 GOALdigger vs. GOAL-DTU | **180**&nbsp;:&nbsp;0 | **370**&nbsp;:&nbsp;0 | 410&nbsp;:&nbsp;**520** | 6&nbsp;:&nbsp;3
-GOALdigger vs. MMD | | | | ?:?
+GOALdigger vs. MMD | 370&nbsp;:&nbsp;**500** | **300**&nbsp;:&nbsp;200| 720&nbsp;:&nbsp;**840** | 3&nbsp;:&nbsp;6
 FIT BUT vs. MMD | 80&nbsp;:&nbsp;**770** | **760**&nbsp;:&nbsp;680 | 170&nbsp;:&nbsp;**1140** | 3&nbsp;:&nbsp;6
-GOAL-DTU vs. LI(A)RA | | | | ?:?
+GOAL-DTU vs. LI(A)RA | 120&nbsp;:&nbsp;**310** | **160**&nbsp;:&nbsp;80 | 0&nbsp;:&nbsp;**270** | 3&nbsp;:&nbsp;6
 
 
 ### Match schedule
