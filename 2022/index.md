@@ -29,7 +29,9 @@ Placement | Team | Total Score | Sources
 4 | ??? | ? |
 5 | ??? | ? |
 
-### Replays (available after the final match)
+### Replays 
+
+(available after the final match)
 
 #### Wednesday (21st September 2022)
 
