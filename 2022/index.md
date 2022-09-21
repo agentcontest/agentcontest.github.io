@@ -19,6 +19,31 @@ Also see the official [Call for Participation](cfp.txt).
 Contest
 -------
 
+### Results
+
+Placement | Team | Total Score | Sources
+--- | --- | --- | ---
+1 | ??? | ? |
+2 | ??? | ? |
+3 | ??? | ? |
+4 | ??? | ? |
+5 | ??? | ? |
+
+### Replays
+
+#### Wednesday (21st September 2022)
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+LI(A)RA vs. FIT BUT | | | | ?:?
+GOALdigger vs. GOAL-DTU | | | | ?:?
+GOALdigger vs. MMD | | | | ?:?
+FIT BUT vs. MMD | | | | ?:?
+GOAL-DTU vs. LI(A)RA | | | | ?:?
+
+
+### Match schedule
+
 #### Wednesday (21st September 2022)
 
 Time (UTC+2/CEST) | agentcontest1 | agentcontest2
