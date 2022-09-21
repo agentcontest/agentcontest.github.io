@@ -29,13 +29,13 @@ Placement | Team | Total Score | Sources
 4 | ??? | ? |
 5 | ??? | ? |
 
-### Replays
+### Replays (available after the final match)
 
 #### Wednesday (21st September 2022)
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-LI(A)RA vs. FIT BUT | **220**&nbsp;:&nbsp;60| 60&nbsp;:&nbsp;**540** | 120&nbsp;:&nbsp;**780** | 3&nbsp;:&nbsp;6
+LI(A)RA vs. FIT BUT | **220**&nbsp;:&nbsp;60 | 60&nbsp;:&nbsp;**540** | 120&nbsp;:&nbsp;**780** | 3&nbsp;:&nbsp;6
 GOALdigger vs. GOAL-DTU | | | | ?:?
 GOALdigger vs. MMD | | | | ?:?
 FIT BUT vs. MMD | | | | ?:?
