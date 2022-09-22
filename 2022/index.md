@@ -49,9 +49,9 @@ GOAL-DTU vs. LI(A)RA | 120&nbsp;:&nbsp;**310** | **160**&nbsp;:&nbsp;80 | 0&nbsp
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 GOALdigger vs. LI(A)RA | **350**&nbsp;:&nbsp;130 | **410**&nbsp;:&nbsp;0 | **310**&nbsp;:&nbsp;80 | 9&nbsp;:&nbsp;0 |
-GOALdigger vs. FIT BUT | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+GOALdigger vs. FIT BUT | 120&nbsp;:&nbsp;**220** | **320**&nbsp;:&nbsp;**320** | **520**&nbsp;:&nbsp;490 | 4&nbsp;:&nbsp;4 |
 GOAL-DTU vs. FIT BUT | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
-MMD vs. GOAL-DTU | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+MMD vs. GOAL-DTU | **910**&nbsp;:&nbsp;480 | **780**&nbsp;:&nbsp;150 | **1520**&nbsp;:&nbsp;0 | 9&nbsp;:&nbsp;0 |
 MMD vs. LI(A)RA | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
 
 ### Match schedule
