@@ -31,8 +31,6 @@ Placement | Team | Total Score | Sources
 
 ### Replays
 
-(available after the final match)
-
 #### Wednesday (21st September 2022)
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
@@ -47,11 +45,11 @@ GOAL-DTU vs. LI(A)RA | [120&nbsp;:&nbsp;**310**](/replays_2022b/?2022-09-21-14-5
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-GOALdigger vs. LI(A)RA | **350**&nbsp;:&nbsp;130 | **410**&nbsp;:&nbsp;0 | **310**&nbsp;:&nbsp;80 | 9&nbsp;:&nbsp;0 |
-GOALdigger vs. FIT BUT | 120&nbsp;:&nbsp;**220** | **320**&nbsp;:&nbsp;**320** | **520**&nbsp;:&nbsp;490 | 4&nbsp;:&nbsp;4 |
-GOAL-DTU vs. FIT BUT | **230**&nbsp;:&nbsp;0 | 630&nbsp;:&nbsp;**670** | 0&nbsp;:&nbsp;1640 | 3&nbsp;:&nbsp;6 |
-MMD vs. GOAL-DTU | **910**&nbsp;:&nbsp;480 | **780**&nbsp;:&nbsp;150 | **1520**&nbsp;:&nbsp;0 | 9&nbsp;:&nbsp;0 |
-MMD vs. LI(A)RA | **760**&nbsp;:&nbsp;120 | **750**&nbsp;:&nbsp;10 | **1600**&nbsp;:&nbsp;150 | 9&nbsp;:&nbsp;0 |
+GOALdigger vs. LI(A)RA | [**350**&nbsp;:&nbsp;130](/replays_2022c/?2022-09-22-11-01-11-1663837271557_LIARA_GOALdigger) | [**410**&nbsp;:&nbsp;0](/replays_2022c/?2022-09-22-11-01-11-1663837577249_LIARA_GOALdigger) | [**310**&nbsp;:&nbsp;80](/replays_2022c/?2022-09-22-11-01-11-1663838140055_LIARA_GOALdigger) | 9&nbsp;:&nbsp;0 |
+GOALdigger vs. FIT BUT | [120&nbsp;:&nbsp;**220**](/replays_2022c/?2022-09-22-12-58-01-1663844281627_FIT_BUT_GOALdigger) | [**320**&nbsp;:&nbsp;**320**](/replays_2022c/?2022-09-22-12-58-01-1663845659278_FIT_BUT_GOALdigger) | [**520**&nbsp;:&nbsp;490](/replays_2022c/?2022-09-22-12-58-01-1663847536037_FIT_BUT_GOALdigger) | 4&nbsp;:&nbsp;4 |
+GOAL-DTU vs. FIT BUT | [**230**&nbsp;:&nbsp;0](/replays_2022c/?2022-09-22-14-52-08-1663851128506_FIT_BUT_GOAL-DTU) | [630&nbsp;:&nbsp;**670**](/replays_2022c/?2022-09-22-14-52-08-1663852722184_FIT_BUT_GOAL-DTU) | [0&nbsp;:&nbsp;1640](/replays_2022c/?2022-09-22-14-52-08-1663854748427_FIT_BUT_GOAL-DTU) | 3&nbsp;:&nbsp;6 |
+MMD vs. GOAL-DTU | [**910**&nbsp;:&nbsp;480](/replays_2022c/?2022-09-22-13-02-34-1663844554238_GOAL-DTU_MMD) | [**780**&nbsp;:&nbsp;150](/replays_2022c/?2022-09-22-13-02-34-1663844948292_GOAL-DTU_MMD) | [**1520**&nbsp;:&nbsp;0](/replays_2022c/?2022-09-22-13-02-34-1663845843384_GOAL-DTU_MMD) | 9&nbsp;:&nbsp;0 |
+MMD vs. LI(A)RA | [**760**&nbsp;:&nbsp;120](/replays_2022c/?2022-09-22-14-55-05-1663851305985_LIARA_MMD) | [**750**&nbsp;:&nbsp;10](/replays_2022c/?2022-09-22-14-55-05-1663851619088_LIARA_MMD) | [**1600**&nbsp;:&nbsp;150](/replays_2022c/?2022-09-22-14-55-05-1663852179523_LIARA_MMD) | 9&nbsp;:&nbsp;0 |
 
 ### Match schedule
 
