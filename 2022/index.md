@@ -51,6 +51,19 @@ GOAL-DTU vs. FIT BUT | [**230**&nbsp;:&nbsp;0](/replays_2022c/?2022-09-22-14-52-
 MMD vs. GOAL-DTU | [**910**&nbsp;:&nbsp;480](/replays_2022c/?2022-09-22-13-02-34-1663844554238_GOAL-DTU_MMD) | [**780**&nbsp;:&nbsp;150](/replays_2022c/?2022-09-22-13-02-34-1663844948292_GOAL-DTU_MMD) | [**1520**&nbsp;:&nbsp;0](/replays_2022c/?2022-09-22-13-02-34-1663845843384_GOAL-DTU_MMD) | 9&nbsp;:&nbsp;0 |
 MMD vs. LI(A)RA | [**760**&nbsp;:&nbsp;120](/replays_2022c/?2022-09-22-14-55-05-1663851305985_LIARA_MMD) | [**750**&nbsp;:&nbsp;10](/replays_2022c/?2022-09-22-14-55-05-1663851619088_LIARA_MMD) | [**1600**&nbsp;:&nbsp;150](/replays_2022c/?2022-09-22-14-55-05-1663852179523_LIARA_MMD) | 9&nbsp;:&nbsp;0 |
 
+#### Warmup matches
+
+Each team played warmup matches against master student Paula Böhm from
+TU Clausthal, outside of the competition.
+
+Contestant | | |
+--- | --- | --- | ---
+FIT BUT | [Sim 1](/replays_2022a/?2022-09-19-11-02-00-1663578121012_FIT_BUT_Paula) | [Sim 2](/replays_2022a/?2022-09-19-11-02-00-1663579442933_FIT_BUT_Paula) | [Sim 3](/replays_2022a/?2022-09-19-11-02-00-1663581324723_FIT_BUT_Paula)
+GOAL-DTU | [Sim 1](/replays_2022a/?2022-09-19-14-32-26-1663590746778_GOAL-DTU_Paula) | [Sim 2](/replays_2022a/?2022-09-19-14-32-26-1663591374627_GOAL-DTU_Paula) | [Sim 3](/replays_2022a/?2022-09-19-14-32-26-1663592035797_GOAL-DTU_Paula)
+GOALdigger | [Sim 1](/replays_2022a/?2022-09-19-17-05-12-1663599912542_GOALdigger_Paula) | [Sim 2](/replays_2022a/?2022-09-19-17-05-12-1663600213358_GOALdigger_Paula) | [Sim 3](/replays_2022a/?2022-09-19-17-05-12-1663600713672_GOALdigger_Paula)
+LI(A)RA | [Sim 1](/replays_2022a/?2022-09-20-14-06-04-1663675564412_LIARA_Paula) | [Sim 2](/replays_2022a/?2022-09-20-14-06-04-1663676073208_LIARA_Paula) | [Sim 3](/replays_2022a/?2022-09-20-14-06-04-1663676687179_LIARA_Paula)
+MMD | [Sim 1](/replays_2022c/?2022-09-22-10-57-05-1663837025723_MMD_Paula) | [Sim 2](/replays_2022c/?2022-09-22-10-57-05-1663837336108_MMD_Paula) | [Sim 3](/replays_2022c/?2022-09-22-10-57-05-1663837816382_MMD_Paula)
+
 ### Match schedule
 
 #### Wednesday (21st September 2022)
