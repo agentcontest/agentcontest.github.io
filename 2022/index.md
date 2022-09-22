@@ -23,11 +23,11 @@ Contest
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
-1 | ??? | ? |
-2 | ??? | ? |
-3 | ??? | ? |
-4 | ??? | ? |
-5 | ??? | ? |
+1 | MMD | 30 |
+2 | GOALdigger | 22 |
+3 | FIT BUT | 19 |
+4 | GOAL-DTU | 9 |
+| LI(A)RA | 9 |
 
 ### Replays
 
@@ -50,9 +50,9 @@ Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
 GOALdigger vs. LI(A)RA | **350**&nbsp;:&nbsp;130 | **410**&nbsp;:&nbsp;0 | **310**&nbsp;:&nbsp;80 | 9&nbsp;:&nbsp;0 |
 GOALdigger vs. FIT BUT | 120&nbsp;:&nbsp;**220** | **320**&nbsp;:&nbsp;**320** | **520**&nbsp;:&nbsp;490 | 4&nbsp;:&nbsp;4 |
-GOAL-DTU vs. FIT BUT | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+GOAL-DTU vs. FIT BUT | **230**&nbsp;:&nbsp;0 | 630&nbsp;:&nbsp;**670** | 0&nbsp;:&nbsp;1640 | 3&nbsp;:&nbsp;6 |
 MMD vs. GOAL-DTU | **910**&nbsp;:&nbsp;480 | **780**&nbsp;:&nbsp;150 | **1520**&nbsp;:&nbsp;0 | 9&nbsp;:&nbsp;0 |
-MMD vs. LI(A)RA | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+MMD vs. LI(A)RA | **760**&nbsp;:&nbsp;120 | **750**&nbsp;:&nbsp;10 | **1600**&nbsp;:&nbsp;150 | 9&nbsp;:&nbsp;0 |
 
 ### Match schedule
 
