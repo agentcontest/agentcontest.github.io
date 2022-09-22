@@ -37,12 +37,11 @@ Placement | Team | Total Score | Sources
 
 Match | Sim 1 | Sim 2 | Sim 3 | Score
 --- | --- | --- | --- | ---
-LI(A)RA vs. FIT BUT | **220**&nbsp;:&nbsp;60 | 60&nbsp;:&nbsp;**540** | 120&nbsp;:&nbsp;**780** | 3&nbsp;:&nbsp;6
-GOALdigger vs. GOAL-DTU | **180**&nbsp;:&nbsp;0 | **370**&nbsp;:&nbsp;0 | 410&nbsp;:&nbsp;**520** | 6&nbsp;:&nbsp;3
-GOALdigger vs. MMD | 370&nbsp;:&nbsp;**500** | **300**&nbsp;:&nbsp;200| 720&nbsp;:&nbsp;**840** | 3&nbsp;:&nbsp;6
-FIT BUT vs. MMD | 80&nbsp;:&nbsp;**770** | **760**&nbsp;:&nbsp;680 | 170&nbsp;:&nbsp;**1140** | 3&nbsp;:&nbsp;6
-GOAL-DTU vs. LI(A)RA | 120&nbsp;:&nbsp;**310** | **160**&nbsp;:&nbsp;80 | 0&nbsp;:&nbsp;**270** | 3&nbsp;:&nbsp;6
-
+LI(A)RA vs. FIT BUT | [**220**&nbsp;:&nbsp;60](/replays_2022b/?2022-09-21-11-01-29-1663750889623_LIARA_FIT_BUT) | [60&nbsp;:&nbsp;**540**](/replays_2022b/?2022-09-21-11-01-29-1663752215041_LIARA_FIT_BUT) | [120&nbsp;:&nbsp;**780**](/replays_2022b/?2022-09-21-11-01-29-1663753931998_LIARA_FIT_BUT) | 3&nbsp;:&nbsp;6
+GOALdigger vs. GOAL-DTU | [**180**&nbsp;:&nbsp;0](/replays_2022b/?2022-09-21-13-06-31-1663758391147_GOAL-DTU_GOALdigger) | [**370**&nbsp;:&nbsp;0](/replays_2022b/?2022-09-21-13-06-31-1663759609827_GOAL-DTU_GOALdigger) | [410&nbsp;:&nbsp;**520**](/replays_2022b/?2022-09-21-13-06-31-1663762028449_GOAL-DTU_GOALdigger) | 6&nbsp;:&nbsp;3
+GOALdigger vs. MMD | [370&nbsp;:&nbsp;**500**](/replays_2022b/?2022-09-21-14-59-30-1663765170336_MMD_GOALdigger) | [**300**&nbsp;:&nbsp;200](/replays_2022b/?2022-09-21-14-59-30-1663765307658_MMD_GOALdigger) | [720&nbsp;:&nbsp;**840**](/replays_2022b/?2022-09-21-14-59-30-1663765589485_MMD_GOALdigger) | 3&nbsp;:&nbsp;6
+FIT BUT vs. MMD | [80&nbsp;:&nbsp;**770**](/replays_2022b/?2022-09-21-13-00-01-1663758001413_FIT_BUT_MMD) | [**760**&nbsp;:&nbsp;680](/replays_2022b/?2022-09-21-13-00-01-1663759355346_FIT_BUT_MMD) | [170&nbsp;:&nbsp;**1140**](/replays_2022b/?2022-09-21-13-00-01-1663760902009_FIT_BUT_MMD) | 3&nbsp;:&nbsp;6
+GOAL-DTU vs. LI(A)RA | [120&nbsp;:&nbsp;**310**](/replays_2022b/?2022-09-21-14-59-40-1663765180385_LIARA_GOAL-DTU) | [**160**&nbsp;:&nbsp;80](/replays_2022b/?2022-09-21-14-59-40-1663765687962_LIARA_GOAL-DTU) | [0&nbsp;:&nbsp;**270**](/replays_2022b/?2022-09-21-14-59-40-1663767644192_LIARA_GOAL-DTU) | 3&nbsp;:&nbsp;6
 
 #### Thursday (22nd September 2022)
 
