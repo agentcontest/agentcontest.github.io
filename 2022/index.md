@@ -56,7 +56,7 @@ MMD vs. LI(A)RA | [**760**&nbsp;:&nbsp;120](/replays_2022c/?2022-09-22-14-55-05-
 Each team played warmup matches against master student Paula Böhm from
 TU Clausthal, outside of the competition.
 
-Contestant | | |
+Contestant | 400 steps | 600 steps | 800 steps
 --- | --- | --- | ---
 FIT BUT | [Sim 1](/replays_2022a/?2022-09-19-11-02-00-1663578121012_FIT_BUT_Paula) | [Sim 2](/replays_2022a/?2022-09-19-11-02-00-1663579442933_FIT_BUT_Paula) | [Sim 3](/replays_2022a/?2022-09-19-11-02-00-1663581324723_FIT_BUT_Paula)
 GOAL-DTU | [Sim 1](/replays_2022a/?2022-09-19-14-32-26-1663590746778_GOAL-DTU_Paula) | [Sim 2](/replays_2022a/?2022-09-19-14-32-26-1663591374627_GOAL-DTU_Paula) | [Sim 3](/replays_2022a/?2022-09-19-14-32-26-1663592035797_GOAL-DTU_Paula)
