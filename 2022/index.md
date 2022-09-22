@@ -44,6 +44,16 @@ FIT BUT vs. MMD | 80&nbsp;:&nbsp;**770** | **760**&nbsp;:&nbsp;680 | 170&nbsp;:&
 GOAL-DTU vs. LI(A)RA | 120&nbsp;:&nbsp;**310** | **160**&nbsp;:&nbsp;80 | 0&nbsp;:&nbsp;**270** | 3&nbsp;:&nbsp;6
 
 
+#### Thursday (22nd September 2022)
+
+Match | Sim 1 | Sim 2 | Sim 3 | Score
+--- | --- | --- | --- | ---
+GOALdigger vs. LI(A)RA | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+GOALdigger vs. FIT BUT | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+GOAL-DTU vs. FIT BUT | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+MMD vs. GOAL-DTU | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+MMD vs. LI(A)RA | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? | ?&nbsp;:&nbsp;? |
+
 ### Match schedule
 
 #### Wednesday (21st September 2022)
