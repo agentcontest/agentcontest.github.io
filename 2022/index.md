@@ -183,7 +183,7 @@ Authors should consult Springer’s [authors’ guidelines](ftp://ftp.springerna
 - Tentative submission deadline: 18 November 2022
 - Submission system: Springer OCS
 
-Please answer and append the questionnaire (tbd.) to your team description paper. Also, please send us your questionnaire responses (only!) until 14 October 2022.
+Please answer and append the [questionnaire](questions.tex) to your team description paper. Also, please send us your questionnaire responses (only!) until 14 October 2022.
 
 
 General Advice
