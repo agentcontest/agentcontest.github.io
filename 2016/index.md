@@ -137,11 +137,11 @@ Registrants
 | Team | Affiliation | Members | Language/<br>Platform | Details |
 | -- |
 | BathTUB | Technische<br> Universität<br> Berlin<br> (Germany) | Christian Brandt <br> Marc Schmidt <br> Holger Schuh <br> Julian Böhm <br> Robin Schmied <br> Oguz Serbetci <br> Axel Heßler | JIAC |
-| Flisvos 2016 |  | Evangelos I. Sarmas | Python | [PDF](../registration/flisvos-2016.pdf) |
-| lampe | Technische<br> Universität<br> Clausthal<br> (Germany) | Philipp Czerner <br> Jonathan Pieper | C++ | [PDF](../registration/lampe.pdf) |
+| Flisvos 2016 |  | Evangelos I. Sarmas | Python | [PDF](/2016/registration/flisvos-2016.pdf) |
+| lampe | Technische<br> Universität<br> Clausthal<br> (Germany) | Philipp Czerner <br> Jonathan Pieper | C++ | [PDF](/2016/registration/lampe.pdf) |
 | LTI-USP | University<br> of São Paulo<br> (Brazil) | Arthur Casals <br> Igor Conrado Alves de Lima <br> Jaime Simão Sichman <br> Luís Gustavo Ludescher | JaCaMo |
 | PUCRS | Pontifícia<br> Universidade<br> Católica<br> do Rio Grande<br> do Sul (Brazil) | Rafael Cauê Cardoso <br> Ramon Fraga Pereira <br> Maurício Cecilio Magnaguagno <br> Artur Freitas <br> Túlio Basegio <br> Alison Roberto Panisson <br> Guilherme Azevedo <br> Guilherme Krzisch <br> Tabajara Krausburg <br> Anibal Sólon Heinsfeld <br> Felipe Rech Meneguzzi | JaCaMo |
-| Python-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen <br> Andreas Halkjær From <br> Salvador Jacobi <br> Nikolaj Nøkkentved Larsen | Python | [PDF](../registration/python-dtu.pdf) |
+| Python-DTU | Technical<br> University<br> of Denmark | Jørgen Villadsen <br> Andreas Halkjær From <br> Salvador Jacobi <br> Nikolaj Nøkkentved Larsen | Python | [PDF](/2016/registration/python-dtu.pdf) |
 
 Important dates
 ---------------
