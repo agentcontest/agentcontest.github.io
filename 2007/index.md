@@ -30,8 +30,8 @@ The JiacIV team won the 2007 tournament.
 Organizers
 ----------
 
-* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/),
-  [Utrecht University](http://www.uu.nl/),
+* [Mehdi Dastani](https://www.uu.nl/medewerkers/MMDastani),
+  [Utrecht University](https://www.uu.nl/),
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix),
   [Clausthal University of Technology](https://www.tu-clausthal.de/), and
 * [Peter Novak](http://peter.aronde.net/), [Clausthal University of Technology](https://www.tu-clausthal.de/).
@@ -96,7 +96,7 @@ How To Submit
 
 Please announce your intention to attend the contest by subscribing to the mailing list as soon as possible.
 
-Please submit a 5 page description of your solution complying with the submission template and formatted according to Springer LNCS style in PDF format to [Mehdi Dastani](mailto:mehdi@cs.uu.nl).
+Please submit a 5 page description of your solution complying with the submission template and formatted according to Springer LNCS style in PDF format to Mehdi Dastani.
 
 Several days before the start of the competition, the contest organisers will contact participants via e-mail with details on time and Internet coordinates (IP addresses/ports) of the simulation server.
 

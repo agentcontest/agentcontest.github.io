@@ -48,19 +48,19 @@ Below you will find an overview of the courses/projects we are aware of. (If you
   **Java/ASP** and MASSim using the **agents-on-mars scenario**.
 
 * Principles of multi-agent programming - PJ Multi Agent Contest, Bachelor course, 2011,
-  [TU Berlin](http://www.tu-berlin.de/), [DAI-Labor](http://www.dai-labor.de/),
-  **[JIAC](http://www.jiac.de/agent_frameworks/jiac_v/)**.
+  [TU Berlin](https://www.tu.berlin/), [DAI-Labor](http://www.dai-labor.de/),
+  **[JIAC](https://www.jiac.de/agent-frameworks/jiac-v/)**.
   Held by [Axel Hessler](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/axel.hessler) and
   [Thomas Konnerth](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/thomas.konnerth) using the **agents-on-mars scenario**.
 
 * Principles of multi-agent programming - PJ Multi Agent Contest, Bachelor course, 2010,
-  [TU Berlin](http://www.tu-berlin.de/), [DAI-Labor](http://www.dai-labor.de/),
+  [TU Berlin](https://www.tu.berlin/), [DAI-Labor](http://www.dai-labor.de/),
   **[JIAC](https://www.jiac.de/agent-frameworks/jiac-v/)** and **[microJIAC](https://www.jiac.de/agent-frameworks/microjiac/)**.
   Held by [Axel Hessler](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/axel.hessler) and
   [Marcel Patzlaff](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/marcel.patzlaff) using the **cows-and-cowboys scenario**.
 
 * Principles of multi-agent programming - PJ Multi Agent Contest, Bachelor course, 2009,
-  [TU Berlin](http://www.tu-berlin.de/), [DAI-Labor](http://www.dai-labor.de/),
+  [TU Berlin](https://www.tu.berlin/), [DAI-Labor](http://www.dai-labor.de/),
   **[JIAC](https://www.jiac.de/agent-frameworks/jiac-v/)** and **[microJIAC](https://www.jiac.de/agent-frameworks/microjiac/)**.
   Held by [Axel Hessler](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/axel.hessler) and
   [Tuguldur Erdene-Ochir](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/erdene-ochir.tuguldur) using the **cows-and-cowboys scenario**.

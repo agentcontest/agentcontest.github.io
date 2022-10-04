@@ -30,13 +30,13 @@ Organizers
 
 * Tristan M. Behrens, [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
-* [Jomi Hübner](http://www.das.ufsc.br/~jomi/home.html), [Federal University of Santa Catarina](https://www.ufsc.br/),
+* [Jomi Hübner](https://jomi.das.ufsc.br/), [Federal University of Santa Catarina](https://www.ufsc.br/),
 * Michael Köster, [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
 Steering Committee
 ------------------
 
-* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](https://www.uu.nl/),
+* [Mehdi Dastani](https://www.uu.nl/medewerkers/MMDastani), [Utrecht University](https://www.uu.nl/),
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Peter Novák](http://peter.aronde.net/), [Czech Technical University](http://www.cvut.cz/).
 

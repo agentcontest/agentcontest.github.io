@@ -17,22 +17,22 @@ Phone: +49 5323 72-7190
 Steering Committee
 ------------------
 
-* [Jürgen Dix](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/leader/prof-dr-juergen-dix), Technische Universität Clausthal
-* [Jomi F. Hübner](http://jomi.das.ufsc.br/), Universidade Federal de Santa Catarina
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), Technische Universität Clausthal
+* [Jomi F. Hübner](https://jomi.das.ufsc.br/), Universidade Federal de Santa Catarina
 * [Peter Novak](http://peter.aronde.net), Meandair
 
 
 Organizers
 ----------
 
-* [Tobias Ahlbrecht](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/academic-staff/tobias-ahlbrecht-msc),
-  [Technische Universität Clausthal](http://www.tu-clausthal.de/)
-* [Jürgen Dix](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/leader/prof-dr-juergen-dix),
-  [Technische Universität Clausthal](http://www.tu-clausthal.de/)
-* [Niklas Fiekas](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/academic-staff/niklas-fiekas-msc),
-  [Technische Universität Clausthal](http://www.tu-clausthal.de/)
-* [Tabajara Krausburg](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/academic-staff/tabajara-krausburg),
-  [Technische Universität Clausthal](http://www.tu-clausthal.de/) and [Pontifícia Universidade Católica do Rio Grande do Sul](http://www.pucrs.br/)
+* [Tobias Ahlbrecht](https://www.ifi-ci.tu-clausthal.de/members/academic-staff/tobias-ahlbrecht-msc),
+  [Technische Universität Clausthal](https://www.tu-clausthal.de/)
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix),
+  [Technische Universität Clausthal](https://www.tu-clausthal.de/)
+* [Niklas Fiekas](https://backscattering.de),
+  [Technische Universität Clausthal](https://www.tu-clausthal.de/)
+* [Tabajara Krausburg](https://www.ifi-ci.tu-clausthal.de/members/academic-staff/tabajara-krausburg),
+  [Technische Universität Clausthal](https://www.tu-clausthal.de/) and [Pontifícia Universidade Católica do Rio Grande do Sul](https://www.pucrs.br/)
 
 For more details please have a look at [www.ifi-ci.tu-clausthal.de](https://www.ifi-ci.tu-clausthal.de/).
 

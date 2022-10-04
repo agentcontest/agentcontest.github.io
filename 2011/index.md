@@ -29,7 +29,7 @@ Organizers
 
 * Tristan Behrens, [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
-* [Jomi Hübner](http://www.das.ufsc.br/~jomi/home.html), [Federal University of Santa Catarina](http://www.ufsc.br/),
+* [Jomi Hübner](https://jomi.das.ufsc.br/), [Federal University of Santa Catarina](http://www.ufsc.br/),
 * Michael Köster, [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * Federico Schlesinger, [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
