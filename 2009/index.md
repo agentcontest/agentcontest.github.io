@@ -26,11 +26,11 @@ The winner of this year's contest got  a cheque of **500 Euros** for Springer bo
 Organizers
 ----------
 
-* Tristan M. Behrens, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](http://www.uu.nl/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* Michael Köster, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Peter Novák](http://peter.aronde.net/), [http://www.tu-clausthal.de/](Clausthal University of Technology).
+* Tristan M. Behrens, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](https://www.uu.nl/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* Michael Köster, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Peter Novák](http://peter.aronde.net/), [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
 Aims and Scope
 --------------

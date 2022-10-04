@@ -7,12 +7,12 @@ permalink: /steering-committee/
 Members
 -------
 
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/),
-  [Clausthal University of Technology](http://tu-clausthal.de/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix),
+  [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Peter Novák](http://peter.aronde.net/),
-  [Delft University of Technology](http://www.tudelft.nl/),
-* [Jomi Hübner](http://jomi.das.ufsc.br/),
-  [Federal University of Santa Catarina](http://www.ufsc.br/).
+  [Delft University of Technology](https://www.tudelft.nl/),
+* [Jomi Hübner](https://jomi.das.ufsc.br/),
+  [Federal University of Santa Catarina](https://ufsc.br/).
 
 Former members
 --------------

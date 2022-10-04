@@ -31,18 +31,18 @@ The winner of the contest was awarded with a voucher for 500 EUR worth in books,
 Organizers
 ----------
 
-* Tristan Behrens, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* Michael Köster, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* Federico Schlesinger, [Clausthal University of Technology](http://www.tu-clausthal.de/).
+* Tristan Behrens, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* Michael Köster, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* Federico Schlesinger, [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
 Steering Committee
 ------------------
 
-* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](http://www.uu.nl/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Peter Novák](http://peter.aronde.net/), [Delft University of Technology](http://www.tudelft.nl/),
-* [Jomi Hübner](http://www.das.ufsc.br/~jomi/home.html), [Federal University of Santa Catarina](http://www.ufsc.br/),
+* [Mehdi Dastani](https://www.uu.nl/medewerkers/mmdastani), [Utrecht University](https://www.uu.nl/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Peter Novák](https://peter.aronde.net/), [Delft University of Technology](https://www.tudelft.nl/),
+* [Jomi Hübner](https://jomi.das.ufsc.br/), [Federal University of Santa Catarina](https://ufsc.br/),
 
 
 Aims and Scope

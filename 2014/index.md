@@ -93,11 +93,11 @@ Mars2014 Tournament_MAKoGOAL-DTU_2014-tournament-sim3 | 44070 | 60109
 Organizers
 ----------
 
-* Tobias Ahlbrecht, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* Federico Schlesinger, [Clausthal University of Technology](http://www.tu-clausthal.de/).
+* Tobias Ahlbrecht, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](http://www.tu-clausthal.de/),
+* Federico Schlesinger, [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
-Fore more details please have a look at [cig.in.tu-clausthal.de](http://cig.in.tu-clausthal.de/).
+Fore more details please have a look at [www.ifi-ci.tu-clausthal.de](https://www.ifi-ci.tu-clausthal.de/).
 
 Downloads
 ---------

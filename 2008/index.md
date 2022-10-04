@@ -23,10 +23,10 @@ The winner is JIAC-TNG from DAI Labor at Technische Universität Berlin.
 Organizers
 ----------
 
-* Tristan M. Behrens, [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](http://www.uu.nl/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/) , [Clausthal University of Technology](http://www.tu-clausthal.de/),
-* [Peter Novák](http://peter.aronde.net/), [Clausthal University of Technology](http://www.tu-clausthal.de/).
+* Tristan M. Behrens, [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/), [Utrecht University](https://www.uu.nl/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix) , [Clausthal University of Technology](https://www.tu-clausthal.de/),
+* [Peter Novák](http://peter.aronde.net/), [Clausthal University of Technology](https://www.tu-clausthal.de/).
 
 Aims and Scope
 --------------

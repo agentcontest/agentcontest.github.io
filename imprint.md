@@ -34,7 +34,7 @@ Organizers
 * [Tabajara Krausburg](https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/academic-staff/tabajara-krausburg),
   [Technische Universität Clausthal](http://www.tu-clausthal.de/) and [Pontifícia Universidade Católica do Rio Grande do Sul](http://www.pucrs.br/)
 
-For more details please have a look at [cig.in.tu-clausthal.de](http://cig.in.tu-clausthal.de/).
+For more details please have a look at [www.ifi-ci.tu-clausthal.de](https://www.ifi-ci.tu-clausthal.de/).
 
 Mailing list
 ------------

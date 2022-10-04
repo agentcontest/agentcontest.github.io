@@ -31,9 +31,9 @@ Organizers
 ----------
 
 * [Mehdi Dastani](http://www.cs.uu.nl/~mehdi/),
-  [Utrecht University](http://www.uu.nl/),
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/),
-  [Clausthal University of Technology](http://www.tu-clausthal.de/), and
+  [Utrecht University](https://www.uu.nl/),
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix),
+  [Clausthal University of Technology](https://www.tu-clausthal.de/), and
 * [Peter Novak](http://peter.aronde.net/), [Clausthal University of Technology](http://www.tu-clausthal.de/).
 
 Aims and Scope

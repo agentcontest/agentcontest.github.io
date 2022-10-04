@@ -32,7 +32,7 @@ Organizers
 This contest was organized by
 
 * [Mehdi Dastani](http://www.uu.nl/medewerkers/MMDastani), Utrecht University, and
-* [Jürgen Dix](http://www.in.tu-clausthal.de/divisions/cig/cigroot/members/leader/cigmember-dix/), Technical University of Clausthal.
+* [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), Technical University of Clausthal.
 
 Aim and Scope
 -------------

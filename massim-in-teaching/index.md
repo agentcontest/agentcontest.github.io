@@ -27,14 +27,14 @@ Below you will find an overview of the courses/projects we are aware of. (If you
   Held by Christopher-Eyk Hrabia und Stefan Fricke.
   **Python/ROS and MASSim** further developing the **agents-in-the-city scenario**.
 
-* Bachelor's project A.I., 2016, [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
+* Bachelor's project A.I., 2016, [Department of Informatics, Clausthal University of Technology](https://www.ifi-ci.tu-clausthal.de/).
   Held by Tobias Ahlbrecht, Jürgen Dix, and Niklas Fiekas.
   **C++/Goal/Jason** and MASSim using the **agents-in-the-city scenario**.
 
 * Multi-Agent Systems - Research & Teaching - Laboratory [Department of Applied Mathematics and Computer Science, Technical University of Denmark](https://people.compute.dtu.dk/jovi/MAS/)
   Held by [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/) 2009 to 2017
 
-* Course "Multi-Agent Systems I" at [Department of Informatics, Clausthal University of Technology](http://cig.in.tu-clausthal.de/).
+* Course "Multi-Agent Systems I" at [Department of Informatics, Clausthal University of Technology](https://www.ifi-ci.tu-clausthal.de/).
   Held by Tristan Behrens, Michael Köster, Federico Schlesinger, and Jürgen Dix.
   * In 2012: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2012](mas-BSc-1-up-SS2012.pdf).
   * In 2011: **Java** and MASSim. **Agents-on-mars scenario**. [TUC Slides 2011](mas-BSc-2011.pdf).
@@ -55,18 +55,18 @@ Below you will find an overview of the courses/projects we are aware of. (If you
 
 * Principles of multi-agent programming - PJ Multi Agent Contest, Bachelor course, 2010,
   [TU Berlin](http://www.tu-berlin.de/), [DAI-Labor](http://www.dai-labor.de/),
-  **[JIAC](http://www.jiac.de/agent_frameworks/jiac_v/)** and **[microJIAC](http://www.jiac.de/agent_frameworks/micro_jiac/)**.
+  **[JIAC](https://www.jiac.de/agent-frameworks/jiac-v/)** and **[microJIAC](https://www.jiac.de/agent-frameworks/microjiac/)**.
   Held by [Axel Hessler](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/axel.hessler) and
   [Marcel Patzlaff](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/marcel.patzlaff) using the **cows-and-cowboys scenario**.
 
 * Principles of multi-agent programming - PJ Multi Agent Contest, Bachelor course, 2009,
   [TU Berlin](http://www.tu-berlin.de/), [DAI-Labor](http://www.dai-labor.de/),
-  **[JIAC](http://www.jiac.de/agent_frameworks/jiac_v/)** and **[microJIAC](http://www.jiac.de/agent_frameworks/micro_jiac/)**.
+  **[JIAC](https://www.jiac.de/agent-frameworks/jiac-v/)** and **[microJIAC](https://www.jiac.de/agent-frameworks/microjiac/)**.
   Held by [Axel Hessler](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/axel.hessler) and
   [Tuguldur Erdene-Ochir](http://www.dai-labor.de/de/kompetenzzentren/act/mitarbeiter/erdene-ochir.tuguldur) using the **cows-and-cowboys scenario**.
 
 * MAS course at Faculdade de Ciencias e Tecnologia, Universidade Nova de Lisboa,
-  held twice by [Marco Alberti](http://pessoa.fct.unl.pt/m.alberti/) and [Joao Leite](http://centria.fct.unl.pt/~jleite/), [Martin Slota](http://slotik.info/) respectively.
+  held twice by [Marco Alberti](https://novaresearch.unl.pt/en/persons/marco-alberti) and [Joao Leite](https://www.di.fct.unl.pt/pessoas/docentes/joao-leite), [Martin Slota](https://slotik.info/) respectively.
   **Jason/Java** and MASSim using the **cows-and-cowboys scenario**.
 
 * MAS course at Agent Technology Center, Czech Technical University in Prague. Held by Michal Pechoucek, Michal Jakob, [Peter Novák](http://agents.felk.cvut.cz/).
