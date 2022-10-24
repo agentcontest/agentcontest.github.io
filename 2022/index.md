@@ -23,8 +23,8 @@ Contest
 
 Placement | Team | Total Score | Sources
 --- | --- | --- | ---
-1 | MMD | 30 |
-2 | GOALdigger | 22 |
+1 | MMD | 30 | [Zip](/2022/sources/MMD.zip)
+2 | GOALdigger | 22 | [Git](https://github.com/BenPapple/ai-GOALdigger)
 3 | FIT BUT | 19 |
 4 | GOAL-DTU | 9 |
 | LI(A)RA | 9 |
