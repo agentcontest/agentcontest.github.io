@@ -26,7 +26,7 @@ Placement | Team | Total Score | Sources
 1 | MMD | 30 | [Zip](/2022/sources/MMD.zip) [Git mirror](https://github.com/agentcontest/mapc2022-MMD)
 2 | GOALdigger | 22 | [Git](https://github.com/BenPapple/ai-GOALdigger)
 3 | FIT BUT | 19 | [Git](https://github.com/zborilf/deSouches)
-4 | GOAL-DTU | 9 |
+4 | GOAL-DTU | 9 | [Zip](/2022/sources/MAPC2022-GOAL-DTU.zip) [Git mirror](https://github.com/agentcontest/mapc2022-GOAL-DTU)
 | LI(A)RA | 9 | [Git](https://github.com/Liga-IA/liara-agents)
 
 ### Replays
