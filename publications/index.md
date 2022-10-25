@@ -33,7 +33,7 @@ Articles
 * Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
 * Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](http://www.springerlink.com/content/n412r60355226522/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
-* Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
+* Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](https://web.archive.org/web/20160422145702/http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
 
 Chapters in books
 -----------------
@@ -69,9 +69,9 @@ Talks
 
 * [EMAS](https://emas2020.in.tu-clausthal.de), Auckland (virtual) 2020. [Talk on underline](https://underline.io/lecture/86-multi-agent-programming-contest-2019).
 * MAPC Winner Ceremony, Delft 2012. [delft2012.pdf](delft2012.pdf).
-* [IJCAI-NRAC](http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
+* [IJCAI-NRAC](https://web.archive.org/web/20160624033008/http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
 * [ProMAS IX](http://inf.ufrgs.br/promas2011/), 2011. [promas2011-mapc.pdf](promas2011-mapc.pdf).
-* [CLIMA X](http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
+* [CLIMA X](https://web.archive.org/web/20140427082912/http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
 * [Planning in Multiagent Systems](http://www.dagstuhl.de/08461), Dagstuhl 2008. [dagstuhl08planning.pdf](dagstuhl08planning.pdf).
 * [Programming Multi-Agent Systems](http://www.dagstuhl.de/08361), Dagstuhl 2008. [dagstuhl2008-BehrensTristan.pdf](dagstuhl2008-BehrensTristan.pdf).
 
