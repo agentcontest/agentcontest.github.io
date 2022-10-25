@@ -42,7 +42,7 @@ Steering Committee
 * [Mehdi Dastani](https://www.uu.nl/medewerkers/mmdastani), [Utrecht University](https://www.uu.nl/),
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Peter Novák](https://peter.aronde.net/), [Delft University of Technology](https://www.tudelft.nl/),
-* [Jomi Hübner](https://jomi.das.ufsc.br/), [Federal University of Santa Catarina](https://ufsc.br/),
+* [Jomi Hübner](https://jomifred.github.io/), [Federal University of Santa Catarina](https://ufsc.br/),
 
 
 Aims and Scope
