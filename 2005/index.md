@@ -9,7 +9,7 @@ Overview
 This was the first agent contest, called the
 [CLIMA VI Contest](http://clima.deis.unibo.it/contest.html), organized within
 the [CLIMA VI workshop](http://clima.deis.unibo.it/), **June 27-29, 2005**
-at the City University London, UK ([report](http://www.springerlink.com/content/x94625u38l406k7h/)).
+at the City University London, UK ([report](https://link.springer.com/chapter/10.1007/11750734_21)).
 
 * Submission: May 20, 2005
 * Notification: May 27, 2005

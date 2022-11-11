@@ -11,7 +11,7 @@ Members
   [Clausthal University of Technology](https://www.tu-clausthal.de/),
 * [Peter Novák](http://peter.aronde.net/),
   [Delft University of Technology](https://www.tudelft.nl/),
-* [Jomi Hübner](https://jomi.das.ufsc.br/),
+* [Jomi Hübner](https://jomifred.github.io/),
   [Federal University of Santa Catarina](https://ufsc.br/).
 
 Former members

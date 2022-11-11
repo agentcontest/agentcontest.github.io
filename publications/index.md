@@ -29,11 +29,11 @@ Articles
 * Tobias Ahlbrecht et al.: [Multi-Agent Programming Contest 2013: The Teams and the Design of Their Systems](http://link.springer.com/chapter/10.1007/978-3-642-45343-4_22), EMAS@AAMAS 2013: 366-390 [mapc2013teams.pdf](mapc2013teams.pdf) [^mapc2013teams]
 * Köster, Michael, Federico Schlesinger, and Jürgen Dix. [The multi-agent programming contest 2012](http://link.springer.com/chapter/10.1007/978-3-642-38700-5_11), International Workshop on Programming Multi-Agent Systems. Springer Berlin Heidelberg, 2012. [mapc2012.pdf](mapc2012.pdf) [^mapc2012]
 * Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Hübner, Jomi and Köster, Michael and Novák, Peter and Schlesinger, Federico: [The Multi-Agent Programming Contest](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2439), AI Magazine, Volume 33, Number 4, pg 111-113, 2012.
-* Behrens, Tristan and Hindriks, Koen and Dix, Jürgen: [Towards an environment interface standard for agent platforms](http://www.springerlink.com/content/v10u63368k117354/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, 2011
-* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
-* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](http://www.springerlink.com/content/rt866042734363u8/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
-* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](http://www.springerlink.com/content/n412r60355226522/), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
-* Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
+* Behrens, Tristan and Hindriks, Koen and Dix, Jürgen: [Towards an environment interface standard for agent platforms](https://link.springer.com/article/10.1007/s10472-010-9215-9), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer, 2011
+* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi: [Editorial](https://link.springer.com/article/10.1007/s10472-010-9218-6), Annals of Mathematics and Artificial Intelligence, Volume 61, Springer Netherlands, 2010
+* Köster, Michael and Behrens, Tristan and Dix, Jürgen and Hübner, Jomi and Dastani, Mehdi and Novák, Peter: [Editorial](https://link.springer.com/article/10.1007/s10472-010-9218-6), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Köster, Michael and Novák, Peter: [The multi-agent programming contest from 2005-2010: From collecting gold to herding cows](https://link.springer.com/article/10.1007/s10472-010-9219-5), Annals of Mathematics and Artificial Intelligence, Volume 59, Springer Netherlands, 2010
+* Dix, Jürgen and Behrens, Tristan and Köster, Michael and Novák, Peter: [Agenten als Goldgräber und Cowboys](https://web.archive.org/web/20160422145702/http://www.kuenstliche-intelligenz.de/index.php?id=7778), KI - Zeitschrift Künstliche Intelligenz, Volume 23, 2009
 
 Chapters in books
 -----------------
@@ -44,11 +44,11 @@ Conference + workshop papers
 -----------------
 
 * Tobias Ahlbrecht, Jürgen Dix, Niklas Fiekas, Tabajara Krausburg: [Accept a Challenge: The Multi-Agent Programming Contest - Challenging Tasks and How to Deal with Them](https://link.springer.com/chapter/10.1007%2F978-3-030-66534-0_9). EMAS@AAMAS 2020: 129-143
-* Tristan Behrens, Michael Köster, Federico Schlesinger, Jürgen Dix und Jomi F. Hübner: [The Multi-agent Programming Contest 2011: A Résumé](http://www.springerlink.com/content/c81p265085n04754/), Lecture Notes in Computer Science, 2012, Volume 7217, Springer, 2012
-* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition: 4th Edition](http://www.springerlink.com/content/g54k45r8wvh46858/), Lecture Notes in Computer Science, Volume 5442, Springer, 2009
-* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition - 3rd edition](http://www.springerlink.com/content/jv23737805830r7v/), Lecture Notes in Artificial Intelligence, Springer, 2008
-* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The Second Contest on Multi-Agent Systems based on Computational Logic](http://www.springerlink.com/content/6301736r74120605/), Lecture Notes in Artificial Intelligence, Springer, 2007
-* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The first contest on multi-agent systems based on computational logic](http://www.springerlink.com/content/x94625u38l406k7h/), Lecture Notes in Artificial Intelligence, Volume 3900, Springer, 2006
+* Tristan Behrens, Michael Köster, Federico Schlesinger, Jürgen Dix und Jomi F. Hübner: [The Multi-agent Programming Contest 2011: A Résumé](https://link.springer.com/chapter/10.1007/978-3-642-31915-0_9), Lecture Notes in Computer Science, 2012, Volume 7217, Springer, 2012
+* Behrens, Tristan and Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition: 4th Edition](http://link.springer.com/10.1007%2F978-3-642-03278-3_14), Lecture Notes in Computer Science, Volume 5442, Springer, 2009
+* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [Agent Contest Competition - 3rd edition](http://link.springer.com/10.1007%2F978-3-540-79043-3_14), Lecture Notes in Artificial Intelligence, Springer, 2008
+* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The Second Contest on Multi-Agent Systems based on Computational Logic](https://link.springer.com/chapter/10.1007/978-3-540-69619-3_15), Lecture Notes in Artificial Intelligence, Springer, 2007
+* Dastani, Mehdi and Dix, Jürgen and Novák, Peter: [The first contest on multi-agent systems based on computational logic](https://link.springer.com/chapter/10.1007/11750734_21), Lecture Notes in Artificial Intelligence, Volume 3900, Springer, 2006
 
 Technical reports
 -----------------
@@ -69,9 +69,9 @@ Talks
 
 * [EMAS](https://emas2020.in.tu-clausthal.de), Auckland (virtual) 2020. [Talk on underline](https://underline.io/lecture/86-multi-agent-programming-contest-2019).
 * MAPC Winner Ceremony, Delft 2012. [delft2012.pdf](delft2012.pdf).
-* [IJCAI-NRAC](http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
+* [IJCAI-NRAC](https://web.archive.org/web/20160624033008/http://stavros.lostre.org/2010/11/12/organizing-nrac-2011/), Barcelona 2011. [IJCAI_11.pdf](IJCAI_11.pdf).
 * [ProMAS IX](http://inf.ufrgs.br/promas2011/), 2011. [promas2011-mapc.pdf](promas2011-mapc.pdf).
-* [CLIMA X](http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
+* [CLIMA X](https://web.archive.org/web/20140427082912/http://jadex.informatik.uni-hamburg.de/mates/bin/view/CLIMA/Home), 2009. [clima09.pdf](clima09.pdf).
 * [Planning in Multiagent Systems](http://www.dagstuhl.de/08461), Dagstuhl 2008. [dagstuhl08planning.pdf](dagstuhl08planning.pdf).
 * [Programming Multi-Agent Systems](http://www.dagstuhl.de/08361), Dagstuhl 2008. [dagstuhl2008-BehrensTristan.pdf](dagstuhl2008-BehrensTristan.pdf).
 

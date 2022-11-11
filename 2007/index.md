@@ -75,7 +75,7 @@ History
 This is the third such contest. After organizing the first two in association with [CLIMA](http://centria.di.fct.unl.pt/~clima/) conference series, the third edition is associated with [ProMAS 2007](http://www.cs.uu.nl/ProMAS/2007/) workshop.
 
 * [CLIMA VII Contest](/2006/), with CLIMA VII/AAMAS 2006, May 8 2006, Future University, Hakodate, Japan ([report](/publications/ifi0613dastani.pdf))
-* [CLIMA VI Contest](/2005/), with CLIMA VI workshop, June 27-29, 2005, City University London, UK ([report](http://www.springerlink.com/content/x94625u38l406k7h/?p=65d93f9b62724b8891b1fa698746ef95&pi=7))
+* [CLIMA VI Contest](/2005/), with CLIMA VI workshop, June 27-29, 2005, City University London, UK ([report](https://link.springer.com/chapter/10.1007/11750734_21))
 
 Participation Requirements
 --------------------------

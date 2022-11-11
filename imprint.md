@@ -18,7 +18,7 @@ Steering Committee
 ------------------
 
 * [Jürgen Dix](https://www.ifi-ci.tu-clausthal.de/members/leader/prof-dr-juergen-dix), Technische Universität Clausthal
-* [Jomi F. Hübner](https://jomi.das.ufsc.br/), Universidade Federal de Santa Catarina
+* [Jomi F. Hübner](https://jomifred.github.io/), Universidade Federal de Santa Catarina
 * [Peter Novak](http://peter.aronde.net), Meandair
 
 
