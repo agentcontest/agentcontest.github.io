@@ -180,7 +180,7 @@ published (as the [previous editions](https://link.springer.com/conference/mapc)
 
 Authors should consult Springer’s [authors’ guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates for the preparation of their papers. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid?wt_mc=Other.Other.1.AUT642.ORCID+proceedings+pilot+2017&utm_medium=other&utm_source=other&utm_content=8232017&utm_campaign=1_barz01_orcid+proceedings+pilot+2017) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
-- Tentative submission deadline: 18 November 2022
+- Strict submission deadline: 18 December 2022
 - Submission system: [EquinOCS](https://equinocs.springernature.com/service/MAPC2022) (click the small *Enter Service* button)
 
 Please answer and append the [questionnaire](questions.tex) to your team description paper. Also, please send us your questionnaire responses (only!) until 14 October 2022.
