@@ -83,6 +83,13 @@ Time (UTC+2/CEST) | agentcontest1 | agentcontest2
 15:00 | GOAL-DTU vs. FIT BUT | MMD vs. LI(A)RA
 ~17:00 | Watch party |
 
+### Configuration
+
+The following parameters were used in the contest matches:
+- [Sim 1](contest1.json)
+- [Sim 2](contest2.json)
+- [Sim 3](contest3.json)
+
 Timeline
 --------
 
