@@ -9,6 +9,10 @@ layout: page
 Our MASSim platform has been used extensively in teaching.
 Below you will find an overview of the courses/projects we are aware of. (If you used MASSim or the MAPC in your teaching, we would be happy to include your entry as well!)
 
+* Course ["Software Agents and Multi-Agent Systems 2023"](https://www.abdn.ac.uk/registry/courses/postgraduate/2022-2023/computing_science/cs551k) in the [MSc AI programme](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1034/artificial-intelligence/) at [University of Aberdeen](https://www.abdn.ac.uk/), Aberdeen, United Kingdom.
+  Held by [Rafael C. Cardoso](https://rafaelcaue.github.io/).
+  Using [Jason](https://jason.sourceforge.net/) in the Agents Assemble scenario (2019).
+
 * We were invited to give a lecture and a shourt course at [WESAAC 2021](https://wesaac.ufsc.br/2021/).
   * It looks like the lecture has been [recorded](https://www.youtube.com/watch?v=HgNlfKm7YdQ).
   * The slides of the lecture are [here](./wesaac_lecture_slides.zip) (you need a PDF reader that can play videos).
