@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No news
+title: MAPC 2022 Publication
 date: 2023-08-30 10:00:00 +0200
 author: MAPC organizers
 read_more: false
