@@ -4,6 +4,14 @@ title: The 16th edition of the Multi-Agent Programming Contest
 permalink: /2022/
 ---
 
+Publication
+-----------
+
+<div class="actions">
+  <a href="https://link.springer.com/book/10.1007/978-3-031-38712-8"><strong>MAPC 2022 Publication</strong></a>
+</div>
+
+
 The Scenario: Agents Assemble III
 ---------------------------------
 
@@ -15,11 +23,6 @@ The scenario is a revision of the previous editions, [2019](/2019/) and [2020/21
 ![Agents Assemble](/2019/banner.png){:width="630" height="342"}
 
 Also see the official [Call for Participation](cfp.txt).
-
-Publication
------------
-
-The book about the contest containing summaries of the tournament itself and each team's solution is available from [Springer](https://link.springer.com/book/10.1007/978-3-031-38712-8).
 
 
 Contest
