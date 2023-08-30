@@ -16,6 +16,12 @@ The scenario is a revision of the previous editions, [2019](/2019/) and [2020/21
 
 Also see the official [Call for Participation](cfp.txt).
 
+Publication
+-----------
+
+The book about the contest containing summaries of the tournament itself and each team's solution is available from [Springer](https://link.springer.com/book/10.1007/978-3-031-38712-8).
+
+
 Contest
 -------
 
